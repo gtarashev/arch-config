@@ -74,8 +74,10 @@ keys = [
     # spawn a command (EzKey)
     EKey("M-r", lazy.spawn(app_launcher)),
 
-    # spawn a web browser
+    # spawn a web browser (+ other websites) 
     EKey("M-b", lazy.spawn(browser)),
+    EKey("M-S-g", lazy.spawn(browser + " github.com")),
+    EKey("M-S-y", lazy.spawn(browser + " youtube.com")),
 
     # FIXING SPECIAL KEYS
     # built in volume keys working

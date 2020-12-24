@@ -23,7 +23,4 @@ PS1='[\u@\h \W]\$ '
 alias ls="exa"
 
 # manmenu
-alias manmenu="man -k . | dmenu -i -l 30 | awk '{print $1}' | xargs man -Tpdf | zathura -"
-
-# update alias
-alias update="sudo pacman -Syyy && sudo pacman -Syu"
+alias manmenu="Scripts/manmenu"
