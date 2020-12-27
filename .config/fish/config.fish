@@ -5,6 +5,6 @@ set fish_greeting
 neofetch
 
 # set up powerline
-function fish_prompt
-    powerline-shell --shell bare $status
-end
+# function fish_prompt
+#     powerline-shell --shell bare $status
+# end
