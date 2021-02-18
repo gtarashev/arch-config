@@ -1,0 +1,3 @@
+.temp
+time curl -s "api.openweathermap.org/data/2.5/weather?q=London&appid=c1e9090a1ff3c77bf2f6aa3cb1496768" | jq -r '.temp'
+
