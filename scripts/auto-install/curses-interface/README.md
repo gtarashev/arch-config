@@ -9,7 +9,7 @@ For now, git clone the directory then compile with gcc.
 To use just run the compiled main program then go through the menu set up
 
 ## TODO
-				- User set up
-				- DWM set up
-				- program installation
-				- zsh set up
+  - User set up
+  - DWM set up
+  - program installation
+  - zsh set up
