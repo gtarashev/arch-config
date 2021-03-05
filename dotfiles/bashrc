@@ -1,0 +1,15 @@
+# alias
+# update and remove orphaned packages
+alias update="sudo pacman -Syu | sudo pacman -Rdds \"$(pacman -Qdt | cut -d ' ' -f 1)\" --color always"
+
+# install package
+alias install="sudo pacman -Sy --color always"
+
+# remove package
+alias remove="sudo pacman --color always -R || sudo pacman -Rdd --color always"
+
+# search for package (local)
+alias search-local="pacman --color always -Qs"
+
+# search for package (remote)
+alias search-remote="sudo pacman -Ss --color always"
