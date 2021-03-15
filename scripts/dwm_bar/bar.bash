@@ -23,7 +23,7 @@ while :; do
     
     echo "$rxcurrent $txcurrent" > "$logfile"
 
-    xsetroot -d "$DISPLAY" -name "$net | 🔋 $battery% | 📅 $curr_date | ⏰  $curr_time"
+    xsetroot -d "$DISPLAY" -name "$net | 🔋 $battery% | 📅 $curr_date | ⏰ $curr_time"
     counter=$(expr $counter + 1)
     sleep 2s
 done
