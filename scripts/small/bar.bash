@@ -15,7 +15,7 @@ while :; do
     rxcurrent="$(cat /sys/class/net/wlp2s0/statistics/rx_bytes)"
     txcurrent="$(cat /sys/class/net/wlp2s0/statistics/tx_bytes)"
     prevdata="$(cat "$logfile")"
-    
+
     # get up diff
     net="$(printf "🔻 %sKib/s 🔺 %sKib/s" \
     "$(((rxcurrent-${prevdata%% *})/1024))" \
