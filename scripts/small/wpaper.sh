@@ -1,4 +1,7 @@
 #!/bin/sh
 # change current wallpaper and make it default
-xwallpaper --zoom $1
-ln -fLs $1 $HOME/pictures/wallpapers/wallpaper
+f="$(readlink -f $1)" &&
+xwallpaper --zoom $f &&
+echo "Wallpaper changed." &&
+ln -fLs $f $HOME/pictures/wallpapers/wallpaper &&
+echo "Image set to default."
