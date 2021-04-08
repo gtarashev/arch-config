@@ -1,0 +1,7147 @@
+clear
+ls
+clear
+ls
+doas pacman -Syu
+clear
+ls
+clear
+pacman -Q
+clear
+doas pacman -Sy mupdf
+doas pacman -Syu
+doas pacman -S speedtest-cli
+migspeed
+doas pacman -Rdd speedtest-cli
+clear
+ls
+cd scripts
+ls
+clear
+ls
+echo $GROU{
+echo $GROUP
+echo $GROUPS
+cat /etc/group
+cat /etc/group | cut -d ":" -f 1
+time (cat /etc/group | cut -d ":" -f 1)
+time cat /etc/group
+clear
+ls
+cd auto-install
+ls
+cd bash-script
+ls
+vi userformat.bash
+time cat /etc/group | tr '\n' ,
+vi ~/.zshrc
+cat /etc/group | cut -d ":" -f 1 | tr \n ,
+cat /etc/group | cut -d ":" -f 1
+cat /etc/group | cut -d ":" -f 1 | tr "\n" ","
+echo "{ $(cat /etc/group | cut -d ":" -f 1 | tr "\n" ",")%, }"
+echo $(cat /etc/group | cut -d ":" -f 1 | tr "\n" ",")
+echo $(cat /etc/group | cut -d ":" -f 1 | tr "\n" ",")%,
+echo $(cat /etc/group | cut -d ":" -f 1 | tr "\n" ",")
+cd scripts/auto-install/bash-script
+vi userformat.bash
+clear
+ls
+cd ..
+ls
+mv bash-script/userformat.bash curses-interface/cursesTrial.c .
+ls
+git rm bash-script/ curses-interface/
+git rm -r bash-script/ curses-interface/
+git commit -m "Decided to merge the ncurses and bash scripts together"
+git push
+clear
+ls
+cd documents/CA
+ls
+cd ecm1410-700028245-ca2
+ls
+java MainMenu
+vi MainMenu.
+vi MainMenu.java
+ls
+clear
+ls
+mkdir 700028245
+ls
+cd 700028245
+mkdir src doc
+ls
+mkdir ca2 res
+ls
+mv doc res src ca2
+ls
+cd ca2
+clear
+ls
+mv ../../MainMenu.java BookingApp.java
+ls
+mv BookingApp.java src
+ls
+cd src
+ls
+vi BookingApp.java
+ls
+ls Downloads
+cd downloads
+ls
+unzip week7_code_from_videos.zip
+ls
+vi Shape.java
+vi Rectangle.java
+javac BookingApp.java
+vi Rectangle.java
+vi BookingApp.java
+javac BookingApp.java
+vi BookingApp.java
+javac BookingApp.java
+java BookingApp
+vi BookingApp.java
+java BookingApp
+javac BookingApp.java
+java BookingApp
+vi BookingApp.java
+clear
+ls
+vi Room.java
+ls
+cd documents/CA/ecm1410-700028245-ca1/ecm1410/700028245/ca1/src
+ls
+cta Module
+cat Module.java
+javac Room.java
+vi Room.java
+javac Room.java
+vi BookingApp.java
+javac BookingApp.java
+ls
+vi BookingApp.java
+javac BookingApp.java
+vi BookingApp.java
+javac BookingApp.java
+ls
+vi Room.java
+vi BookingApp.java
+javac BookingApp.java
+java BookingApp
+vi BookingApp.java
+ls
+cd documents/CA/ecm1410-700028245-ca2/700028245/ca2/src
+ls
+vi Room.java
+javac BookingApp.java
+java BookingApp
+vi BookingApp.java
+clear
+ls
+vi Room.java
+javac Room.java
+javac BookingApp.java
+clear
+ls
+clear
+ls
+vi Assistant.java
+ls
+vi .config/nvim/init.vim
+doas pacman -S latex
+doas pacman -S tex
+doas pacman -S pandoc
+doas pacman -S pandoc mupdf
+clear
+ip link
+ping -c 3 google.com
+ip link
+reboot
+startx
+cd documents/CA/ecm1410-700028245-ca2/700028245/ca2/src
+ls
+clear
+vi Assistant.java
+javac Assistant.java
+vi Assistant.java
+javac Assistant.java
+vi Assistant.java
+javac Assistant.java
+vi Assistant.java
+vi UniversityResources.java
+clear
+kill -9 -1
+startx
+cd documents/CA/ecm1410-700028245-ca2/700028245/ca2/src
+ls
+vi Assistant.java
+javac Assistant.java
+vi Assistant.java
+javac Assistant.java
+vi Assistant.java
+javac Assistant.java
+vi BookingApp.
+vi BookingApp.java
+javac BookingApp.java
+java BookingApp
+vi Assistant.java
+javac Assistant.java
+java BookingApp
+vi Assistant.java
+javac Assistant.java
+java BookingApp
+vi Assistant.java
+javac Assistant.java
+java BookingApp
+vi Assistant.java
+javac Assistant.java
+java BookingApp
+vi Assistant.java
+javac Assistant.java
+java BookingApp
+vi Assistant.java
+java BookingApp
+vi Assistant.java
+javac Assistant.java
+java BookingApp
+vi Assistant.java
+vi BookingApp.
+vi BookingApp.java
+javac Assistant.java
+java  BookingApp
+vi Assistant.java
+vi BookingApp.
+vi BookingApp.java
+javac BookingApp.java
+java BookingApp
+vi Assistant.
+vi Assistant.java
+vi BookingApp.java
+vi Assistant.java
+vi BookingApp.java
+javac Assistant.java
+javac BookingApp.java
+java BookingApp
+vi Assistant.java
+javac Assistant.java
+java BookingApp
+clear
+ls
+vi UniversityResources.java
+javac UniversityResources.java
+mv UniversityResources.java UniversityResource.java
+vi UniversityResource.java
+javac UniversityResource.java
+vi BookingApp.
+vi BookingApp.java
+javac BookingApp.java
+java BookingApp
+javac BookingApp.java
+vi BookingApp.java
+javac BookingApp.java
+java BookingApp
+vlear
+clear
+vi UniversityResource.java
+javac UniversityResource.java
+vi UniversityResource.java
+javac UniversityResource.java
+vi UniversityResource.java
+javac UniversityResource.java
+vi UniversityResource.
+vi UniversityResource.java
+javac UniversityResource.java
+vi UniversityResource.
+vi UniversityResource.java
+javac UniversityResource.java
+vi BookingApp.
+vi BookingApp.java
+javac BookingApp.java
+java BookingApp
+vi BookingApp.java
+javac BookingApp.java
+java BookingApp
+vi UniversityResource.
+vi UniversityResource.java
+javac UniversityResource.java
+vi UniversityResource.java
+javac UniversityResource.java
+vi BookingApp.
+vi BookingApp.java
+javac BookingApp.java
+java BookingApp
+vi BookingApp.java
+javac BookingApp.java
+vi BookingApp.java
+javac BookingApp.java
+vi BookingApp.java
+javac BookingApp.java
+java BookingApp
+clear
+ls
+as
+help as
+whatis as
+clear
+l
+sl
+vlear
+clear
+l
+vi BookableRoom.java
+javac BookableRoom.java
+vi BookableRoom.java
+clear
+javac BookableRoom.java
+ls
+vi Room.java
+javac Room.java
+vi BookableRoom.java
+javac BookableRoom.java
+vi BookableRoom.java
+javac BookableRoom.java
+vi BookableRoom.java
+clear
+ls
+javac BookableRoom.java
+vi BookableRoom.java
+clear
+ls
+javac BookableRoom.java
+vi BookableRoom.java
+vim .zshrc
+lout
+startx
+cd documents/CA/ecm1410-700028245-ca2/700028245/ca2/src
+clear
+ls
+vi BookableRoom.java
+cd documents/CA/ecm1410-700028245-ca2/700028245/ca2/src
+clear
+vi BookableRoom.java
+javac BookableRoom.java
+vi BookableRoom.java
+javac BookableRoom.java
+javac Room.java
+javac BookableRoom.java
+vi BookableRoom.java
+javac BookableRoom.java
+vi Room.
+vi Room.java
+javac Room
+javac Room.java
+javac BookableRoom.java
+clear
+vi BookableRoom.java
+javac BookableRoom.java
+vi BookableRoom.java
+javac BookableRoom.java
+clear
+vi BookableRoom.
+vi BookableRoom.java
+lout
+startx
+time neofetch
+doas pacman -S neofetch
+time neofetch
+clear
+time neofetch
+clear
+time neofetch
+ls
+clear
+for i in (seq 1000) do\
+printf "hello"
+for i in (seq 1000) do\
+printf "hello" done
+for i in (seq 1000) do; \
+printf "hello" done
+for seq 1000 ; do printf "hello\n" ; done
+for (seq 1000) ; do printf "hello\n" ; done
+for `seq 1000` ; do printf "hello\n" ; done
+for i in $(seq 1000) ; do printf "hello\n" ; done
+time (for i in $(seq 1000) ; do printf "hello\n" ; done)
+ls
+time (for i in $(seq 1000) ; do printf "hello\n" ; done)
+time (for i in $(seq 1000) ; do echo "hello" ; done)
+clear
+five=5
+if [ five == 5 ] ; then echo "right" ; fi
+r
+if [ five == 5 ] ; then echo "right" ; fi
+clear
+ls
+cd /te
+cd /temp
+ls
+ls /
+cd /tmp
+ls
+mkdir test
+cd test
+clear
+cd /tmp/test
+clear
+ls
+clear
+vi test.bash
+five=5
+vi test.bash
+chmod 755 test.bash
+./test.bash
+clear
+time ( for i in $(seq 10000); do ./test.bash; done )
+man echo
+time ( for i in $(seq 10000); do ./test.bash; done )
+cd 
+clear
+ls
+clear
+ls
+clear
+ls
+cd github/arch-config
+git commit -m "updating any changes, cant remember any" 
+clear
+git push
+clear
+cd 
+clear
+ls
+clear
+vi .config/nvim/init.vim
+pfetch
+neofetch
+clear
+vi .config/nvim/init.vim
+clear
+ls
+cd .config/nvim
+clear
+ls
+cd vim-plug
+ls
+vi plugins.vim
+cd ..
+ls
+vi init.vim
+clear
+ls
+vi latex.tex
+pdflatex latex.tex
+mupdf latex.pdf
+cd .config/nvim
+mupdf latex.pdf
+zathura latex.pdf
+vi latex.tex
+pdflatex latex.tex
+vi latex.tex
+pdflatex latex.tex
+vi latex.tex
+pdflatex latex.tex
+vi init.vim
+vi latex.tex
+cd .config/nvim
+clear
+pdflatex latex.tex
+ls
+clear
+ls
+cd .config/nvim
+clear
+ls
+rm -rf latex*
+ls
+clear
+vi init.vim
+vi something.java
+vi init.vim
+vi s.tex
+vi init.vim
+vi s.tex
+vi init.vim
+shellcheck
+doas pacman -S shellcheck
+doas pacman -Syu
+doas pacman -S shellcheck
+clear
+shellcheck ~/scripts/dmenumanselect.sh
+clear
+ls
+vi init.vim
+vi something.tex
+vi init.vim
+vi something.tex
+vi init.vim
+clear
+lout
+startx
+ls
+clear
+vim
+cd .config/nvim/
+vi init.vim
+clear
+vi init.vim
+ls
+vi init.vim
+vi s.java
+vi init.vim
+vi s.java
+javac s.java
+rm -rf s.java
+clear
+ls
+vi init.vim
+vi s.java
+vi init.vim
+clear
+vi s.java
+vi init.vim
+vi s.java
+vi init.vim
+clear
+doas pacman -S teams
+paru teams
+clear
+doas pacman -S zoom
+paru zoom
+clear
+ls
+mkdir templates
+cd templates
+clear
+ls
+vi skeleton.sh
+cd ..
+clear
+ls
+vi init.vim
+vi s.sh
+vi init.vim
+vi s.sh
+vi init.vim
+vi s.sh
+vi init.vim
+ls
+vi s.sh
+ls
+clear
+cd templates
+vi skeleton.tex
+clear
+ls
+cd ..
+clear
+ls
+vi init.vim
+cd templates
+vi skeleton.tex
+cd ..
+ls
+vi init.vim
+vi s.tex
+ls
+ls templates
+vi init.vim
+vi s.tex
+pdflatex s.tex
+zathura s.pdf
+clear
+ls
+vi init.vim
+vi s.tex
+cd .config/nvim
+clear
+ls
+zathura s.pdf
+vi init.vim
+vi s.tex
+rm -rf s.*
+ls
+clear
+vi lahdljashd.tex
+ls
+vi .config/nvim
+vi lahdljashd.tex
+fg
+ls
+zathura lahdljashd.pdf
+pdflatex lahdljashd.tex
+fb
+fg
+clear
+rm -rf lahdljashd.*
+ls
+clear
+vi s.tex
+gf
+gb
+fg
+pdflatex s.tex
+zathura s.pdf
+fg
+pdflatex s.tex
+fg
+rm -rf s.*
+ls
+clear
+ls
+clear
+exit
+vi s.java
+vi .config/nvim/init.vim
+vi s.java
+ls
+rm s.java
+clear
+htop
+df -kh
+transmission-cli "magnet:?xt=urn:btih:A29D1368678739DF320D1B2E5599177DB3EE6881&dn=SNOWFALL%20-%20Complete%20Season%201%20S01%20(2017)%20-%201080p%20AMZN%20Web-DL%20x264&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
+nordvpn c Malaysia
+doas systemctl start nordvpnd
+nordvpn c Malaysia
+doas nordvpn c Malaysia
+clear
+man groupadd 
+man usermod
+usermod jojito -aG nordvpn
+doas usermod jojito -aG nordvpn
+clear
+nordvpnd
+nordvpn c Bulgaria
+paru
+uname -a
+uname -r
+doas systemctl enable --now nordvpnd
+paru
+groupadd -r nordvpn
+gpasswd -a jojito nordvpn
+doas gpasswd -a jojito nordvpn
+doas systemctl enable --now nordvpnd
+nordvpn login
+nordvpn set technology nordlynx
+paru nordvpn
+doas pacman -R nordvpn-bin 
+paru nordvpn
+clear
+doas systemctl enable --now nordvpnd
+nordvpn login
+systemctl --failed
+paru
+clear
+doas pacman -Syu
+ls
+cd Downloads
+ls
+cd SNOWFALL\ -\ Complete\ Season\ 1\ S01\ \(2017\ Series\)\ -\ 1080p\ AMZN\ Web-DL\ x264
+ls
+cd ../..
+clear
+ls
+cd Videos
+ls
+mv ~/Downloads/* .
+ls
+mv As\ Above,\ So\ Below\ \(2014\)\ \[1080p\] As-Above,-So-Below
+mv SNOWFALL\ -\ Complete\ Season\ 1\ S01\ \(2017\ Series\)\ -\ 1080p\ AMZN\ Web-DL\ x264 Snowfall-S01
+ls
+clear
+cd Snowfall-S01
+ls
+cd Other\ CRIME-Related\ SHOWS,\ Here
+ls
+cd ..
+rm -rf Other\ CRIME-Related\ SHOWS,\ Here
+clear
+ls
+rm \[TGx\]Downloaded\ from\ torrentgalaxy.to\ .txt
+rm Torrent\ Description\ \(READ\ Me\).txt
+mpv Snowfall\ -\ S01\ E01\ -\ Pilot\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+lotu
+lout
+startx
+ls
+clear
+ls
+cd Videos
+ls
+cd Snowfall-S01
+ls
+mpv Snowfall\ -\ S01\ E01\ -\ Pilot\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+doas pacman -Syu
+clear
+paru
+clear
+uname -r
+uname -a
+clear
+ls
+mpv Snowfall\ -\ S01\ E02\ -\ Make\ Them\ Birds\ Fly\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+lout
+startx
+cd Videos
+cd Snowfall-S01
+clear
+ls
+mpv Snowfall\ -\ S01\ E03\ -\ Slow\ Hand\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+mpv Snowfall\ -\ S01\ E04\ -\ Trauma\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+mpv Snowfall\ -\ S01\ E05\ -\ Seven-Four\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+df -kh 
+clear
+transmission-cli "magnet:?xt=urn:btih:3BF82EBDA6C84C49E060AE3C6E915BA6A8898697&dn=SNOWFALL%20-%20Complete%20Season%202%20S02%20(2018)%20-%201080p%20AMZN%20Web-DL%20x264&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
+mpv Snowfall\ -\ S01\ E06\ -\ A\ Long\ Time\ Coming\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+mpv Snowfall\ -\ S01\ E07\ -\ Cracking\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+cd Videos/Snowfall-S01
+ls
+cat Snowfall\ -\ S01\ E01\ -\ Pilot\ \(1080p\ -\ AMZN\ Web-DL\).srt
+mpv Snowfall\ -\ S01\ E08\ -\ Baby\ Teeth\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+transmission-cli "https://zamunda.net/magnetlink/download_go.php\?id\=455231\&m\=x"
+mpv Snowfall\ -\ S01\ E09\ -\ Story\ of\ a\ Scar\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+mv Downloads/SNOWFALL\ -\ Complete\ Season\ 2\ S02\ \(2018\ Series\)\ -\ 1080p\ AMZN\ Web-DL\ x264 Videos/Snowfall-S02
+clear
+uname -r
+reboot
+startx
+uname -r
+clear
+uname -r
+clear
+cd Videos/Snowfall-S01
+ls
+mpv Snowfall\ -\ S01\ E10\ -\ The\ Rubicon\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+ls
+cd ../Snowfall-S02
+ls
+mpv Snowfall\ -\ S02\ E01\ -\ Sightlines\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+mpv Snowfall\ -\ S02\ E02\ -\ The\ Day\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+mpv Snowfall\ -\ S02\ E03\ -\ Prometheus\ Rising\ \(1080p\ RP\ -\ AMZN\ Web-DL\).mp4
+jupyter-lab
+groff
+man groff
+clear
+ls
+cd documents
+ls
+rm -rf last\ exam.*
+ls
+cat useful.txt
+rm -rf useful.txt
+clear
+ls
+cd pc_
+ls
+cd ..
+clear
+ls
+cd desktop
+ls
+cd ..
+clear
+ls
+cd Exeter/ECM1416
+ls
+mkdir week 4
+clear
+ls
+rm -rf week 4
+clear
+ls
+mkdir "week 4"
+l
+clear
+cd week\ 4
+clear
+ls
+clear
+groff -ms groff.ms > groff.pdf
+clear
+ls
+groff -ms groff.ms -T pdf > groff.pdf
+zathura groff.pdf
+vi groff.ms
+groff -ms groff.ms -T pdf > groff.pdf
+zathura groff.pdf
+vi groff.ms
+clear
+ls
+mkdir groff
+mkdir notes
+clear
+ls
+mv groff.ms notes
+mv notes/groff.ms groff
+mv groff.pdf notes
+clear
+ls
+l groff
+clear
+l
+l -R
+clear
+ls
+cd groff
+ls
+vi groff.ms
+cd documents/Exeter/ECM1416/week\ 4
+ls
+cd notes
+zathura groff.pdf
+ls
+clear
+ls
+clear
+cd documents/Exeter/ECM1416/week\ 4
+cd groff
+clear
+ls
+clear
+ls
+cd .config/nvim
+clear
+ls
+cd templates
+clear
+ls
+vi skeleton.ms
+clear
+cd ..
+vi init.vim
+ls
+clear
+ls
+vi groff.ms
+clear
+vi "Differentiation and Taylor approximations".ms
+clear
+ls
+groff -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
+clear
+ls
+zathura Differentiation\ and\ Taylor\ approximations.pdf
+groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
+clear
+groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
+vi "Differentiation and Taylor approximations".ms
+groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
+clear
+groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
+cd .config/nvim/templates
+vi skeleton.ms
+groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
+clear
+groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
+clear
+ls
+cd .config
+ls
+mkdir groff
+cd groff
+vi macros
+groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
+cat ~/.config/groff/macros
+groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
+clear
+cd documents/Exeter/ECM1416/week\ 4/groff
+clear
+cd documents/Exeter/ECM1416/week\ 4/groff
+groff -t -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
+groff -G -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
+groff -t -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
+groff -tC -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
+groff -t -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
+doas pacman -S gnuplot
+clear
+gnuplot
+groff -t -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
+groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
+ls
+cd documents/Exeter/ECM1416/week\ 4/groff
+ls
+xdg-open 1\ over\ x.png
+groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
+zathura Differentiation\ and\ Taylor\ approximations.pdf
+groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
+clear
+groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
+clear
+man groff
+groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
+clear
+ls
+rm 1\ over\ x.png
+clear
+ls
+rm groff.ms
+clear
+ls
+vi "Scalar and Vector Fields".ms
+groff -e -ms "Scalar and Vector Fields.ms" -T pdf > ../notes/"Scalar and Vector Fields.pdf"
+zathura Scalar\ and\ Vector\ Fields.pdf
+groff -e -ms "Scalar and Vector Fields.ms" -T pdf > ../notes/"Scalar and Vector Fields.pdf"
+man geqn
+man groff_eqn
+clear
+man eqn
+groff -e -ms "Scalar and Vector Fields.ms" -T pdf > ../notes/"Scalar and Vector Fields.pdf"
+cd documents/Exeter/ECM1416/week\ 4/notes
+clear
+zathura Differentiation\ and\ Taylor\ approximations.pdf
+zathura Scalar\ and\ Vector\ Fields.pdf
+groff -e -ms "Scalar and Vector Fields.ms" -T pdf > ../notes/"Scalar and Vector Fields.pdf"
+groff -e -mom "Scalar and Vector Fields.ms" -T pdf > ../notes/"Scalar and Vector Fields.pdf"
+groff -e -ms "Scalar and Vector Fields.ms" -T pdf > ../notes/"Scalar and Vector Fields.pdf"
+manmenu
+groff -e -ms "Scalar and Vector Fields.ms" -T pdf > ../notes/"Scalar and Vector Fields.pdf"
+clear
+cd ../..
+clear
+mkdir -p week\ 5/groff week \5/notes
+clear
+ls
+mkdir -p week\ 5/groff week\ 5/notes
+clear
+ls
+rm -rf 5 week
+clear
+ls
+cd week\ 5
+ls
+cd groff
+clear
+cd ../../week\ 5/notes
+cd ../../week\ 5/groff
+clear
+vi "Probability: basic concepts".ms
+l
+groff -e -ms "Probability: basic concepts.ms" -T pdf > ../notes/"Probability: basic concepts.pdf"
+clear
+zathura Probability:\ basic\ concepts.pdf
+groff -e -ms "Probability: basic concepts.ms" -T pdf > ../notes/"Probability: basic concepts.pdf"
+zathura Probability:\ basic\ concepts.pdf
+clear
+ls
+cat Probability:\ basic\ concepts.pdf
+clear
+ls
+zathura Probability:\ basic\ concepts.pdf
+groff -e -ms "Probability: basic concepts.ms" -T pdf > ../notes/"Probability: basic concepts.pdf"
+zathura Probability:\ basic\ concepts.pdf
+mupdf Probability:\ basic\ concepts.pdf
+cat ../../week\ 4/groff/Scalar\ and\ Vector\ Fields.ms
+groff -e -ms "Probability: basic concepts.ms" -T pdf > ../notes/"Probability: basic concepts.pdf"
+mupdf Probability:\ basic\ concepts.pdf
+zathura Probability:\ basic\ concepts.pdf
+zathura ../../week\ 4/notes/Scalar\ and\ Vector\ Fields.pdf
+groff -e -ms "Probability: basic concepts.ms" -T pdf > ../notes/"Probability basic concepts.pdf"
+ls
+zathura Probability
+zathura Probability\ basic\ concepts.pdf
+rm -rf Probability:\ basic\ concepts.pdf
+clear
+ls
+zathura Probability\ basic\ concepts.pdf
+groff -e -ms "Probability: basic concepts.ms" -T pdf > ../notes/"Probability basic concepts.pdf"
+mpv Snowfall\ -\ S02\ E04\ -\ Jingle\ Bell\ Rock\ \(1080p\ RP\ -\ AMZN\ Web-DL\).mp4
+mpv Snowfall\ -\ S02\ E05\ -\ Serpiente\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+mpv Snowfall\ -\ S02\ E06\ -\ The\ Offer\ \(1080p\ RP\ -\ AMZN\ Web-DL\).srt
+mpv Snowfall\ -\ S02\ E06\ -\ The\ Offer\ \(1080p\ RP\ -\ AMZN\ Web-DL\).mpv
+mpv Snowfall\ -\ S02\ E06\ -\ The\ Offer\ \(1080p\ RP\ -\ AMZN\ Web-DL\).mp4
+mpv Snowfall\ -\ S02\ E07\ -\ The\ World\ Is\ Yours\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+transmission-cli "magnet:?xt=urn:btih:A8D9535EA6E4B80AF7B39555F319872F5A5507C1&dn=SNOWFALL%20-%20Complete%20Season%203%20S03%20(2019)%20-%201080p%20AMZN%20Web-DL%20x264&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
+mpv Snowfall\ -\ S02\ E08\ -\ Surrender\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+mpv Snowfall\ -\ S02\ E09\ -\ Aftermath\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+l Videos/Snowfall-S02
+mpv Snowfall\ -\ S02\ E10\ -\ Education\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+mv ~/Downloads/SNOWFALL\ -\ Complete\ Season\ 3\ S03\ \(2019\ Series\)\ -\ 1080p\ AMZN\ Web-DL\ x264 ~/Videos/Snowfall-S03
+clear
+cd ../Snowfall-S03
+clear
+ls
+mpv SNOWFALL\ -\ S03\ E01\ -\ Protect\ and\ Swerve\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+mpv SNOWFALL\ -\ S03\ E02\ -\ The\ More\ You\ Make\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+mpv SNOWFALL\ -\ S03\ E04\ -\ The\ Game\ That\ Moves\ as\ You\ Play\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+doas pacman -Syu
+clear
+cd documents/Exeter/ECM1416/week\ 4/notes
+clear
+l
+zathura Differentiation\ and\ Taylor\ approximations.pdf
+zathura Scalar\ and\ Vector\ Fields.pdf
+cd ../../week\ 5
+clear
+ls
+cd groff
+ls
+vi Probability:\ basic\ concepts.ms
+l
+clear
+groff -e -ms "Probability: basic concepts.ms" -T pdf > ../notes/"Probability basic concepts.pdf"
+lsblk
+doas mount /dev/sda1 /mnt
+doas su
+clear
+lsblk
+clear
+ls
+doas pacman -Syu
+clear
+ls
+cd downloads
+ls
+l
+clear
+l
+lsblk
+dd if=linuxmint-20.1-cinnamon-64bit.iso of=/dev/sdb
+doas dd if=linuxmint-20.1-cinnamon-64bit.iso of=/dev/sdb
+lsblk
+doas dd if=linuxmint-20.1-cinnamon-64bit.iso of=/dev/sdb status=progress
+clear
+groff -e -ms "Probability: basic concepts.ms" -T pdf > ../notes/"Probability basic concepts.pdf"
+mkdir "11:26"
+ls
+clear
+doas reboot
+startx
+vi somehting.ms
+exit
+vi something.ms
+clear
+sudo
+doas pacman -Sy teams zoom
+paru teams zoom
+paru teams
+clear
+paru zoom
+clear
+lout
+startx
+paru sketchable
+paru scetchable
+paru sketchable
+paru skechable
+pacman -Q sketchable
+clear
+paru chrome
+paru firefox
+paru -R firefox
+l
+clear
+ls -l
+bash
+clear
+fish
+doas pacman -S kde
+doas pacman -S plasma
+clear
+poweroff
+startx
+cd documents/Exeter/ECM1416/week\ 5/notes
+cd documents/Exeter/ECM1416/week\ 5/groff
+clear
+ls
+clear
+cd ../../week\ 4/notes
+cd ../../week\ 4/groff
+clear
+ls
+cd documents/Exeter/ECM1416/week\ 4/groff
+clear
+l downloads
+l Downloads
+exit
+ls
+cd Downloads
+l
+cd ../downloads
+l
+transmission-cli manjaro-xfce-20.2.1-minimal-210103-linux59.iso.torrent
+vi "Euler's Method: a Numerical Approach to Solving DE".ms
+ls
+groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > "../notes/Differentiation and Taylor approximations.pdf"
+ls
+groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/Differentiation\ and\ Taylor\ approximations.pdf
+l
+clear
+cd ..
+l
+cd notes
+ls
+cd ../groff
+history | grep groff
+groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor\
+approximations.pdf"
+l
+clear
+l
+groff -e -ms "Euler's Method: a Numerical Approach to Solving DE.ms" -T pdf > ../notes/"Euler's Method: a Numerical Approach to Solving DE.pdf"
+l
+rm -rf Differentiation\ and\ Taylor$'\n'approximations.pdf
+clear
+zathura Euler\'s\ Method:\ a\ Numerical\ Approach\ to\ Solving\ DE.pdf
+groff -e -ms "Euler's Method: a Numerical Approach to Solving DE.ms" -T pdf > ../notes/"Euler's Method: a Numerical Approach to Solving DE.pdf"
+l
+transmission-cli manjaro-xfce-20.2.1-minimal-210103-linux59.iso.torrent
+groff -e -ms "Euler's Method: a Numerical Approach to Solving DE.ms" -T pdf > ../notes/"Euler's Method: a Numerical Approach to Solving DE.pdf"
+cat Scalar\ and\ Vector\ Fields.ms
+groff -e -ms "Euler's Method: a Numerical Approach to Solving DE.ms" -T pdf > ../notes/"Euler's Method: a Numerical Approach to Solving DE.pdf"
+ls
+l downloads
+l Downloads
+lsblk
+doas dd if=/home/jojito/Downloads/manjaro-xfce-20.2.1-minimal-210103-linux59.iso of        
+lsblk
+groff -e -ms "Euler's Method: a Numerical Approach to Solving DE.ms" -T pdf > ../notes/"Euler's Method: a Numerical Approach to Solving DE.pdf"
+doas systemctl restart NetworkManager
+groff -e -ms "Euler's Method: a Numerical Approach to Solving DE.ms" -T pdf > ../notes/"Euler's Method: a Numerical Approach to Solving DE.pdf"
+man groff
+groff -t -e -ms "Euler's Method: a Numerical Approach to Solving DE.ms" -T pdf > ../notes/"Euler's Method: a Numerical Approach to Solving DE.pdf"
+zathura Euler\'s\ Method:\ a\ Numerical\ Approach\ to\ Solving\ DE.pdf
+groff -t -e -ms "Euler's Method: a Numerical Approach to Solving DE.ms" -T pdf > ../notes/"Euler's Method: a Numerical Approach to Solving DE.pdf"
+doas pacman -Syu
+exit
+lout
+startx
+jupyter-lab
+cd documents/Exeter/ECM1416/week\ 4/notes
+zathura Euler\'s\ Method:\ a\ Numerical\ Approach\ to\ Solving\ DE.pdf
+cd documents/Exeter/ECM1416/week\ 4/notes
+cd documents/Exeter/ECM1416/week\ 4/groff
+cd documents/Exeter/ECM1416/week\ 4/notes
+clear
+cd ../groff
+clear
+ls
+vi "Separation of Variables Method".ms
+cd documents/Exeter/ECM1416/week\ 4/groff
+l
+groff -e -t -ms "Separation of Variables Method.ms" -T pdf > ../notes/"Separation of VariablesMethod.pdf"
+l
+vi Separation\ of\ VariablesMethod.pdf
+zathura Separation\ of\ VariablesMethod.pdf
+groff -e -t -ms "Separation of Variables Method.ms" -T pdf > ../notes/"Separation of VariablesMethod.pdf"
+vi .zhsrc
+clear
+ls
+ls -a
+vi .zshrc
+groff -e -t -ms "Separation of Variables Method.ms" -T pdf > ../notes/"Separation of VariablesMethod.pdf"
+vi "Integrating Factor Method".ms
+groff -e -t -ms "Integrating Factor Method.ms" -T pdf > ../notes/"Integrating Factor Method.pdf"
+zathura Integrating\ Factor\ Method.pdf
+groff -e -t -ms "Integrating Factor Method.ms" -T pdf > ../notes/"Integrating Factor Method.pdf"
+zathura Integrating\ Factor\ Method.pdf
+groff -e -t -ms "Integrating Factor Method.ms" -T pdf > ../notes/"Integrating Factor Method.pdf"
+lsblk
+doas dd if=Downloads/manjaro-xfce-20.2.1-minimal-210103-linux59.iso of=/dev/sda
+doas dd if=Downloads/manjaro-xfce-20.2.1-minimal-210103-linux59.iso of=/dev/sda status=progress
+lsblk
+reboot
+startx
+lsblk
+doas dd if=Downloads/manjaro-xfce-20.2.1-minimal-210103-linux59.iso of=/dev/sda status=progress
+reboot
+startx
+doas pacman -Syu
+clear
+doas pacman -Syu r
+R
+clear
+paru rstudio-desktop-bin
+mkdir test
+cd test
+paru rstudio-desktop-bin
+cd test
+clear
+ls
+vi test.ms
+clear
+groff -e -t -ms test.ms -T pdf  > test.pdf
+ls
+zathura test.pdf
+groff -e -t -mspdf test.ms -T pdf  > test.pdf
+cd documents/Exeter/ECM1416/week\ 4/notes
+cd documents/Exeter/ECM1416/week\ 4/groff
+ls
+vi Scalar\ and\ Vector\ Fields.ms
+groff -e -t -mspdf Scalar\ and\ Vector\ Fields.ms -T pdf > ../notes/Scalar\ and\ Vector\ Fields.pdf
+ls
+zathura Scalar\ and\ Vector\ Fields.pdf
+clear
+groff -e -t -mspdf Scalar\ and\ Vector\ Fields.ms -T pdf > ../notes/Scalar\ and\ Vector\ Fields.pdf
+man eqn
+man eqn_matrix
+man eqn-matrix
+man eqn
+man 2 eqn
+man eqn
+groff -e -t -mspdf Scalar\ and\ Vector\ Fields.ms -T pdf > ../notes/Scalar\ and\ Vector\ Fields.pdf
+man eqn
+groff -e -t -mspdf Scalar\ and\ Vector\ Fields.ms -T pdf > ../notes/Scalar\ and\ Vector\ Fields.pdf
+man eqn
+groff -e -t -mspdf Scalar\ and\ Vector\ Fields.ms -T pdf > ../notes/Scalar\ and\ Vector\ Fields.pdf
+man eqn
+cal
+cal -3
+cal -4
+cal -5
+cal  june 532
+cal  june 532 -3
+doas pacman -Sy gotop
+paru gotop
+uname -o
+clear
+gotop
+exit
+ls
+cd Videos/As-Above,-So-Below
+mpv As.Above,.So.Below.2014.1080p.BluRay.x264.YIFY.mp4
+ls
+cd apps/dwm/dwm
+ls
+vi config.h
+make
+doas make install
+kill -9 -1
+startx
+mpv Videos/As-Above,-So-Below/As.Above,.So.Below.2014.1080p.BluRay.x264.YIFY.mp4
+gotop
+cmatrix
+doas pacman -S cmatrix
+cmatrix
+cow
+neofetch
+pfetch
+clear
+pfetch
+sl
+while :; sl done
+bash -c while :; sl ;
+bash
+update && clean
+clear
+doas pacman -Syu --no-confirm
+man pacman 
+doas pacman -Syu --noconfirm
+vi .zshrc
+update
+vi .zshrc
+update
+vi .zshrc
+update
+clear
+doas pacman -Rdd $(pacman -Qdt | cut -d " " -f 1)
+vi .zshrc
+update
+pacman -S groff
+doas pacman -S groff
+clear
+pacman -Q groff
+pacman -Q grof
+pacman -Q steam
+man pacman
+pacman -Qsm groff
+pacman -Qs groff
+pacman -Qm groff
+man pacman
+az group create --name ECM1417 --location westuk
+az group create --name ECM1417 --location ukwest
+az
+az login
+az group create --name ECM1417 --location ukwest
+az vm create \\
+--resource-group ECM1417 \\
+--name myVM \\
+--image UbuntuLTS \\
+--admin-username ecm1417 \\
+--generate-ssh-key
+clear
+doas pacman -S apache2
+doas pacman -S apache
+clear
+doas ufw app list
+doas pacman -S ufw
+doas ufw app list
+clear
+ls
+ls downloads
+cd downloads
+cat ECM1417_key.pem
+clear
+ls
+clear
+cd ..
+ls
+clear
+ls Downloads
+mv Downloads/manjaro-xfce-20.2.1-minimal-210103-linux59.iso downloads
+rm -rf Downloads
+ls
+ln -s ~/Downloads ~/downloads
+clearls
+clear
+ls
+l
+clear
+ls
+cd downloads
+ls
+unzip -d Deployment-CreateVm-debian.debian-10-10-20210303210010.zip > Deployment-CreateVm-debian.debian-10-10-20210303210010
+unzip -d Deployment-CreateVm-debian.debian-10-10-20210303210010.zip 
+ls
+cat Deployment-CreateVm-debian.debian-10-10-20210303210010
+file Deployment-CreateVm-debian.debian-10-10-20210303210010
+doas pacman -Sy nautilus
+clear
+ls
+mv Deployment-CreateVm-debian\ \(3\).debian-10-10-20210303210010 Deployment-CreateVm-debian.debian-10-10-20210303210010
+clear
+ls
+rm -rf Deployment-CreateVm-debian.debian-10-10-20210303210010.zip
+clear
+cd ..
+clear
+ls downloads
+mv downloads/ECM1417_key.pem ECM1417.key
+ssh -i ECM1417.key ecm1417@51.141.117.243
+mv ECM1417.key ECM1417_key.pem
+clear
+ls
+ssh -i ECM1417_key.pem ecm1417@51.141.117.243
+ls
+l ECM1417_key.pem
+chmod 770 ECM1417_key.pem
+ls
+chmod 500 ECM1417_key.pem
+l ECM1417_key.pem
+chmod 600 ECM1417_key.pem
+l ECM1417_key.pem
+ssh -i ECM1417_key.pem ecm1417@51.141.117.243
+doas pacman -S terminator
+ls
+ssh -i ECM1417_key.pem ecm1417@51.141.117.243
+cat .config/nvim/init.vim
+clear
+ssh -i ECM1417_key.pem ecm1417@51.141.117.243
+reboot
+startx
+ls
+cd Videos
+ls
+cd Snowfall-S02
+ls
+cd ../Snowfall-S03
+ls
+clear
+ls
+mpv SNOWFALL\ -\ S03\ E02\ -\ The\ More\ You\ Make\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+mpv SNOWFALL\ -\ S03\ E03\ -\ Cash\ and\ Carry\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+mpv SNOWFALL\ -\ S03\ E04\ -\ The\ Game\ That\ Moves\ as\ You\ Play\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+mpv SNOWFALL\ -\ S03\ E05\ -\ The\ Bottoms\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+mpv SNOWFALL\ -\ S03\ E06\ -\ Confessions\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+mpv SNOWFALL\ -\ S03\ E07\ -\ Pocket\ Full\ of\ Rocks\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+mpv SNOWFALL\ -\ S03\ E08\ -\ Hedgehogs\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+mpv SNOWFALL\ -\ S03\ E09\ -\ Blackout\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+mpv SNOWFALL\ -\ S03\ E10\ -\ Other\ Lives\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+jupyter-lab
+exit
+cd documents/Exeter/ECM1416/week\ 4/notes
+ls
+zathura Integrating\ Factor\ Method.pdf
+ls
+cd test
+ls
+rm -rf ./*
+clear
+ls
+vi test.ms
+groff -e -t -ms test.ms -T pdf > test.pdf
+zathura test.pdf
+vi test.ms
+groff -e -t -ms test.ms -T pdf > test.pdf
+zathura test.pdf
+vi test.ms
+zathura test.pdf
+vi test.ms
+groff -e -t -ms test.ms -T pdf > test.pdf
+zathura test.pdf
+vi test.ms
+groff -e -t -ms test.ms -T pdf > test.pdf
+zathura test.pdf
+vi test.ms
+clear
+cd ../documents/Exeter/ECM1416/week\ 4/notes
+ls
+zathura Euler\'s\ Method:\ a\ Numerical\ Approach\ to\ Solving\ DE.pdf
+ssh -i ECM1417_key.pem ecm1417@51.141.117.243
+exit
+cd documents/Exeter/
+mkdir ECM1414
+clear
+ls
+clear
+cd ECM1414
+clear
+ls
+clear
+mkdir CA
+celar
+clear
+cd CA
+clear
+ls
+clear
+vi documentation.ms
+groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
+clear
+ls
+zathura documentation.pdf
+vi documentation.ms
+zathura documentation.pdf
+vi documentation.ms
+groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
+zathura documentation.pdf
+groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
+vi documentation.ms
+groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
+vi documentation.ms
+zathura documentation.pdf
+vi documentation.ms
+cd downloads
+ls
+mv install-font.sh ../.config/groff/
+clear
+cd ../.config/groff
+clear
+ls
+chmod 750 install-font.sh
+ls
+./install-font.sh
+./install-font.sh -h
+./install-font.sh -H | less
+clear
+cd 
+celar
+clear
+cd /usr/share/groff/1.22.4/font/
+ls -lR
+ls -lR | grep TNR
+clear
+cd 
+cd documents/Exeter/ECM1414/CA
+clear
+ls
+vi documentation.ms
+groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
+zathura documentation.pdf
+vi documentation.ms
+groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
+clear
+cd 
+cd .config/groff
+clear
+ls
+cd 
+cd downloads
+ls
+rm -rf linuxmint-20.1-cinnamon-64bit.iso kramer-via-go-qs-7.pdf Year\ 1\ Software\ info2020-21\ \(2\).pdf Notorious.2009.*
+ls
+rm -rf manjaro-xfce-20.2.1-minimal-210103-linux59.iso
+clear
+ls
+rm -rf manjaro-xfce-20.2.1-minimal-210103-linux59.iso.torrent
+clear
+ls
+unzip -h
+mkdir times-new-roman
+clear
+mv times-new-roman.zip times-new-roman
+cd times-new-roman
+clea
+clear
+unzip times-new-roman.zip
+ls
+cat times-new-roman.ttf
+clear
+ls
+mv times-new-roman.ttf ../../.config/groff/
+cd ../../.config/groff
+mkdir font
+mkdir fonts
+rm -rf font
+clear
+ls
+mv times-new-roman.ttf fonts
+clear
+cd fonts
+clear
+l
+mv ../install-font.sh .
+clear
+doas ./install-font.sh -s -F TNR -f +R times-new-roman.ttf
+doas pacman -S fotnforge
+paru fontforge
+doas ./install-font.sh -s -F TNR -f +R times-new-roman.ttf
+clear
+cd 
+cd documents/Exeter/ECM1414/CA
+vi documentation.ms
+clear
+groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
+zathura documentation.pdf
+vi documentation.
+vi documentation.ms
+groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
+zathura documentation.pdf
+mupdf documentation.pdf
+cd 
+cd downloads/
+ls
+rm -rf times-new-roman
+mkdir tnr
+mv Times-New-Roman.zip tnr
+cd tnr
+unzip Times-New-Roman.zip
+clear
+ls
+rm -rf Times-New-Roman.zip
+clear
+mv Times\ New\ Roman ../../.config/groff/fonts
+cd ../../.config/groff/fonts
+clear
+ls
+rm -rf times-new-roman.ttf
+clear
+mv install-font.sh Times\ New\ Roman
+clear
+ls
+cd Times\ New\ Roman
+ls
+doas ./install-font.sh -s -F TNR -f +R times-new-roman.ttf
+doas ./install-font.sh -s -F TNR -f +R times\ new\ roman.ttf
+doas ./install-font.sh -s -F TNR -f +B times\ new\ roman\ bold.ttf
+l
+doas ./install-font.sh -s -F TNR -f +I times\ new\ roman\ italic.ttf
+l
+doas ./install-font.sh -s -F TNR -f +BI times\ new\ roman\ bold\ italic.ttf
+clear
+cd 
+clear
+ls
+cd documents/Exeter/ECM1414/CA
+clear
+ls
+vi documentation.
+vi documentation.ms
+groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
+mupdf documentation.pdf
+clear
+ls
+vi documentation.ms
+groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
+vi documentation.ms
+groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
+zathura documentation.pdf
+vi documentation.ms
+groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
+zathura documentation.pdf
+vi documentation.ms
+clear
+groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
+zathura documentation.pdf
+vi documentation.ms
+doas pacman -Syu
+gotop
+ls 
+cd documents/CA
+ls
+cd ecm1416
+ls
+cat ex2.ipynb
+clear
+ls
+mv ex2.ipynb ecm1416-georgi-tarashev.ipynb
+ls
+clear
+rm ex1.ipynb
+clear
+ls
+cd ..
+ls
+clear
+cd ..
+mkdir Snowfall-S04
+celar
+clear
+transmission-cli "magnet:?xt=urn:btih:E03F785128E67C4049D3790EFB957601B63CE59F&dn=Snowfall.S04E01.Re-Entry.HDTV.x264-CRiMSON%5BTGx%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
+groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
+zathura documentation.pdf
+vi documentation.ms
+groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
+zathura documentation.pdf
+vi documentation.ms
+groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
+zathura documentation.pdf
+transmission-cli "magnet:?xt=urn:btih:E03F785128E67C4049D3790EFB957601B63CE59F&dn=Snowfall.S04E01.Re-Entry.HDTV.x264-CRiMSON%5BTGx%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
+mv Downloads/Snowfall.S04E01.Re-Entry.HDTV.x264-CRiMSON\[TGx\]/Snowfall.S04E01.Re-Entry.HDTV.x264-CRiMSON.mkv Videos/Snowfall-S04
+cd Videos/Snowfall-S04
+ls
+mpv Snowfall.S04E01.Re-Entry.HDTV.x264-CRiMSON.mkv
+transmission-cli "magnet:?xt=urn:btih:AD416E73DB8BF36610F6232692115A7BB92B7D9E&dn=Snowfall.S04E03.All.the.Way.Down.HDTV.x264-CRiMSON%5BTGx%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
+ls
+mv Downloads
+cd Downloads
+ls
+clear
+ls
+transmssion-cli "magnet:?xt=urn:btih:9D3DF38EC07373F88A829B0C5136D261EE2E9E02&dn=Snowfall.S04E02.Weight.HDTV.x264-CRiMSON&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
+transmission-cli "magnet:?xt=urn:btih:9D3DF38EC07373F88A829B0C5136D261EE2E9E02&dn=Snowfall.S04E02.Weight.HDTV.x264-CRiMSON&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
+exit
+ls
+cd /
+ls
+clear
+ls
+/
+clear
+/proc
+/
+clear
+/home/jojito
+clear
+ls
+/downloads
+downloads
+clear
+cd 
+clear
+cd /
+clear
+ls
+cd sys
+ls
+cd devices
+ls
+cd ..
+cd class
+ls
+cd power_supply
+ls
+cd BAT1
+ls
+cd power
+ls
+cd 
+clear
+cd scripts/dwm_bar
+ls
+vi bar.bash
+cd /
+clear
+cd 
+clear
+/
+clear
+ls
+sys
+clear
+ls
+class
+clear
+ls
+net
+ls
+cd net/wlp2s0/statistics
+ls
+cat rx_bytes
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+clear
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+gotop
+vi bar.bash
+./bar.bash
+cat rx_bytes
+clear
+ls
+transmission-cli "magnet:?xt=urn:btih:9D3DF38EC07373F88A829B0C5136D261EE2E9E02&dn=Snowfall.S04E02.Weight.HDTV.x264-CRiMSON&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce" 
+vi bar.bash
+clear
+ls
+cd scripts/dwm_bar
+vi bar.bash
+clear
+cat /sys/class/net/wlp2s0/carrier_down_count
+cat /sys/class/net/wlp2s0/carrier_up_count
+clear
+doas pacman -Suyw --noconfirm
+clear
+doas pacman -yu
+man pacman
+doas pacman -Uy
+doas pacman -U
+man pacman
+doas pacman -Syuw --color always
+doas pacman -Syuw 
+clear
+man pacman 
+doas pacman -Syuc
+doas pacman -Suc
+doas pacman -Syu
+doas pacman -Syu --color always
+clear
+expr 1024 ** 2
+expr 1024 ^ 2
+expr 1024 * 1024
+expr (1024 * 1024)
+expr (1024 + 1024)
+expr 1024 + 1024
+expr 1024 x 1024
+expr 1024(1024)
+expr 1024 * 1024
+clear
+expr "1024 * 1024"
+git commit -m "added network speeds"
+cd ..
+ls
+cd auto-install
+ls
+git add cursesTrial.c userformat.bash
+cd ../dwm_bar
+clear
+ls
+git commit -m "added network information"
+git push
+clear
+lout
+startx
+ls
+cd scripts/dwm_bar
+clear
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+kill -9 -1
+startx
+ls
+cd scripts/dwm_bar
+./bar.bash
+echo $XDG_CONFIG_HOME
+echo $XDG_CONFIG
+echo $CONFIG_HOME
+echo $CONFIG
+echo $HOME
+echo $XDG_HOME
+clear
+ls
+mkdir ~/.config/net
+touch ~/.config/net/logfile
+clear
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+cat .config/net/logfile
+echo s > .config/net/logfile
+cat .config/net/logfile
+clear
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+testparm
+doas pacman -Ss testparm
+testparm
+doas pacman -Syu Samba
+doas pacman -Syu aamba
+doas pacman -Syu samba
+./bar.bash
+testparm
+cat /etc/samba/smb.conf
+touch /etc/samba/smb.conf
+doas r
+r
+doas r
+touch /etc/samba/smb.conf
+touch touch /etc/samba/smb.conf
+doas touch touch /etc/samba/smb.conf
+testparm
+clear
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+date +'%A (%-e/%-m/%Y)'
+./bar.bash
+transmission-cli "magnet:?xt=urn:btih:6E4ABA3399F875A1DCB606945AAD37347B2B7851&dn=Snowfall.S04E02.Weight.HDTV.x264-CRiMSON%5BTGx%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
+clear
+mv Downloads/Snowfall.S04E02.Weight.HDTV.x264-CRiMSON\[TGx\]/Snowfall.S04E02.Weight.HDTV.x264-CRiMSON.mkv Videos/Snowfall-S04
+clear
+rm -rf Downloads/*
+clear
+cd Videos/Snowfall-S04
+mpv Snowfall.S04E02.Weight.HDTV.x264-CRiMSON.mkv
+clear
+lout
+startx
+ls
+lout
+startx
+ls
+clear
+cd scripts/dwm_bar
+clear
+ls
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+lout
+startx
+clear
+ls
+clear
+ls
+clear
+ls
+ssh -i ECM1417_key.pem ecm1417@51.141.117.243
+exit
+ls
+clea
+clear
+ls
+cd scripts/dwm_bar
+git commit -m "updated network information"
+rm touch
+git commit -m "updated network information"
+git add bar.bash 
+git commit -m "updated network info"
+git push
+clear
+cd ..
+ls
+cd ..
+ls
+ls -a
+clear
+ls
+cd github/arch-config
+clear
+ls
+mkdir dotfiles
+clear
+ls
+cd dotfiles
+clear
+ls
+vi bashrc
+pacman -Qdt
+clear
+man pacman 
+cp bashrc ~/.bashrc
+bash
+clear
+vi bashrc
+clear
+cp bashrc ~/.bashrc
+clear
+ls
+bash
+cp bashrc ~/.bashrc
+clear
+bash
+clear
+pacman -Qdt | cut -d " " -f 1 | doas pacman -Rdds --color always
+vi update.sh
+mv update.sh update.bash
+vi update.bash
+chmod 755 update.bash
+./update.bash
+ls
+vi update.bash
+./update.bash
+vi update.bash
+clear
+ls
+vi bashrc
+bash
+clear
+vi bashrc
+cp bashrc ~/.bashrc
+clear
+bash
+clear
+ls
+vi bashrc
+clear
+cp bashrc ~/.bashrc
+bash
+clear
+git add bashrc update.bash
+git commit -m "added bash rc, havent fixed rempving orphaned packages"
+git push
+clear
+cd 
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+vi scripts/dwm_bar/bar.bash
+clear
+cd scripts/
+ls
+cd ..
+cd github/arch-config/dotfiles
+ls
+./update.bash
+rm /var/lib/pacman/db.lck
+./update.bash
+rm /var/lib/pacman/db.lck
+doas rm /var/lib/pacman/db.lck
+./update.bash
+clear
+ls
+vi update.bash
+pacman -
+pacman -Qdt
+clear
+doas pacman -Syu
+pacman -
+pacman -Qdt
+clear
+doas pacman -Rdds "$(pacman -Qdt | cut -d " " -f 1)"
+clear
+doas pacman -Syu ; doas pacman -Rdds "$(pacman -Qdt | cut -d " " -f 1)" --noconfirm
+clear
+ls
+clera
+clear
+~
+clear
+vi .zshrc
+update
+clear
+doas pacman -Qdt | cut -d " " -f 1 | xargs -r pacman -Rdds
+clear
+ls
+cd github/arch-config
+clear
+ls
+cd dotfiles
+ls
+vi bashrc
+man pacman
+man pacman 
+ls
+git rm update.bash
+clear
+git commit -m "Fixed orphan package cleanup with 'xargs -r' (variable substitution wasn't working)"
+git push
+clear
+paru opensesame
+paru python1-webcolors
+paru python2-webcolors
+doas pacman -Sy python2-pip
+pip install python2-webcolors
+paru opensesame
+clear
+ls
+cd apps
+ls
+mkdir open-sesame
+cd open-sesame
+clear
+git clone https://github.com/open-cogsci/OpenSesame
+pip install python-academicmarkdown python-yamldoc
+clear
+doas pacman -Sy pelican inkscape
+clear
+doas pacman -Syw vi
+doas pacman -Syw firefox
+doas pacman -Sy firefox
+clear
+man pacman 
+clear
+man pacman 
+doas pacman -Syw firefox
+doas pacman -Rns firefox
+doas pacman -Sy firefox
+doas pacman -Rns firefox
+doas pacman -Syw firefox
+clear
+ls
+mv OpenSesame/* .
+ls
+rm OpenSesame
+rm -r OpenSesame
+clear
+cat readme.md
+cat readme.md | less
+clear
+ls
+makepkg -si
+clear
+ls
+./setup.py
+pip install yaml
+pip install python3-yaml
+clear
+ls
+vi setup
+vi setup.cfg
+vi setup.py
+paru python3.7
+paru python37
+clear
+ls
+./setup.py
+vi test.py
+python test.py
+python3.7 test.py
+clear
+pip install python-yaml
+pip install python3-yaml
+pip install yamldoc
+python3.7 test.py
+python3.8 test.py
+python3.9 test.py
+clear
+vi libopensesame/py3compat.py
+pip3 install yamldoc
+clear
+python3 setup.py
+pip3 install python-yamldoc
+pip2 install python-yamldoc
+python3 setup.py
+clear
+ipython
+pip3 install python-yaml
+pip install pyyaml
+python3 setup.py
+clear
+python3 setup.py | less
+clear
+ls
+cat README.txt
+clear
+cd 
+clear
+ls
+cd downloads
+ls
+transmission-cli xubuntu-20.04.2.0-desktop-amd64.iso.torrent
+paru qBittirrent
+paru qBittorrent
+clear
+ls
+cd apps/open-sesame
+ls
+./setup.py > logfile
+./setup.py --help
+./setup.py -n
+./setup.py -v
+./setup.py -v cmd --help
+./setup.py cmd --help
+clear
+cd apps/open-sesame
+./setup.py --help
+setup.py build
+./setup.py build
+./setup.py install
+doas ./setup.py install
+pip2 install pyyaml
+pip install pyyaml
+doas ./setup.py install
+ipython 
+cat libopensesame/py3compat.py
+clear
+ls
+doas ./setup.py install
+doas pip install yaml
+doas pip install pyyaml
+doas ./setup.py install
+doas pip install pyqode3
+doas pip install pyqode
+doas pip install pyqode3.python
+doas pip install pyqode.python
+doas ./setup.py install
+doas pip3 install pyqode3.python
+clear
+doas ./run_unittests.py
+./run_unittests.py
+pip install yamldoc.validate
+clear
+doas pip install yamldoc
+clear
+doas ./opensesamerun
+doas pip install qtpy
+doas ./opensesamerun
+doas pip install PySide
+clear
+cd 
+clear
+ls
+mkdir nadya
+ls
+mv Downloads/xubuntu-20.04.2.0-desktop-amd64.iso nadya
+clear
+cd nadya
+ls
+vi bashrc
+exit
+lsblk
+doas dd if=/home/jojito/nadya/xubuntu-20.04.2.0-desktop-amd64.iso of=/dev/sda
+doas dd if=/home/jojito/nadya/xubuntu-20.04.2.0-desktop-amd64.iso of=/dev/sda status=progress
+clear
+ls
+l xubuntu-20.04.2.0-desktop-amd64.iso
+clear
+exit
+transmission-cli downloads/kubuntu-20.04.2.0-desktop-amd64.iso.torrent
+clear
+ls
+clear
+ls
+cd .config/groff/
+ls
+vi makegroff.sh
+cd .config/groff
+clear
+ls
+vi makegroff.sh
+chmod 755 makegroff.sh
+clear
+l
+clear
+./makegroff.sh something
+vi makegroff.sh
+./makegroff.sh test.pdf
+vi makegroff.sh
+./makegroff.sh test.pdf
+cd scripts
+cd dwm_bar
+clear
+ls
+vi bar.bash
+vi makegroff.sh
+./makegroff.sh test.pdf
+vi makegroff.sh
+./makegroff.sh test.pdf
+vi makegroff.sh
+./makegroff.sh test.pdf
+clear
+ls
+vi makegroff.sh
+./makegroff.sh test.pdf
+vi makegroff.sh
+./makegroff.sh test.pdf
+mv makegroff.sh makegroff.bash
+./makegroff.bash test.pdf
+clear
+ls
+vi makegroff.bash
+./makegroff.bash test.pdf
+clear
+vi makegroff.bash
+clear
+vi something.ms
+./makegroff.bash something.ms
+ls
+zathura something.pdf
+clear
+cd 
+clear
+cd .config/groff
+clear
+cd 
+cd .config/nvim
+ls
+vi init.vim
+cd 
+clear
+ls
+vi .zshrc
+doas pacman -Syu
+doas pacman -Syu --color always
+celar
+clear
+ls
+rm test
+rm test.py
+clear
+cd test
+ls
+rm test.*
+clear
+vi test.ms
+ls
+clear
+ls
+mkgroff
+mkgroff test/test.ms
+ls
+cd test
+ls
+vi init.vim
+ls
+rm test.
+rm test.pdf
+clear
+ls
+vi test.ms
+ls
+clear
+vi init.vim
+ls
+vi test.ms
+ls
+vi test/test.ms 
+clear
+ls
+cd .config/nvim
+vi init.vim
+cd 
+clear
+ls
+vi test/test.ms
+ls
+cd test
+ls
+clear
+mupdf test.pdf
+clear
+cd 
+clea
+clear
+ls
+cd .config/nvim
+ls
+vi init.vim
+clear
+cd 
+clear
+cd test
+rm test.pdf
+vi test.ms
+ls
+vi test.ms
+clear
+ls
+mupdf test.pdf
+clear
+ls
+cd 
+clear
+ls
+cd test
+rm test.pdf
+clear
+vi test.ms
+ls
+mkgroff
+clear
+ls
+clear
+vi test.
+rm test.pdf
+vi test.ms
+cd .config/nvim
+ls
+vi init.vim
+vi test.ms
+ls
+vi init.vim
+vi test.ms
+cd 
+clear
+ls
+cd test
+ls
+mupdf test.pdf
+zathura test.pdf
+ls
+cd documents/Exeter/ECM1416/week\ 4/notes
+ls
+zathura Euler\'s\ Method:\ a\ Numerical\ Approach\ to\ Solving\ DE.pdf
+cd documents/Exeter/ECM1416/week\ 4/notes
+ls
+zathura Differentiation\ and\ Taylor\ approximations.pdf
+ls
+clea
+clear
+ls
+cd documents/Exeter/ECM1414
+ls
+cd CA
+ls
+zathura documentation.pdf
+cd ../..
+ls
+cd ECM1415\ Descrete\ Mathematics\ \ for\ Computer\ Sciende
+ls
+cd ..
+cd ECM1416
+ls
+cd week\ 4
+ls
+cd notes
+ls
+vi Separation\ of\ VariablesMethod.pdf
+zathura Separation\ of\ VariablesMethod.pdf
+ls
+cd ../../week\ 5/notes
+ls
+mupdf Probability\ basic\ concepts.pdf
+cd ../../week\ 4/notes
+ls
+clear
+ls
+zathura Scalar\ and\ Vector\ Fields.pdf
+cd ../groff
+ls
+vi Scalar\ and\ Vector\ Fields.ms
+cd Videos/As-Above,-So-Below
+mpv As.Above,.So.Below.2014.1080p.BluRay.x264.YIFY.mp4
+cd ..
+ls
+clear
+ls
+cd Snowfall-S01
+ls
+mpv Snowfall\ -\ S01\ E01\ -\ Pilot\ \(1080p\ -\ AMZN\ Web-DL\).mp4
+ls
+cd test
+ls
+rm test.8
+rm test.*
+clear
+ls
+vi something.sh
+cd test
+ls
+chmod 755 something.sh
+clear
+ls
+./something.sh "hello me"
+./something.sh "hello.me"
+./something.sh hello.me
+clea
+clear
+ls
+cd ..
+ls
+cd .config/groff
+clear
+ls
+vi makegroff.bash
+./makegroff.bash hello.sa
+vi makegroff.bash
+./makegroff.bash hello.sa
+vi makegroff.bash
+cd .config/groff
+ls
+zathura something.pdf
+clear
+ls
+vi something.ms
+jupyter-lab
+clea
+clear
+ls
+cd documents/Exeter/ECM1414/CA
+ls
+vi documentation.ms
+cd documents/Exeter/ECM1414/CA
+zathura
+zathura documentation.pdf
+clear
+ls
+vi lz77-encoder.py
+vi documentation.ms
+vi lz77-encoder.py
+chmod 755 lz77-encoder.py
+clear
+ls
+./lz77-encoder.py
+./lz77-encoder.py hi
+clear
+ls
+clear
+./lz77-encoder.py documentation.ms
+clear
+ls
+vi lz77-encoder.py
+./lz77-encoder.py documentation.ms
+vi lz77-encoder.py
+./lz77-encoder.py documentation.ms
+./lz77-encoder.py documentation.lsa
+vi lz77-encoder.py
+./lz77-encoder.py documentation.lsa
+clear
+vi lz77-encoder.py
+./lz77-encoder.py documentation.lsa
+vi lz77-encoder.py
+chmod 000 documentation.pdf
+./lz77-encoder.py documentation.pdf
+chmod 444 documentation.pdf
+l
+clear
+ls
+vi lz77-encoder.py
+chmod 000 documentation.pdf
+./lz77-encoder.py documentation.pdf
+chmod 444 documentation.pdf
+clear
+vi lz77-encoder.py
+clear
+ls
+cd 
+clear
+ls
+cd .config/nvim/vim-plug
+ls
+vi plugins.vim
+cd 
+cd documents/Exeter/ECM1414/CA
+clear
+ls
+vi lz77-encoder.py
+clear
+./lz77-encoder.py
+./lz77-encoder.py documentation.pdf
+./lz77-encoder.py documentation.ms
+./lz77-encoder.py
+./lz77-encoder.py hi mom
+echo $1
+echo $0
+./lz77-encoder.py hi mom
+echo $0
+echo $status
+./lz77-encoder.py hi mom
+echo $status
+./lz77-encoder.py hi mom
+echo $status
+./lz77-encoder.py hi mom
+echo $status
+clear
+ls
+curl https://www.gutenberg.org/files/17400/17400-0.txt > "the-wright's-chaste-wife-adam-cobsam"
+clear
+l
+./lz77-encoder.py the-wright\'s-chaste-wife-adam-cobsam
+wc -l the-wright\'s-chaste-wife-adam-cobsam
+wc the-wright\'s-chaste-wife-adam-cobsam
+cat the-wright\'s-chaste-wife-adam-cobsam
+cat the-wright\'s-chaste-wife-adam-cobsam | less
+clear
+ls
+clear
+ls
+vi documentation.ms
+ls
+clear
+l
+chmod 544 documentation.pdf
+l
+chmod 644 documentation.pdf
+l
+clear
+vi documentation.
+vi documentation.ms
+mupdf documentation.pdf
+vi documentation.ms
+clear
+ls
+clear
+vi documentation.ms
+zathura documentation.pdf
+clear
+ls
+vi documentation.ms
+zathura documentation.pdf
+clear
+ls
+cd Videos/Snowfall-S04
+l
+l Videos/Snowfall-S04
+transmission-cli "magnet:?xt=urn:btih:9DE78A44BB872F13F755E54BA59102AAD95803A0&dn=Snowfall.S04E03.All.the.Way.Down.HDTV.1080p.x264-CRiMSON%5BTGx%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
+cd Videos/Snowfall-S04
+ls
+mpv Snowfall.S04E02.Weight.HDTV.x264-CRiMSON.mkv
+transmission-cli "magnet:?xt=urn:btih:C49831CFAF323ADA0936E6702CA10A72D2D4F432&dn=Snowfall.S04E03.All.the.Way.Down.XviD-AFG%5BTGx%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
+transmission-cli "magnet:?xt=urn:btih:E18804EECAE2B6846C94ECFD16D2B4C1178D99BB&dn=Snowfall.S04E03.XviD-AFG%5BTGx%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
+clear
+ls
+doas pacman -Syu
+paru
+clear
+lsblk
+df -k
+df -kh
+clear
+ls
+cd downloads
+ls
+du kubuntu-20.04.2.0-desktop-amd64.iso
+du - hkubuntu-20.04.2.0-desktop-amd64.iso
+du -h kubuntu-20.04.2.0-desktop-amd64.iso
+clear
+du -h kubuntu-20.04.2.0-desktop-amd64.iso
+lsblk
+dd if=kubuntu-20.04.2.0-desktop-amd64.iso of=/dev/sda status=progress
+doas dd if=kubuntu-20.04.2.0-desktop-amd64.iso of=/dev/sda status=progress
+clear
+ls
+lsblk
+clear
+lsblk
+doas mount /dev/sdb4 /mnt
+cd /mnt
+ls
+cd Documents
+ls
+cd ..
+ls
+ls ECM1416
+clear
+ls
+l Vi
+l Videos
+l Videos/films
+l Templates
+l Pictures
+mv Pictures/* ~/pictures
+doas mv Pictures/* ~/pictures
+ls
+cd jojito
+ls
+clear
+doas cd jojito
+ls
+sudo cd jojito
+celar
+clear
+ls
+jojito
+cd jojito
+clear
+l jojito
+l
+doas su
+clea
+clear
+cd 
+clear
+ls
+lsblk
+fdisk /dev/sdb
+doas fdisk /dev/sdb
+ls
+umount /dev/sdb
+lsblk
+umount /dev/sdb4
+doas umount /dev/sdb4
+doas fdisk /dev/sdb4
+clear
+lsblk
+doas fdisk /dev/sdb4
+doas fdisk /dev/sdb
+clear
+ls
+lsblk
+clear
+ls
+lsblk
+clera
+clear
+lsblk
+dd if=Downloads/kubuntu-20.04.2.0-desktop-amd64.iso of=/dev/sda status=progress
+doas dd if=Downloads/kubuntu-20.04.2.0-desktop-amd64.iso of=/dev/sda status=progress
+du -h Downloads/kubuntu-20.04.2.0-desktop-amd64.iso
+clear
+exit
+clear
+du -h Downloads/kubuntu-20.04.2.0-desktop-amd64.iso
+clear
+lsblk
+clear
+reboot
+startx
+lsblk
+clear
+l 
+celar
+clear
+ls
+cd downloads
+ls
+l tnr
+ls
+clear
+ls
+transmission-cli xubuntu-20.04.2.0-desktop-amd64.iso.torrent
+clear
+rm xubuntu-20.04.2.0-desktop-amd64.iso.torrent
+clera
+clear
+ls
+transmission-cli kubuntu-20.04.2.0-desktop-amd64.iso\ \(1\).torrent
+clear
+ls
+rm kubuntu-20.04.2.0-desktop-amd64.iso
+ls
+transmission-cli kubuntu-20.04.2.0-desktop-amd64.iso\ \(1\).torrent
+clear
+cleas
+clear
+ls
+rm kubuntu-20.04.2.0-desktop-amd64.iso*
+clear
+ls
+clear
+ls
+clear
+ls
+l
+clear
+l
+clear
+l
+ll
+lll
+l
+lll
+l
+clear
+l
+clear
+ls
+lsblk
+doas dd if=ubuntu-20.04.2.0-desktop-amd64.iso of=/dev/sda status=progress
+l downloads/ubuntu-20.04.2.0-desktop-amd64.iso
+clear
+ls
+lsblk
+clear
+qwerpppppppppppppppppppppp=12344444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444411clear
+clear
+doas pacman -Syu
+clear
+doas pacman -Syu
+clear
+ls
+cd documents/Exeter/ECM1416/week\ 4/notes
+zathura Euler\'s\ Method:\ a\ Numerical\ Approach\ to\ Solving\ DE.pdf
+clear
+exit
+sudo vim /etc/pacman.conf
+doas vim /etc/pacman.conf
+clear
+doas pacman -Syu
+clear
+ls
+cd documents/Exeter/ECM1414/CA
+clear
+ls
+vi lz77-encoder.py
+clear
+l the-wright\'s-chaste-wife-adam-cobsam
+clear
+ls
+clear
+vi lz77-encoder.py
+clear
+ls
+cd .config/nvim
+clear
+ls
+vi init.vim
+vi
+vi init.vim
+clear
+ls
+cd vim-plug
+clear
+ls
+vi plugins.vim
+exit
+vi lz77-encoder.py
+pip3 install pynvim --upgrade
+cd 
+clear
+cd .config/nvim
+cd vim-plug
+clea
+clear
+ls
+vi plugins.vim
+clear
+vi plugins.vim
+cd 
+clear
+cd documents/Exeter/ECM1414/CA
+clear
+vi lz77-encoder.py
+clear
+cd 
+clear
+ls
+cd .config/nvim/vim-plug
+clear
+vi plugins.vim
+clear
+ls
+cd documents/Exeter/ECM1414
+cd CA
+vi lz77-encoder.py
+clear
+cd 
+cd documents/Exeter/ECM1414/CA
+ls
+vi documentation.ms
+clear
+ls
+zathura documentation.pdf
+clear
+ls
+vi lz77-encoder.py
+cd documents/Exeter/ECM1414/CA
+clear
+ls
+clear
+ls
+vi test
+clear
+ls
+./lz77-encoder.py test
+vi lz77-encoder.py
+./lz77-encoder.py test
+vi lz77-encoder.py
+./lz77-encoder.py test
+while : do; cat test >> test; done
+while : do; cat test >> test
+clear
+ls
+cat test
+cat test >> test
+cat test >> test1
+cat test1
+cat test >> test1
+./lz77-encoder.py test1
+clear
+./lz77-encoder.py test1
+clear
+./lz77-encoder.py test1
+cat file 1
+cat test1
+./lz77-encoder.py test1
+wc test1
+./lz77-encoder.py test1
+clear
+./lz77-encoder.py the-wright\'s-chaste-wife-adam-cobsam > something
+ls
+l something
+clear
+./lz77-encoder.py the-wright\'s-chaste-wife-adam-cobsam
+clear
+./lz77-encoder.py test1
+vi lz77-encoder.py
+./lz77-encoder.py test1 
+./lz77-encoder.py test1 > test
+l test*
+clear
+ls
+./lz77-encoder.py the-wright\'s-chaste-wife-adam-cobsam > something
+l something the-wright\'s-chaste-wife-adam-cobsam
+clear
+ls
+rm test something
+clear
+cat test1
+./lz77-encoder.py test1 > test
+cat test
+l test*
+clear
+ls
+./lz77-encoder.py the-wright\'s-chaste-wife-adam-cobsam > something
+l the-wright\'s-chaste-wife-adam-cobsam something
+cat test1
+./lz77-encoder.py the-wright\'s-chaste-wife-adam-cobsam
+clear
+ls
+clear
+ls
+l
+clear
+l
+cat the-wright\'s-chaste-wife-adam-cobsam
+cat something
+clea
+clear
+ls
+cat test
+clear
+ls
+rm test
+clear
+ls
+cat test1
+vi test1
+clear
+cat test1
+./lz77-encoder.py test1 > test1
+clear
+ls
+./lz77-encoder.py test1 
+cat test1 
+clear
+ls
+cat test1
+vi test1
+cat test1
+./lz77-encoder.py test1 > test1
+cat test1
+clear
+vi test1
+./lz77-encoder.py test1 > test
+clear
+cat test
+wc -l test1
+wc test1
+clear
+cat test
+wc test
+clear
+wc test1
+cat test
+vi test1
+./lz77-encoder.py test1 > test
+cat test
+cat test1
+./lz77-encoder.py test1 > test
+cat test
+wc test
+clear
+./lz77-encoder.py test1
+clear
+vi test1
+clear
+wc test1
+clear
+./lz77-encoder.py test1 > test
+clear
+wc test
+cat test
+clear
+./lz77-encoder.py test1
+./lz77-encoder.py test1 > test
+clear
+cat test
+wc test1
+cat test1
+vi test1
+clear
+./lz77-encoder.py test1 > test
+cat test
+wc test1
+cat test1
+man wc
+wc -m test1
+clear
+ls
+vi test1
+./lz77-encoder.py test1 > test
+cat test
+clea
+clear
+ls
+clear
+ls
+clear
+ls
+python3 -m pdb lz77-encoder.py test1 > test
+cd documents/Exeter/ECM1414/CA
+celear
+clear
+ls
+python -m pdb lz77-encoder.py
+clear
+python -m pdb lz77-encoder.py test1
+clea
+clear
+./lz77-encoder.py test1 > test
+cat test
+./lz77-encoder.py test1
+echo abcdefghijklmnopqrstuvwxyz > test1
+clear
+./lz77-encoder.py test1
+clear
+./lz77-encoder.py test1
+clear
+vi test
+echo "" > test1
+cat test >> test1
+cat test1
+cat test >> test1
+cat test1
+vi test1
+clear
+./lz77-encoder.py test1 > test
+cat test
+wc -w test1
+wc test1
+clear
+l
+./lz77-encoder.py the-wright\'s-chaste-wife-adam-cobsam > something
+clear
+./lz77-encoder.py the-wright\'s-chaste-wife-adam-cobsam > something
+time ./lz77-encoder.py the-wright\'s-chaste-wife-adam-cobsam > something
+clear
+time ./lz77-encoder.py test1 > test
+cat test
+cat test1 > test
+cat test > test1
+cat test1
+cat test >> test1
+clear
+cat test1
+time ./lz77-encoder.py test1 > test
+wc test1
+wc the-wright\'s-chaste-wife-adam-cobsam
+./lz77-encoder.py the-wright\'s-chaste-wife-adam-cobsam
+time ./lz77-encoder.py the-wright\'s-chaste-wife-adam-cobsam
+clear
+wc test1
+vi test1
+vi the-wright\'s-chaste-wife-adam-cobsam
+wc the-wright\'s-chaste-wife-adam-cobsam
+clear
+ls
+cat lz77-encoder.py > testing.py
+clear
+chmod 755 testing.py
+l
+./lz77-encoder.py testing.py > what
+clear
+./lz77-encoder.py testing.py > something
+cat something
+l
+cat testing.py
+clear
+ls
+clear
+ls
+rm testing.py what test test1 something
+clear
+ls
+vi documentation.ms
+clear
+ls
+./lz77-encoder.py the-wright\'s-chaste-wife-adam-cobsam >something
+l something the-wright\'s-chaste-wife-adam-cobsam
+clear
+expr 60 / 84
+clear
+gzip --help
+clear
+ls
+gzip the-wright\'s-chaste-wife-adam-cobsam -c -9
+gzip the-wright\'s-chaste-wife-adam-cobsam -c -9 > something.gzip
+l something.gzip the-wright\'s-chaste-wife-adam-cobsam
+clear
+ls
+rm something something.gzip
+clear
+ls
+vi documentation.ms
+clear
+ls
+vi lz77-encoder.py
+vi documentation.ms
+zathura documentation.pdf
+vi lz77-encoder.py
+cd downloads
+clear
+l
+clear
+ls
+cd ..
+clear
+ls
+cd Downloads
+clear
+ls
+vi bitstrings-in-python.py
+pip3 install bitstring
+exit
+./lz77-encoder.py the-wright\'s-chaste-wife-adam-cobsam > something
+vi lz77-encoder.py
+./lz77-encoder.py the-wright\'s-chaste-wife-adam-cobsam > something
+vi lz77-encoder.py
+./lz77-encoder.py the-wright\'s-chaste-wife-adam-cobsam > something
+l something the-wright\'s-chaste-wife-adam-cobsam
+clear
+ls
+vi lz77-encoder.py
+clear
+ls
+ckear
+clear
+c d
+cd 
+clear
+cd documents/Exeter/ECM1414/CA
+clear
+vi documentation.ms
+clear
+ls
+vi lz77-encoder.py
+clear
+./lz77-encoder.py the-wright\'s-chaste-wife-adam-cobsam > something
+l
+clear
+l
+vi documentation.ms
+zathura documentation.pdf
+vi documentation.ms
+curl "https://www.gutenberg.org/files/766/766-0.txt" > david-copperfield-eng
+clear
+ls
+l david-copperfield-eng
+clear
+l the-wright\'s-chaste-wife-adam-cobsam
+rm the-wright\'s-chaste-wife-adam-cobsam
+clear
+ls
+rm something
+./lz77-encoder.py david-copperfield-eng > something
+doas pacman -Syu
+exit
+l david-copperfield-eng something
+clear
+l david-copperfield-eng something
+time ./lz77-encoder.py david-copperfield-eng > something
+l david-copperfield-eng something
+ls
+cd documents/Exeter/ECM1414/CA
+clear
+ls
+vi documentation.ms
+zathura documentation.pdf
+vi documentation.ms
+zathura documentation.pdf
+vi documentation.ms
+zathura documentation.pdf
+vi documentation.ms
+zathura documentation.pdf
+vi documentation.ms
+mv ~/Downloads/fib41.gz .
+clear
+ls
+gzip -d fib41.gz > gib41
+ls
+rm gib41
+clear
+l
+./lz77-encoder.py fib41
+man mv
+mv ~/Downloads/dblp.xml.00001.1.gz ~/Downloads/world_leaders.gz ~/documents/Exeter/ECM1414/CA
+clear
+ls
+cd documents/Exeter/ECM1414/CA
+clear
+ls
+gzip -d world_leaders.gz
+gzip -d dblp.xml.00001.1.gz
+l
+clear
+ls
+zathura documentation.pdf
+clear
+ls
+vi documentation.ms
+clear
+l
+./lz77-encoder.py world_leaders > world_leaders.lz
+zathura documentation.pdf
+vi documentation.ms
+clear
+ls
+cd documents/Exeter/ECM1414/CA
+clear
+l
+du -h david-copperfield-eng
+du david-copperfield-eng
+du something
+du -bsh something
+du -sh something
+du -bsh something
+du -bsh david-copperfield-eng
+clear
+man du
+du -Bk david-copperfield-eng
+du -Bk something
+zathura documentation.pdf
+du -Bk something
+vi documentation.ms
+zathura documentation.pdf
+vi documentation.ms
+zathura documentation.pdf
+clear
+ls
+l
+du -Bk world_leaders
+vi documentation.ms
+du -Bk fib41
+du -Bk dblp.xml.00001.1
+zathura documentation.pdf
+cd documents/Exeter/ECM1414/CA
+clear
+ls
+l
+clear
+l
+./lz77-encoder.py fib41 > fib41.lz
+./lz77-encoder.py dblp.xml.00001.1 > dblp.xml.00001.1.lz
+clear
+doas pacman -Syu
+exit
+ls
+celar
+clear
+doas pacman -Syu
+clear
+cd scripts
+clear
+ls
+./emojiSelector.sh
+vi emojiS
+vi emojiSelector.sh
+l
+clear
+./emojiSelector.sh
+clear
+ls
+vi emojiSelector.sh
+./emojiSelector.sh
+clear
+ls
+clear
+exit
+clear
+ls
+cd scripts
+clear
+ls
+vi emoji.txt
+./emojiSelector.sh
+vi emoji.txt
+clear
+vi emojiSelector.sh
+clear
+ls
+./emojiSelector.sh
+clear
+ls
+vi emojiSelector.sh
+cd apps/dwm/dwm
+clear
+ls
+vi config.h
+./emojiSelector.sh
+vi emojiSelector.sh
+./emojiSelector.sh
+vi emojiSelector.sh
+./emojiSelector.sh
+clear
+paru
+exit
+clear
+doas pacman -S mutt
+clear
+mutt
+vi .config/mutt/muttrc
+mutt -v | grep tls
+mutt -v
+clear
+mutt -v | grep gnu
+clear
+doas pacman -R mutt
+doas pacman -S neomutt
+clear
+neomutt -v | grep tls
+clear
+clea
+ls
+cd .config/mutt
+clear
+ls
+vi muttrc
+neomutt
+clear
+neomutt -v | grep tls
+clear
+vi .zshrc
+mail
+clear
+ls
+l
+clear
+neomutt
+clear
+mail
+clear
+readmail
+clear
+echo $record
+clear
+mail
+clear
+mail
+clear
+exit
+reboot
+startx
+mail
+clear
+l
+clear
+ls
+l
+cat .viminfo
+clear
+l
+rm .viminf*
+l
+rm .vimrc
+clear
+l
+cat .lesshst
+rm .lesshst
+clear
+l
+cat .pdf
+rm .pdf
+rm .bash*
+clear
+l
+clear
+vi .config/mutt/muttrc
+clear
+mail
+clear
+readmail
+clear
+ls
+mail
+clear
+ls
+man gpg
+gpg --warranty
+gpg2 --full-gen-key
+cd test
+ls
+rm something.sh
+echo "secret" > test
+l
+rm .pdf
+cat test
+gpg -r georgitarashev@gmail.com -e test
+l
+cat test.gpg
+clear
+cd test
+clear
+ls
+man shred
+shred -u test
+clear
+ls
+gpg -d test.gpg
+l
+gpg -d test.gpg >> test
+clear
+l
+cat test
+clear
+ls
+clear
+l
+celar
+clear
+man shred
+clear 
+shred -u test
+clear
+ls
+cat test.gpg
+clear
+ls
+l
+cat test.gpg
+clear
+mail
+cler
+clear
+exit
+clear
+ls
+cd test
+clear
+ls
+cat test.gpg
+gpg -d test.gpg
+gpg -d test.gpg >> test.gpg
+gpg -d test.gpg >> test
+clear
+ls
+rm test*
+ls
+clear
+echo "this is a secret" > test
+clear
+ls
+gpg2 -r georgitarashev@gmail.com test
+gpg -r georgitarashev@gmail.com test
+gpg -r georgitarashev@gmail.com -e test
+clear
+ls
+shred -u test
+clear
+cat test.gpg
+gpg -d test.gpg
+gpg -d test.gpg >> test
+clear
+ls
+cat test
+clear
+exit
+ls
+clear
+ls
+mail
+clear
+ls
+clear
+l
+mkdir videos
+mv Videos/* videos
+l Videos
+l videos
+rm Videos
+rm -r Videos
+clear
+l
+cat nadya
+cd nadya
+ls
+cat bashrc
+clear
+cd ..
+rm -rf nadya
+clea
+clear
+l
+cat R
+l R
+doas pacman -R rstudio-bin
+paru -R rstudio-desktop-bin
+clear
+ls
+cd R
+ls
+cd x86_64-pc-linux-gnu-library
+ls
+xd 4.0
+cd 4.0
+ls
+clear
+cd 
+rm -r R
+clear
+ls
+l go
+clear
+ls
+l Downloads
+rm -rf Downloads
+clear
+ln -s ~/downloads ~/Downloads
+ls
+file Downloads
+clear
+ls
+cd pictures
+ls
+rm desktop.ini
+l
+rm -f desktop.ini
+clear
+cd 
+clear
+doas find / -name *.ini
+doas find / -name desktop.ini
+clear
+ls
+mv ECM1417_key.pem documents/Exeter/ECM1417/
+cd documents/Exeter/ECM1417/
+ls
+mkdir CA
+mv ECM1417_key.pem CA
+cd 
+clear
+l
+cat .zsh_history
+clear
+ls
+l
+cat .Xinitrc
+rm .Xinitrc
+clear
+l
+l .local
+clear
+l
+cat .Rhistory
+rm .Rhistory
+paru -R r
+clear
+l
+cat .zcompdump
+clear
+l
+cat .zcompdump-archlinux-5.8
+clear
+ls
+l
+cat .vim
+l .vim
+rm -rf .vim
+clear
+ls
+l
+l .r
+rm -r .r
+l .pki
+l .pki/nssdb/pkcs11.txt
+clear
+l
+vi .config
+clear
+ls
+l
+cat .zsh_history
+rm .zsh_history
+clear
+l
+vi .zshrc
+clear
+ls
+l
+mv -r .oh-my-zsh .config/zsh/oh-my-zsh
+mv .oh-my-zsh .config/zsh/oh-my-zsh
+clear
+l
+rm .zcompdump*
+clear
+ls
+exit
+l
+rm .zcompdump-archlinux-5.8
+exit
+l
+rm -f .zcompdump-archlinux-5.8
+exit
+l
+cat .Xauthority
+clear
+l
+r
+l
+clear
+l
+mv apps github documents
+clear
+l
+rm scripts
+ln -s ~/documents/github/arch-config/scripts scripts
+clear
+l
+ss
+clear
+s
+sss
+clear
+man ss
+ss -O
+clear
+sl
+clear
+l
+cat .gitconfig
+mv .gitconfig documents
+clear
+ls
+l
+clear
+l
+clear
+mail
+clear
+mail
+clear
+exit
+l
+cat .history
+clear
+rm .history
+clear
+l
+links
+clear
+cd documents
+cd 
+clear
+l
+cd .config/mutt
+clear
+l
+vi muttrc
+mail
+clear
+l
+clear
+l
+vi muttrc
+curl "https://gist.githubusercontent.com/LukeSmithxyz/de94948264649a9264193e96f5610c44/raw/d274199d3ed1bcded2039afe33a771643451a9d5/colors.muttrc" >> muttrc
+clear
+ls
+vi muttrc
+mail
+clear
+l
+vi muttrc
+l
+clear
+curl "https://gist.githubusercontent.com/LukeSmithxyz/de94948264649a9264193e96f5610c44/raw/d274199d3ed1bcded2039afe33a771643451a9d5/colors.muttrc" >> colors
+l
+cat colors
+vi muttrc
+clear
+mail
+l
+vi muttrc
+mail
+clear
+doas pacman -S isync
+clear
+man isync
+doas pacman -S isync
+clear
+mbsync
+mbsync --help
+clear
+vi muttrc
+clear
+l
+clear
+c d
+cd 
+clear
+mbsync
+vi .mbsyncrc
+clear
+l
+mail
+celar
+clear
+mail
+clear
+l
+clear
+paru signal
+paru signal-desktop
+exit
+mail
+clear
+neofetch
+test
+which test
+test --help
+clear
+l
+clear
+whatis test
+clear
+l
+cd test
+clear
+l
+test test
+clear
+test test test.gpg
+clear
+cd 
+clear
+whatis test
+test documents/
+test documents downloads
+clear
+l
+clear
+mail
+clear
+man mbsync
+clear
+vi .mbsyncrc
+ls
+vi .config/mutt/muttrc
+cat /etc/ssl/certs/ca-certificates.crt
+exit
+clear
+l
+cd 
+clear
+l
+ls
+clear
+ls
+mkdir Mail
+mkdir mail
+rm -r Mail
+mkdir mail/gmail-main-local
+clear
+l
+clear
+df -kh
+clear
+mbsync -a 
+clear
+ls mail/gmail-main-local
+ls mail/\[Gmail\]
+clear
+cd mail
+ls
+cd gmail-main-local
+ls
+cd \[Gmail\]
+l
+celar
+clear
+l
+cd .
+clear
+cd 
+celar
+clear
+vi .config/mutt/muttrc
+mail
+clear
+crontab -e
+which mbsync
+doas systemctl enable cronie --now
+clear
+exit
+clear
+mail
+clear
+paru
+doas pacman -Syu
+clear
+uname -r
+exit
+clear
+mail
+clear
+exit
+mbsync -a
+exit
+mail
+clear
+mail
+clear
+doas pacman -Sy lynx
+l
+lynx
+l
+doas pacman -R links
+rm -r .links
+clear
+l
+clear
+l
+rm -rf .ncpamixer.conf
+l
+clear
+l
+cat .Xauthority
+clear
+readmail
+vi .mbsyncrc
+mbsync -a
+exit
+l
+l pictures
+doas chown jojito -r pictures
+chown --help
+clear
+l
+doas chown -R jojito pictures/*
+l pictures
+clear
+l
+l .ssh
+cat .ssh/known_hosts
+rm .ssh/known_hosts
+clear
+ssh -i ECM1417_key.pem ecm1417@51.141.117.243
+clear
+l
+clear
+ssh -i ~/documents/Exeter/ECM1417/CA/ECM1417_key.pem ecm1417@51.141.117.243
+clear
+doas updatedb
+clear
+locate something
+cd .config/groff
+clear
+l
+rm something.*
+clea
+clear
+l
+l -a
+clear
+cd 
+clear
+locate something
+doas updatedb
+locate something
+clear
+cd documents
+clear
+l
+l -R CA
+clear
+ls
+mv CA Exeter
+clear
+l
+cd Exeter
+ls
+mkdir year1
+mv 1407\ Social\ and\ Professional\ Issues\ of\ Programming ECM1407
+l
+mv ECM1400\ Programming ECM1400
+mv ECM1415\ Descrete\ Mathematics\ \ for\ Computer\ Sciende ECM1415
+l
+mv ECM1413\ Computers\ and\ the\ Internet ECM1413
+clear
+l
+mkdir year1/sem1 year1/sem2
+mv ECM1400 ECM1407 ECM1413 ECM1415 exam lastExam iexeter.txt year1/sem1
+clear
+l
+mv CA ECM141* year1/sem2
+clear
+l
+cd ..
+clear
+l
+cd
+doas chown -R jojito ./*
+clear
+l
+cd documents
+clear
+l
+l github
+clear
+l
+l desktop
+cd ..
+l
+mv documents/desktop .
+clear
+l
+ls
+clear
+ls
+cd Downloads
+pwd
+clear
+cd 
+clear
+doas pacman -Syu
+clear
+gotop
+top
+c;ear
+clear
+xargs --help
+clear
+zathura -
+top
+pacman -Qdt
+alias
+clear
+pacman -Qdt | cut -d " " -f 1 | doas pacman -Rns
+pacman -Qdt | cut -d " " -f 1 | xargs doas pacman -Rns
+pacman -Qdt | cut -d " " -f 1 | xargs -r doas pacman -Rns
+clear
+pacman -Qdt
+pacman -Qdt | cut -d " " -f 1 | xargs -r doas pacman -Rdd
+clear
+pacman -Qdt
+doas pacman -Rns lapack
+doas pacman -Rns "$(pacman -Qdt | cut -d " " -f 1)"
+doas pacman -Rns mailcap
+exit
+reboot
+startx
+doas pacman -Rns $(pacman -Qdt | cut -d " " -f 1)
+clear
+l
+clear
+cd documents/Exeter/year1/sem2
+clear
+l
+cd ECM1414
+l
+clear
+l
+mkdir week1
+rm -r week1
+mkdir week2
+clear
+cd week2
+clear
+cd ..
+clear
+mkdir week6
+cd week6
+clear
+l
+clear
+l
+clear
+vi "Selection Sort".ms
+ls
+cd .config/nvim
+ls
+vi init.vim
+cd ../groff
+clear
+l
+vi makegroff.bash
+clear
+cd .config/groff
+clear
+l
+vi makegroff.bash
+man sed
+readmail
+exit
+mail
+l
+rm Selection.pdf
+mv Selection\ Sort.ms SelectionSort.ms
+clear
+vi SelectionSort.ms
+cd 
+clear
+exit
+cd documents/Exeter/year1/sem2/ECM1414/week6
+clear
+l
+zathura SelectionSort.pdf
+clear
+l
+vi SelectionSort.py
+clear
+l
+vi SelectionSort.ms
+exit
+cd 
+clear
+mail
+exit
+mail
+mbsync -a
+mail
+cd documents/Exeter/year1/sem2/ECM1414
+l
+cd CA
+clear
+l
+rm -rf *.lz
+l
+rm david-copperfield-eng dblp.xml.00001.1 fib41 something world_leaders
+clear
+l
+vi documentation.ms
+cd documents/Exeter/year1/sem2/ECM1414
+cd CA
+clear
+l
+zathura documentation.pdf
+cd test
+clear
+l
+rm test*
+clear
+l
+vi test.ms
+ls
+cd .config/groff/
+vi makegroff.bash
+vi test.ms
+doas pacman -S grap
+paru grap
+man grap
+clear
+paru grap
+clear
+grap
+man grap
+celar
+clear
+vi test.
+vi test.ms
+cd test
+zathura test.pdf
+cd .config/groff/fonts
+clear
+l
+cd Times\ New\ Roman
+clear
+fc-list
+fc-list | grep times
+fc-list | grep Times
+clear
+fc-list | grep "Times New"
+clear
+l
+fc-list | grep "Roman"
+echo /usr/share/fonts/
+l /usr/share/font
+l /usr/share/fonts
+l /usr/share/fonts/TTF
+clear
+l
+fc-list | grep Ubuntu
+clear
+l
+mv times\ new\ roman* /usr/share/fonts/TTf
+mv times\ new\ roman* /usr/share/fonts/TTF
+doas mv times\ new\ roman* /usr/share/fonts/TTF
+clear
+fc-list | grep roman
+fc-cache
+clear
+mupdf documentation.pdf
+clear
+l
+cd documents/Exeter/year1/sem2/ECM1414/CA
+clear
+l
+rm documentation.* 
+clear
+l
+rm betterspec.odt .\~lock.betterspec.odt\#
+clear
+l
+transmission-cli "magnet:?xt=urn:btih:3F8F219568B8B229581DDDD7BC5A5E889E906A9B&dn=Pulp%20Fiction%20(1994)%201080p%20BrRip%20x264%20-%201.4GB%20-%20YIFY&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
+doas pacman -Syu
+clear
+mbsync -a
+clear
+vi .zshrc
+clear
+mail
+clear
+vi .zshrc
+clear
+exit
+doas pacman -Sy rust
+clear
+exit
+rustdoc
+clear
+rustfmt
+rustfmt --help
+clear
+rustc --version
+vi .config/nvim/vim-plug/plugins.vim
+clear
+mbsync -a
+mail
+clear
+pfatch
+pfetch
+clear
+cd documents/programming
+clear
+l
+mkdir rust
+clear
+cd rust
+clear
+l
+clear
+mkdir learn-rust
+clear
+cd learn-rust
+clear
+l
+clear
+mkdir introduction
+clear
+cd introduction
+clear
+l
+clear
+vi helloWorld.rs
+clear
+l
+rustc helloWorld.rs
+clear
+l
+clear
+ls
+./helloWorld
+clear
+l
+cd ../../../c/sudokuTotal/sudokuV2
+clear
+l
+cd ../../../rust/learn-rust/introduction
+clear
+l
+clear
+./helloWorld
+clear
+file helloWorld
+clear
+l
+doas pacman -S cargo
+clear
+ls
+rm helloWorld
+clear
+l
+mv helloWorld.rs main.rs
+clear
+l
+clear
+mkdir src
+mv main.rs src
+ls
+ls src
+clear
+vim Cargo.toml
+clear
+cargo build
+ls
+cat Cargo.lock
+clear
+ls
+cargo run
+ls
+vi Cargo.toml
+cargo build
+clear
+cargo run
+df 
+du 
+clear
+l target/debug/hello_world
+clear
+l
+rm -rf ./*
+clear
+l
+clear
+cargo new hello_world --bin
+l
+cd hello_world
+clear
+l
+cd src
+clear
+l
+cd ..
+clear
+l
+cat Cargo.toml
+clear
+cd ..
+clear
+ls
+clear
+cd ..
+clear
+l
+mkdir types-and-plugins
+clear
+l
+clear
+cd introduction
+clear
+l
+clear
+cd hello_world
+ls
+cd src
+clear
+ls
+vi main.rs
+rustc main.rs
+./main
+rm main
+clear
+ls
+cd ../../
+clear
+ls
+clear
+cd ../types-and-plugins
+ls
+cd ..
+ls
+mv types-and-plugins types-and-variables
+clear
+ls
+cd types-and-variables
+clear
+ls
+vi notes.ms
+clear
+ls
+vi notes.md
+clear
+l
+clear
+vi test.rs
+rustc test.rs
+./test
+clear
+l
+cat test.rs >> notes.md
+vi notes.md
+vi test.rs
+rustc test.rs
+vi test.rs
+clear
+rustc test.rs
+vi test.rs
+clear
+rustc test.rs
+clear
+ls
+clear
+./test
+clear
+vi test.rs
+rustc test.rs
+vi test.rs
+rustc test.rs
+clear
+./test
+clear
+ls
+l test
+clear
+l
+vi test.rs
+rustc test.rs
+vi test.rs
+rustc test.rs
+./test
+clear
+l
+vi test.rs
+rustc test.rs
+./test
+clear
+vi test.rs
+rustc test.rs
+./test
+l
+clear
+ls
+vi test.rs
+rustc test.rs
+clear
+l
+./test
+clear
+vi test.rs
+rustc test.rs
+./test
+clear
+vi test.rs
+rustc test.rs
+./test
+clear
+vi test.rs
+vi .config/nvim/init.vim
+vi test.rs
+mail
+exit
+something
+exit
+d
+exit
+vi test.rs
+./test
+exit
+q
+clear
+q
+clear
+exit
+vi .zshrc
+q
+gotop
+rustc test.rs
+./test
+clear
+l
+vi test.rs
+rustc test.
+rustc test.rs
+vi test.rs
+rustc test.rs
+./test
+clear
+vi test.rs
+rustc test.rs
+./test
+clear
+vi test.rs
+rustc test.rs
+vi test.rs
+rustc test.rs
+./test
+clear
+vi test.rs
+rustc test.rs
+./test
+clear
+vi test.rs
+rustc test.rs
+./test
+clear
+vi test.rs
+./test
+exit
+q
+exit
+vi test.rs
+./test
+clear
+vi test.rs
+rustc test.rs
+./test
+vi test.rs
+rustc test.rs
+./test
+clear
+vi test.rs
+rustc test.rs
+vi test.rs
+rustc test.rs
+./test
+vi test.rs
+rustc test.rs
+./test
+vi test.rs
+rustc test.rs
+vi test.rs
+rustc test.rs
+./test
+clear
+gotop
+top
+transmission-cli "magnet:?xt=urn:btih:69BBA7EBF71F4A9376DBEF46FC1F5DD7BFC9EA1E&dn=Inferno.2016.HC.HDRip.X264.AC3-EVO&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
+doas pacman -Syu
+paru
+doas pacman -R doas
+paru -R doas
+paru -R opendoas
+clear
+vi .zshrc
+clear
+sudo pacman -Syu
+exit
+vi test.rs
+rustc test.rs
+./test
+clear
+vi test.rs
+gotop
+clear
+ls
+cd ..
+clear
+ls
+cd ..
+ls
+cd ..
+clear
+ls
+cd 
+clear
+ls
+cd scripts/dwm_bar
+ls
+man grep
+clear
+ls
+cd ..
+ls
+mkdir emojiSelector
+clear
+ls
+mv emoji.txt emojiSelector.sh emojiSelector
+clear
+git add -A
+clear
+cd emojiSelector
+clear
+l
+vi emoji.txt
+cd scripts/emojiSelector
+vi
+vi emojiSelector.sh
+cd scripts/emojiSelector
+clear
+ls
+clear
+man cut
+./emojiSelector.sh
+l
+./emojiSelector.sh
+grep emoji.txt smiling
+grep smiling emoji.txt
+grep M-pM-^_M-^XM-^J emoji.txt
+clear
+./emojiSelector.sh
+man cut
+./emojiSelector.sh
+sudo pacman -S xclip
+xclip --help
+xclip -h
+clear
+./emojiSelector.sh
+xclip -o
+clear
+ls
+git commit -m "The emoji selector works, but still havent figured out dmenu fonts"
+git config --global user.email "georgitarashev@gmail.com"
+git commit -m "The emoji selector works, but still havent figured out dmenu fonts"
+git config --global user.name "Georgi Tarashev"
+git commit -m "The emoji selector works, but still havent figured out dmenu fonts"
+git push
+clear
+exit
+man xlip
+man xclip
+cd documents/apps/dwm/dwm
+clear
+ls
+vi config.h
+make
+vi config.h
+make
+vi config.h
+make
+sudo make install
+clear
+lout
+startx
+echo "something" | xclip -o 
+echo "something" | xclip -ir
+echo "something" | xclip -i
+clear
+xclip -o
+cd documents/apps/dwm/dwm
+vi config.h
+make
+sudo make install
+lout
+startx
+something
+clear
+cd documents/apps/dwm/dwm
+clear
+ls
+vi config.h
+make
+sudo make install
+exit
+lout
+startx
+l
+clear
+cd test
+ls
+gpg -r georgitarashev@gmail.com -e test.pdf
+l
+man gpg
+gpg -d test.pdf.gpg > something
+l
+diff something test.pdf
+clear
+exit
+ls
+rm test/*
+clear
+ls
+l test
+clear
+ls
+clear
+cd scripts/
+ls
+manmenu
+clear
+ls
+rm /usr/share/fonts/TTF/times\ new\ roman*
+sudo rm /usr/share/fonts/TTF/times\ new\ roman*
+ls
+manmenu
+clear
+ls
+clear
+which cat
+cd /usr/bin/
+ls
+file cat
+cd scripts/dwm_bar
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+clear
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+transmission-cli "magnet:?xt=urn:btih:69BBA7EBF71F4A9376DBEF46FC1F5DD7BFC9EA1E&dn=Inferno.2016.HC.HDRip.X264.AC3-EVO&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
+rm -r downloads/Inferno.2016.HC.HDRip.X264.AC3-EVO
+transmission-cli "magnet:?xt=urn:btih:69BBA7EBF71F4A9376DBEF46FC1F5DD7BFC9EA1E&dn=Inferno.2016.HC.HDRip.X264.AC3-EVO&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
+vi bar.bash
+clear
+cd 
+clear
+cd documents/programming/rust/learn-rust/types-and-variables
+clear
+ls
+vi test.rs
+rustc test.rs
+vi test.rs
+rustc test.rs
+vi test.rs
+rustc test.rs
+vi test.rs
+rustc test.rs
+./test
+clear
+vi test.rs
+rustc test.rs
+clear
+vi stack-heap.rs
+rustc stack-heap.rs
+vi stack-heap.rs
+rustc stack-heap.rs
+./stack-heap
+clear
+vi stack-heap.rs
+rustc stack-heap.rs
+./stack-heap
+vi stack-heap.rs
+rustc stack-heap.rs
+./stack-heap
+clear
+vi stack-heap.rs
+clear
+vi debug.rs
+clear
+rust-lldb debug.rs
+sudo pacman -Sy rust-lldb
+sudo pacman -Sy lldb
+clear
+rust-lldb debug.rs
+clear
+paru cline
+paru CLion
+mbsync -a
+mail
+transmission-cli "magnet:?xt=urn:btih:3F8F219568B8B229581DDDD7BC5A5E889E906A9B&dn=Pulp%20Fiction%20(1994)%201080p%20BrRip%20x264%20-%201.4GB%20-%20YIFY&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
+paru -R clion clion-cmake clion-eap clion-eap-cmake clion-eap-gdb clion-eap-jre clion-eap-lldb clion-gdb clion-jre clion-lldb
+exit
+cd documents/programming/rust/learn-rust/types-and-variables
+clear
+ls
+vi debug.rs
+clear
+ls
+rustc debug.rs
+./debug
+vi debug.rs
+rust-gdb
+rust-gdb debug
+sudo pacman -S rust-gdb
+sudo pacman -S gdb
+rust-gdb debug
+clear
+vi debug.rs
+./debug
+exit
+vi debug.rs
+cd ..
+mkdir control-flow
+cd control-flow
+vi if-statements.rs
+cd .config/nvim/templates
+ls
+vi skeleton.rs
+cd ..
+vi init.vim
+vi if-statements.rs
+rm if-statements.rs
+vi if-statements.rs
+./if-statements
+exit
+./if-statements
+q
+./if-statements
+q
+./if-statements
+time ./if-statements
+celar
+q
+clear
+vi while-loop.rs
+./while-loop
+vi while-loop.rs
+q
+./while-loop
+q
+./while-loop
+q
+clear
+vi for-loop.rs
+./for-loop
+q
+./for-loop
+clear
+ls
+q
+exit
+./scripts/emojiSelector/emojiSelector.sh
+celar
+clear
+cd scripts/emojiSelector
+clear
+./emojiSelector.sh
+xclip -o
+c;ear
+clear
+xclip -o
+exit
+sudo pacman -Syu
+mbsync -a
+mail
+q
+clear
+sudo pacman -S linux-libre
+paru linus-libre
+paru linux-libre
+gotop
+mbsync -a
+mail
+q
+mbsync -a
+mail
+clear
+cd documents/apps/dwm/dwm
+clear
+vi config.h
+vi .config/nvim/vim-plug/plugins.vim
+vi config.h
+vi .config/nvim/vim-plug/plugins.vim
+vi config.h
+vi .config/nvim/init.vim
+vi config.h
+clear
+l
+cd .config/nvim/vim-plug
+clear
+vi plugins.vim
+vi config.h
+vi plugins.vim
+sudo pacman -S firefox
+exit
+pfetch
+clear
+pacman -!
+pacman -Q
+pacman -Q | wc
+pacman -Q | wc -l
+pfetch
+sudo pacman -R vlc
+sudo pacman -Rns xterm
+pfetch
+clear
+exit
+sudo pacman -Rns pandoc
+pfetch
+cd documents/apps/dwm/dwm
+clear
+make
+sudo make install
+lout
+startx
+ls
+vi .xinitrc
+lout
+startx
+readmail
+htop
+sudo systemctl disable --now nordvpnd
+htop
+lout
+htop
+startx
+htop
+reboot
+startx
+htop
+cd documents/
+ls
+mv Exeter exeter
+ls
+cd exeter
+ls
+cd year1/sem2
+ls
+clear
+cd 
+clear
+cd documents/programming/rust/learn-rust/control-flow
+clear
+ls
+clear
+ls
+vi match-statements.rs
+./match-statements
+q
+clear
+vi combination-lock.rs
+./combination-lock
+clear
+q
+./combination-lock
+q
+clear
+ls
+cd ..
+clear
+ls
+mkdir data-structures
+cd data-structures
+vi structs.rs
+./structs
+q
+./structs
+q
+sudo pacman -R chromium
+exit
+l
+sudo pacman -S bat
+clear
+bat documents/programming/rust/learn-rust/control-flow/combination-lock.rs
+bat documents/programming/rust/learn-rust/control-flow/combination-lock.rs > test/test
+cd test
+ls
+cat test
+rm test
+cd 
+clear
+bat documents/programming/rust/learn-rust/control-flow/combination-lock.rs > test/test
+bat documents/programming/rust/learn-rust/control-flow/combination-lock.rs
+bat documents/programming/rust/learn-rust/control-flow/combination-lock.rs documents/programming/rust/learn-rust/control-flow/match-statements.rs
+bat documents/programming/rust/learn-rust/control-flow/*
+clear
+bat --list-languages
+clear
+bat .xinitrc
+bat .config/nvim/init.vim
+cd documents/programming/rust/learn-rust/data-structures
+ls
+vi structs
+vi structs.rs
+clear
+bat documents/programming/rust/learn-rust/data-structures/structs.rs
+clear
+exit
+ls | bat
+ls | xargs -r bat
+clear
+cd documents
+clear
+ls | xargs -r bat
+clear
+ls
+exit
+bat --theme=GitHub documents/programming/rust/learn-rust/control-flow/combination-lock.rs
+bat --theme=1337 documents/programming/rust/learn-rust/control-flow/combination-lock.rs
+exit
+sudo pacman -Rns picom
+exit
+gotop
+htop
+lout
+startx
+paru linux-libre
+man paru
+paru linux-libre
+exit
+sudo pacman -Syu
+paru
+exit
+poweroff
+startx
+ls
+clear
+exit
+lout
+startx
+ssh -i ~/documents/Exeter/ECM1417/CA/ECM1417_key.pem ecm1417@51.141.117.243
+ssh -i ~/documents/Exeter/year1/sem2/ECM1417/CA/ECM1417_key.pem ecm1417@51.141.117.243
+nmtui
+ssh -i ~/documents/Exeter/year1/sem2/ECM1417/CA/ECM1417_key.pem ecm1417@51.141.117.243
+ssh -i ~/documents/exeter/year1/sem2/ECM1417/CA/ECM1417_key.pem ecm1417@51.141.117.243
+ls
+clear
+ssh -i ~/documents/exeter/year1/sem2/ECM1417/CA/ECM1417_key.pem ecm1417@51.141.117.243
+sudo pacamn -Syu
+sudo pacman -Syu
+clear
+ls
+mv Checking\ results\ \|\ LABORATORY\ RAMUS.pdf downloads
+clear
+ls
+clear
+ls -a
+clear
+l
+clear
+cd Downloads/Deployment-CreateVm-debian.debian-10-10-20210303210010
+ls
+bat deployment.json
+clear
+cd 
+celar
+clear
+cd documents/programming/rust/learn-rust/data-structures
+clear
+ls
+cd .config/nvim/templates
+;s
+ls
+vi skeleton.rs
+vi skeleton.ms
+clear
+ls
+cat skeleton.tex
+clear
+exit
+vi enumerations.rs
+./enumerations
+clear
+q
+./enumerations
+clear
+q
+vi structs.rs
+clear
+ls
+clear
+vi unions.rs
+clear
+./unions
+q
+cd .config/nvim/templates/
+clear
+vi skeleton.rs
+./unions
+q
+clear
+vi option-of-T.rs
+./option-of-T
+clear
+q
+./option-of-T
+clear
+q
+./option-of-T
+q
+./option-of-T
+q
+cd videos
+clear
+ls
+cd 
+clear
+ls downloads
+mv downloads/Inferno.2016.HC.HDRip.X264.AC3-EVO downloads/Pulp\ Fiction\ \(1994\)\ \[1080p\] videos
+clear
+cd videos
+clear
+cd Inferno.2016.HC.HDRip.X264.AC3-EVO
+l
+mpv Inferno.2016.HC.HDRip.X264.AC3-EVO.mkv
+sudo systemctl enable --now nordvpnd
+clear
+nordvpn
+nordvpn login
+clear
+nordvpn c Bulgaria
+q
+nordvpn d
+sudo pacman -Sy virtualbox
+clear
+exit
+clear
+ls
+gpg --verify alpine-virt-3.13.2-x86_64.iso.asc alpine-virt-3.13.2-x86_64.iso
+clear
+gpg --verify alpine-virt-3.13.2-x86_64.iso.asc alpine-virt-3.13.2-x86_64.iso
+cat alpine-virt-3.13.2-x86_64.iso.asc
+l
+clear
+l alpine-virt-3.13.2-x86_64.iso.asc
+chmod 500 alpine-virt-3.13.2-x86_64.iso.asc
+l alpine-virt-3.13.2-x86_64.iso.asc
+chmod 600 alpine-virt-3.13.2-x86_64.iso.asc
+l alpine-virt-3.13.2-x86_64.iso
+l alpine-virt-3.13.2-x86_64.iso.asc
+clear
+gpg --verify alpine-virt-3.13.2-x86_64.iso.asc alpine-virt-3.13.2-x86_64.iso
+clear
+l
+clear
+ls
+mv alpine-virt-3.13.2-x86_64.iso* downloads
+clear
+cd downloads
+clear
+ls
+xdg-open fb_1056553_700028245.pdf
+clear
+sha256sum alpine-virt-3.13.2-x86_64.iso
+sha256sum -c alpine-virt-3.13.2-x86_64.iso.sha256 2>&1 | grep OK
+clear
+sha256sum -c alpine-virt-3.13.2-x86_64.iso.sha256 2>&1
+sha256sum -c alpine-virt-3.13.2-x86_64.iso.sha256
+sha256sum alpine-virt-3.13.2-x86_64.iso.sha256
+diff "$(sha256sum alpine-virt-3.13.2-x86_64.iso)" "$(sha256sum alpine-virt-3.13.2-x86_64.iso.sha256)"
+clear
+exit
+virtualbox
+sudo /sbin/virtualbox
+sudo pacman -Rns virtualbox
+clear
+sudo pacman -Sy virtualbox
+reboot
+startx
+clear
+sudo pacman -Sy virtualbox
+sudo pacman -Rns virtualbox
+sudo pacman -Sy virtualbox
+modprobe vboxdrv
+sudo modprobe vboxdrv
+clear
+cd documents/programming/rust
+clear
+ls;
+cd learn-rust
+clear
+ls
+cd data-structures
+clear
+bat option-of-T.rs
+nordvpn c Bulgaria
+nordvpn d
+exit
+nordvpn c Bulgaria
+exit
+bat option-of-T.rs
+clear
+bat option-of-T.rs | less
+bat option-of-T.rs | more
+bat option-of-T.rs
+clear
+cd 
+clear
+nordvpn d
+nordvpn rate 5
+clear
+cd .config/nvim/vim-plug
+clear
+vi plugins.vim
+cd ..
+clear
+ls
+vi init.vim
+clear
+cd 
+cd documents/programming/rust/learn-rust/data-structures
+clear
+ls
+vi enumerations.rs
+clear
+ls
+cd .config/nvim/
+vi init.vim
+clear
+ls
+cd ../../
+clear
+mkdir test
+clear
+cd test
+clear
+vi testing.rs
+cd documents/programming/rust/test
+clear
+./testing
+vi testing.rs
+./testing
+vi testing.rs
+./testing
+cd 
+clear
+ls
+cd .config/
+mkdir rust
+clear
+cd rust
+clear
+ls
+vi run.bash
+vi run.sh
+cd 
+clear
+cd .config/groff/
+clear
+ls
+vi makegroff.bash
+clear
+ls
+cd 
+clear
+cd 
+clear
+exit
+clear
+cd 
+clear
+cd test
+ls
+rm test
+clear
+ls 0a
+ls -a
+clear
+vi testing.tex
+cd test
+clear
+ls
+zathura testing.pdf
+clear
+cd 
+clear
+ls
+cd .config/nvim/templates
+clear
+ls
+vi skeleton.sh
+vi skeleton.bash
+cat skeleton.sh > skeleton.bash
+clear
+vi skeleton.bash
+clear
+ls
+vi skeleton.py
+which python
+exit
+clear
+exit
+mbsync -a
+mail
+git clone https://github.com/gtarashev/dwm
+clear
+ls
+mv dwm documents/github
+clear
+ls
+cd dwm
+cd documents/github/dwm
+clear
+ls
+vi README.md
+git commit -m "updated readme"
+git add README.md
+clear
+git commit -m "updated readme"
+clear
+echo $0
+echo $code
+echo $status
+clear
+ls
+git push
+clear
+cp -r ../../apps/dwm/dwm/* .
+ls
+clear
+git add ./*
+clear
+git commit 
+clear
+git push
+clear
+git push
+clear
+ls
+git add ./*
+clear
+git commit -m "added dwm files"
+git push
+clear
+ls
+exit
+cd documents/github/dwm
+clear
+ls
+git push
+exit
+cd documents/github/dwm
+ls
+vi README.md
+git commit -m "updated readme"
+git add README.md
+git commit -m "updated readme"
+git push
+exit
+clear
+ls
+cd documents/github
+rm -rf dwm
+git clone https://github.com/gtarashev/dwm/tree/main
+git clone https://github.com/gtarashev/dwm/
+cd dwm
+ls
+clear
+cat LICENSE
+clear
+vi config.h
+clear
+cd documents/github/dwm
+clear
+ls
+vi config.h
+q
+cd documents/github/dwm
+vi config.h
+clear
+git commit -m "removed some shortcuts from config.h"
+git add config.h
+git commit -m "removed some shortcuts from config.h"
+git push
+exit
+mv downloads/Ratatouille\ \(2007\)\ \[1080p\] videos
+ls
+cd videos/Ratatouille\ \(2007\)\ \[1080p\]
+ls
+mpv Ratatouille.2007.1080p.BrRip.x264.YIFY.mp4
+clear
+lsblk
+sudo mount /dev/sda1 /mnt
+lsblk
+clear
+mpv videos/Ratatouille\ \(2007\)\ \[1080p\]/Ratatouille.2007.1080p.BrRip.x264.YIFY.mp4
+sudo pacman -Sy ntfs-3g
+clear
+lsblk
+sudo mount /dev/sda1 /mnt
+ls
+cd /mnt
+ls
+rm -rf ./*
+ls
+clear
+mkdir films
+cp -r ~/videos/Ratatouille\ \(2007\)\ \[1080p\] ./films
+ls
+ls films
+ls
+ls films/Ratatouille\ \(2007\)\ \[1080p\]
+exit
+paru yumi-bin
+paru yumi
+sudo pacman -Sy memdisk
+clear
+neofetch
+paru ventroy
+clear
+paru ventoy
+clear
+fdisk -l
+sudo su
+clear
+ls
+ls downloads
+ls
+mkdir isos
+mv downloads/alpine-virt-3.13.2-x86_64.iso downloads/ubuntu-20.04.2.0-desktop-amd64.iso isos
+clear
+ls
+cd documents
+ls
+sudo find / -name *.iso
+sudo find / -name .iso
+clear
+ls
+clear
+lsblk
+ventoy /dev/sdb
+ventoy /dev/sdb -g -i
+sudo ventoy /dev/sdb -g -i
+clear
+lsblk
+sudo ventoy /dev/sdb -g -i -s
+sudo ventoy /dev/sdb -g -i -s -I
+sudo fdisk -l
+lsblk
+transmission-cli magnet:?xt=urn:btih:83646a5e14feb76b9e32cbead1ebc2e343bc3501&dn=archlinux-2021.03.01-x86_64.iso
+transmission-cli "magnet:?xt=urn:btih:83646a5e14feb76b9e32cbead1ebc2e343bc3501&dn=archlinux-2021.03.01-x86_64.iso"
+cd ..
+clear
+cd downloads
+transmission-cli manjaro-xfce-20.2.1-210103-linux59.iso.torrent
+ls
+clear
+ls
+ls tnr
+ls
+rm -r tnr
+clear
+ls
+zathura fb_1056553_700028245.pdf Checking\ results\ \|\ LABORATORY\ RAMUS.pdf c379d220-a446-4dfb-bccc-dc07ad6aae3c-vaf.pdf
+clear
+ls
+rm manjaro-xfce-20.2.1-210103-linux59.iso.*
+ls
+clear
+cd ..
+clear
+cd isos
+clear
+ls
+clear
+lsblk
+cp archlinux-2021.03.01-x86_64.iso /run/media/jojito/Ventoy
+ls /run/media/jojito/Ventoy
+clear
+reboot
+startx
+cd documents/programming/rust/learn-rust/data-structures
+clear
+ls
+bat unions.rs
+bat option-of-T
+bat option-of-T.rs
+clear
+vi arrays.rs
+./arrays
+q
+./arrays
+q
+./arrays
+q
+./arrays
+q
+./arrays
+q
+./arrays
+q
+./arrays
+q
+clear
+ls
+vi slices.rs
+head slices.rs
+vi slices.rs
+head slices.rs
+head --help
+vi slices.rs
+./slices
+q
+./slices
+q
+reboot
+startx
+sudo pacman -Rns linux-zen linux-zen-headers
+sudo pacman -Rns linux-zen
+exit
+ls
+cd isos
+ls
+file alpine-virt-3.13.2-x86_64.iso
+q
+sudo pacman -Sy bspwm
+exit
+startx
+poweroff
+startx
+cd documents/github/dwm
+clear
+make
+sudo make install
+vim Makefile
+clear
+sudo make install
+clear
+git commit -m "updated makefile"
+git add -a
+git add -A
+clear
+git commit -m "updated makefile"
+git push
+clear
+kill -9 -1
+startx
+clear
+poweroff
+ls
+startx
+gotop
+sudo pacman -Syu
+clear
+sudo pacman -Sy xwallpaper
+clear
+man xwallpaper
+xwallpaper -h
+xwallpaper --center pictures
+xwallpaper --center pictures/wallpapers/milky-way-space-mountain-of-the-field-fence-snow-star-mystery.jpg
+xwallpaper -h
+xwallpaper --focus pictures/wallpapers/milky-way-space-mountain-of-the-field-fence-snow-star-mystery.jpg
+q
+xwallpaper --fill pictures/wallpapers/baloons.jpg
+xwallpaper --maximize pictures/wallpapers/baloons.jpg
+xwallpaper --focus pictures/wallpapers/baloons.jpg
+xwallpaper --zoom pictures/wallpapers/baloons.jpg
+vim .xinitrc
+clear
+ls
+pictures
+wallpapers
+clear
+ls
+man ln
+clear
+ln -s ~/pictures/wallpapers/baloons.jpg wallpaper
+clear
+ls
+file wallpaper
+kill -9 -1
+startx
+sudo pacman -Rns fehbg
+sudo pacman -Rns feh
+exit
+vi .zshrc
+mbsync -a
+mail
+clear
+exit
+clear
+xwallpaper --zoom pictures/wallpapers/misty-meadow.jpg
+xwallpaper --zoom pictures/wallpapers/night-mountain.jpg
+cd pictures/wallpapers
+clear
+ls
+rm -rf wallpaper
+celar
+clear
+ln -s ~/pictures/wallpapers/night-mountain.jpg wallpaper
+lout
+startx
+sudo pacman -Sy picom
+clear
+vi .xinitrc
+lout
+startx
+sudo pacman -Sy ranger
+ranger
+pacman -Qi ranger
+r
+pacman -Qi ranger
+sudo pacman -Sy nnn
+nnn
+sudo pacman -Rns nnn
+pacman -Qi ranger
+sudo pacman -Sy w3m
+clear
+ranger
+clear
+sudo pacman -Rns w3m
+sudo pacman -Sy uberze
+pacman -Qi ranger
+sudo pacman -Sy ueberzug
+clear
+ranger
+clear
+vi .config/ranger
+clear
+cd .config/ranger
+clear
+ls
+sudo updatedb
+locate ranger
+cp /usr/share/doc/ranger/config/rc.conf .
+clear
+ls
+vi rc.conf
+ranger
+clear
+sudo pacman -Rns ueberzeg
+sudo pacman -Rns ueberzug
+clear
+sudo pacman -Sy w3m
+clear
+ranger
+clear
+sudo pacman -Sy sxiv
+ranger
+clear
+sxiv --help
+sxiv pictures
+sxiv pictures/wallpapers/*
+celar
+clear
+man sxiv
+sxiv pictures/wallpapers/* -Z
+sxiv pictures/wallpapers/* -z 50
+q
+cd documents/programming/rust/learn-rust/data-structures
+clear
+ls
+vi slices.rs
+./slices
+vi slices.rs
+q
+./slices
+q
+./slices
+q
+clear
+vi tuples.rs
+./tuples
+clear
+q
+./tuples
+q
+./tuples
+q
+clear
+vi pattern-mathing.rs
+vi pm.rs
+./pattern-mathing
+q
+xwallpaper --zoom pictures/wallpapers/northern-lights.webp
+mv pictures/wallpapers/northern-lights.webp pictures/wallpapers/northern-lights.jpeg
+xwallpaper --zoom pictures/wallpapers/northern-lights.webp
+xwallpaper --zoom pictures/wallpapers/northern-lights.jpeg
+clear
+q
+clear
+vi rustcat.rs
+./rustcat rustcat.rs
+cat rustcat.rs
+time ./rustcat /run/crond.pid
+time cat /run/crond.pid
+clear
+xxd --help
+xxd /dev/urandom > something
+clear
+cat something
+clear
+time cat something > /dev/null
+time ./rustcat something > /dev/null
+time cat something > /dev/null
+clear
+cd 
+clear
+ls
+cd documents/apps
+clear
+git clone https://github.com/uutils/coreutils
+ls
+cd coreutils
+clear
+ls
+cargo build --release
+clear
+ls
+cargo test --features unix
+clear
+ls
+cd util
+ls
+clear
+./show-utils.sh
+uuyes
+ls
+clear
+cd ..
+clear
+ls
+cd examples
+ls
+vi uuc.rs
+clear
+ls
+cd ..
+clear
+ls
+cat README.md
+clear
+ls
+cd docs
+ls
+clear
+vi uutils.rst
+clear
+ls
+cd documents/programming/rust
+clear
+ls
+mkdir lets-learn-rust
+clear
+ls
+cd lets-learn-rust
+clear
+ls
+clear
+vi NOTES.md
+rustc --version
+vi hello.rs
+vi .config/nvim/init.vim
+q
+vi hello.rs
+clear
+ls
+./hello
+clear
+cargo run
+ls
+cd ..
+clear
+ls
+cargo run
+coreutils cat README.md
+clear
+ls
+sudo updatedb
+locate coreutils
+clear
+ls
+clear
+cd documents/programming/rust/lets-learn-rust
+clear
+ls
+mkdir something
+cd something
+clear
+ls
+cargo init
+ls
+vi Cargo.toml
+clear
+ls
+cd src
+ls
+clear
+cd ..
+clear
+ls
+cargo run
+clear
+ls
+cd target
+ls
+cd debug
+ls
+./something
+clear
+ls
+cd util
+ls
+cd ..
+clear
+ls
+cd target
+ls
+cd debug
+ls
+./coreutils cat coreutils.d
+clear
+time cat coreutils.d
+time ./coreutils cat coreutils.d
+time cat coreutils.d
+clear
+l
+cd ..
+clear
+ls
+cd ..
+clear
+ls
+cd src
+clear
+ls
+vi hello.rs
+clear
+ls
+vi main.rs
+cd ..
+clear
+cargo run
+clear
+ls
+cd ..
+clear
+ls
+rm something
+clear
+rm -rf something
+clear
+ls
+vi ep2.rs
+cd documents/programming/rust/lets-learn-rust
+clear
+ls
+_pandoc NOTES.md| lynx -stdin
+clear
+sudo pacman -Sy pandoc
+clear
+pandoc NOTES.md| lynx -stdin
+pandoc documents/programming/rust/lets-learn-rust/NOTES.md | lynx -stdin
+q
+ifconfig
+sudo pacman -Sy ifconfig
+clear
+ip addr
+cat hello
+clear
+ls
+ip addr
+ls -a
+cd documents/apps/st
+ls
+vi st-copyout
+clear
+vi config.h
+clear
+cd documents/github/dwm
+clear
+ls
+vi config.h
+q
+cd 
+clear
+cd downloads
+clear
+ls
+rm alpine-virt-3.13.2-x86_64.iso.*
+clear
+ls
+mkdir nova
+mv Nova_Mono.zip
+mv Nova_Mono.zip nova
+cd nova
+clear
+ls
+unzip Nova_Mono.zip
+clear
+ls
+mv NovaMono-Regular.ttf /usr/share/fonts/TTF
+sudo mv NovaMono-Regular.ttf /usr/share/fonts/TTF
+ls /usr/share/fonts/TTF
+cd 
+clear
+ls
+cd documents/github/dwm
+clear
+ls
+vi config.h
+make
+sudo make install
+clear
+cd ../../apps/st
+clear
+ls
+vi config.h
+make
+sudo make install
+ls
+something
+clear
+vi config.h
+cd downloads
+clear
+ls
+rm -rf nova
+clear
+mkdir Jet
+mv JetBrains_Mono,Nova_Mono.zip Jet
+clea
+clear
+ls
+mv Jet
+cd Jet
+clear
+ls
+unzip JetBrains_Mono,Nova_Mono.zip
+clear
+ls
+cd JetBrains_Mono
+ls
+cd static
+ls
+mv ./* /usr/share/fonts/TTF
+sudo mv ./* /usr/share/fonts/TTF
+clear
+ls
+exit
+ls /usr/share/fonts/TTF
+make
+sudo make install
+clear
+q
+cd documents/github/dwm
+vi config.h
+make
+sudo make install
+lout
+startx
+ls
+clear
+ls
+cd documents/apps/st
+clear
+vi config.h
+make
+sudo make install
+ls
+vi config.h
+sudo make install
+ls
+something
+clear
+cd documents/github/dwm
+vi config.h
+sudo make install
+clear
+git add -A
+git commit -m "updated dwm font"
+git push
+clear
+lout
+startx
+ranger
+clear
+q
+clear
+cd scripts
+ls
+cd auto-install
+cd ..
+clear
+ls
+bat dmenumanselect.sh
+bat emojiSelector/emojiSelector.sh
+clear
+ls
+cd dwm_bar
+ls
+cd ..
+clear
+ls
+mv dwm_bar/bar.bash .
+clear
+ls
+git rm dwm_bar/
+git rm -r dwm_bar/
+clear
+ls
+mkdir small
+mv bar.bash dmenumanselect.sh small
+clear
+ls
+git add -A
+git commit -m "changed structure around"
+git push
+clear
+ls
+mail
+clear
+cd 
+clear
+ls
+rm hello hello.rs
+clear
+ls
+clear
+ls
+cd documents/github
+ls
+vi master-token
+clear
+ls
+l master-token
+chmod 400 master-token
+l master-token
+clear
+ls
+cd dwm
+ls
+vi config.h
+sudo make install
+clear
+git commit -m "updated fonts again :/"
+git add -A
+git commit -m "updated fonts again :/"
+git push --help
+clear
+cat ~/documents/github/master-token
+git push
+q
+git config credential.helper 'cache --timeout=never'
+cd documents/github/dwm
+git config credential.helper 'cache --timeout=never'
+clear
+git config credential.helper 'cache --timeout=aaaa'
+git config credential.helper 'cache --timeout=never'
+git pull
+clear
+cd ../arch-config
+git pull
+clear
+ls
+cd ..
+celar
+ls
+clear
+ls
+cd 
+clea
+clear
+vi .zshrc
+manenu
+manmenu
+clear
+q
+cd documents/github/dwm
+git pull
+clear
+cd 
+clear
+lout
+startx
+vi .xinitrc
+lout
+startx
+vi .xinitrc
+lout
+startx
+cd scripts
+clear
+ls
+clear
+cd 
+vi .zshrc
+q
+git-token
+clear
+q
+vi .zshrc
+vi scripts
+cd scripts/small
+clear
+ls
+vi wpaper.sh
+ls
+cd 
+clear
+ls
+clear
+cd test
+ls
+rm -rf ./*
+clear
+ls
+vi test.sh
+chmod 755 test.sh
+l test.sh
+./test.sh something
+clear
+ls
+rm test.sh
+cd 
+clear
+ls
+vi .zshrc
+cd pictures/wallpapers/
+ls
+wpaper ~/pictures/wallpapers/milky-way-space-mountain-of-the-field-fence-snow-star-mystery.jpg
+clear
+tail .zshrc
+cd scripts/small
+ls
+vi wpaper.sh
+chmod 755 wpaper.sh
+l wpaper.sh
+./wpaper.sh ~/pictures/wallpapers/baloons.jpg
+vi wpaper.sh
+./wpaper.sh ~/pictures/wallpapers/baloons.jpg
+vi wpaper.sh
+./wpaper.sh ~/pictures/wallpapers/baloons.jpg
+clear
+q
+clear
+ls
+vi .zshrc
+wpaper pictures/wallpapers/misty-meadow.jpg
+lout
+startx
+ls
+cd scripts/small
+ls
+vi wpaper.sh
+man ln
+wpaper pictures/wallpapers/mojave.jpeg
+cd scripts/small
+ls
+vi wpaper.sh
+clear
+cd 
+clear
+wpaper pictures/wallpapers/night-mountain.jpg
+ls pictures/wallpapers/wallpaper
+cd scripts/small
+vi wpaper.sh
+clear
+git add wpaper.sh
+git commit -m "added a wallpaper changer"
+git push
+git-token
+git push
+git pull
+clear
+l
+clear
+ls
+vi wpaper.sh
+clear
+ls
+man readlink
+readlink pictures/wallpapers/mojave.jpeg
+readlink -f pictures/wallpapers/mojave.jpeg
+vi wpaper.sh
+cd 
+clear
+wpaper documents/programming/c/fibonacci/a.out
+clear
+wpaper pictures/wallpapers/mojave.jpeg
+l pictures/wallpapers/wallpaper
+clear
+ls
+clear
+ls
+wpaper pictures/wallpapers/night-mountain.jpg
+clear
+cd scripts/small
+ls
+vi wpaper.sh
+man ln
+cd 
+wpaper pictures/wallpapers/misty-meadow.jpg
+clear
+cd scripts/small
+ls
+vi wpaper.sh
+cd 
+clear
+wpaper pictures/wallpapers/night-mountain.jpg
+cd scripts/small
+ls
+clear
+git add -A 
+git commit -m "added little wallpaper changer"
+git-token
+git push
+clear
+q
+lsblk
+sudo paru
+paru
+cd documents/github/dwm/config.h
+cd documents/github/dwm/
+vi config.h
+df -h
+clear
+lsblk
+reboot
+startx
+ls
+clear
+lsblk
+mount /dev/sda1 /mnt
+sudo mount /dev/sda1 /mnt
+cd vi
+cd videos
+clear
+ls
+mv Inferno.2016.HC.HDRip.X264.AC3-EVO Inferno
+mv Pulp\ Fiction\ \(1994\)\ \[1080p\] Pulp-Fiction
+mv Ratatouille\ \(2007\)\ \[1080p\] Ratatouille
+clear
+ls
+mkdir Snowfall
+mv Snowfall-S0* Snowfall
+clear
+ls
+mv As-Above,-So-Below As-Above-So-Below
+clear
+ls
+mv ./* /mnt/films/
+mv -r ./* /mnt/films/
+mv ./* /mnt/films/
+df -h
+q
+df 0h
+df -h
+ls
+clear
+ls -R /mnt/films/Snowfall
+ls -l /mnt/films/Snowfall
+clear
+ls
+rm -rf ./*
+clear
+cd 
+df -h
+clear
+sudo umount /dev/sda1
+q
+cd documents/github/dwm
+vi config.h
+sudo make install
+lout
+startx
+ls
+cd pictures/wallpapers
+clear
+ls
+wpaper baloons.jpg
+cal
+cal -3
+clear
+cal
+cd pictures/wallpapers
+clear
+ls
+rm milky-way-space-mountain-of-the-field-fence-snow-star-mystery.jpg
+clear
+ls
+wpaper northern-lights.jpeg
+rm northern-lights.jpeg
+clera
+clear
+ls
+wpaper misty-meadow.jpg
+wpaper night-mountain.jpg
+ls
+wpaper northern-lights.jpg
+clear
+ranger
+cd documents/exeter/year1/sem2
+ls
+cd ECM1416/week\ 4/notes
+ls
+zathura ./*
+clear
+cd 
+clear
+q
+ls
+wpaper pictures/wallpapers/night-mountain.jpg
+q
+bat documents/programming/rust/learn-rust/data-structures/arrays.rs
+ls
+clear
+nordvpn c Bulgaria
+q
+sudo mount /dev/sda1 /mnt
+clear
+lsblk
+clear
+q
+sudo mount /dev/sda1 /mnt
+lsblk
+sudo mount /dev/sdb1 /mnt
+wpaper pictures/wallpapers/northern-lights.jpg
+file pictures/wallpapers/wallpaper
+clear
+cd documents/programming/rust
+clear
+ls
+cd lets-learn-rust
+clear
+ls
+vi ep2.rs
+cd documents/programming/rust/lets-learn-rust
+vi NOTES.md
+sudo pacman -Sy discord
+clear
+vi .zshrc
+q
+./ep2
+q
+./ep2
+q
+nordvpn d
+q
+./ep2
+q
+./ep2
+clear
+vi ep2
+vi ep2.rs
+./ep2
+q
+clear
+vi ep3.rs
+./ep3
+q
+paru
+nordvpn c Bulgaria
+q
+nordvpn c Bulgaria
+nmtui
+nordvpn c Bulgaria
+lsblk
+sudo mount /dev/sdc1 /mnt
+lsblk
+clear
+q
+wpaper pictures/wallpapers/baloons.jpg
+q
+lsblk
+sudo mount /dev/sdd1 /mnt
+cd /mnt/films
+ls
+cd How\ to\ Train\ Your\ Dragon\ 3\ 2019\ 720p\ HC\ NEW\ HDRip-1XBET
+ls
+mpv How\ to\ Train\ Your\ Dragon\ 3\ 2019\ 720p\ HC\ NEW\ HDRip-1XBET.mp4
+q
+nordvpn d
+sudo pacman -Syu
+q
+sudo pacman -Sy bspwm sxhkd
+clear
+clrea
+clear
+something
+something else
+clear
+wpaper pictures/wallpapers/night-mountain.jpg
+vi .xinitrc
+mkdir .config/sxhkd
+clear
+cd .config/sxhkd
+clear
+ls
+clear
+cd .config/sxhkd
+clear
+sl
+clear
+pacman -Ss schkd
+pacman -Ss sxhkd
+clear
+vi .xinitrc
+q
+vi sxhkdrc
+echo $TERMINAL
+echo $TERM
+vi sxhkdrc
+clear
+ls
+cd 
+clear
+vi .xinitrc
+sudo pacman -rns bspwm
+sudo pacman -Rns bspwm
+clear
+vi documents/github/dwm
+sudo make install
+cd documents/github/dwm
+sudo make install
+lout
+startx
+readmail
+clear
+vi .config/sxhkd/sxhkdrc
+sxhkd
+vi .config/sxhkd/sxhkdrc
+sxhkd
+sxhkd &
+lout
+startx
+ls
+mpv How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.AC3.x264-MkvCage.ws.mkv
+clear
+ls
+mv .config/sxhkd/sxhkdrc documents/github/dwm/sxhkdrc
+man ln
+ln -s ~/documents/github/dwm/sxhkdrc ~/.config/sxhkd/sxhkdrc
+clear
+ls
+htop
+clear
+sudo systemctl disable nordvpnd
+clear
+sudo systemctl disable nordvpnd --now
+htop
+clear
+cd documents/github/dwm
+clear
+ls
+vi config.h
+vi sxhkdrc
+sudo make install
+clear
+lout
+startx
+clear
+htop
+startx
+cd documents/github/dwm
+clear
+ls
+vi config.h
+vi sxhkdrc
+sxhkd &
+vi sxhkdrc
+sxhkd &
+vi sxhkdrc
+sxhkd &
+vi sxhkdrc
+sxhkd &
+clear
+mv How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.AC3.x264-MkvCage.ws.mkv videos
+clear
+mpv videos/How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.AC3.x264-MkvCage.ws.mkv
+clear
+cd documents/github/dwm
+git add -A
+git commit -m "started moving hotkeys to sxhkd"
+git push
+token-master
+git push
+clear
+q
+mbsync -a
+mail
+q
+vi sxhkdrc
+sudo make install
+lout
+startx
+ls
+man dash
+dash -c -e nmtui
+clear
+cd documents/github/dwm
+vi config.h
+q
+cd documents/github/dwm
+clear
+ls
+vi sxhkd
+vi sxhkdrc
+sudo make install
+lout
+startx
+ls
+clear
+cd documents/github/dwm
+clear
+cd documents/github/dwm
+vi sxhkdrc
+vi config.h
+sudo make install
+cd 
+clear
+vi .xinitrc
+clea
+rls
+clear
+rls
+man rls
+rls --help
+rls -V
+clear
+vi .zshrc
+lout
+startx
+vim .zshrc
+clear
+lout
+kill -9 -1
+startx
+ls
+cd documents/github/dwm
+clear
+vi zsh
+vi sxhkdrc
+lout
+startx
+ls
+clear
+cd documents/github/dwm
+vi config.h
+vi sxhkdrc
+sudo make install
+lout
+startx
+cd documents/github/dwm
+vi config.h
+vi sxhkdrc
+pacman -Qs sysact
+pacman -Ss sysact
+sudo pacman -Sy sysact
+q
+clear
+sudo make install
+git add -A 
+git commit -m "moved most wm independent keybinds to sxhkd"
+token-master
+git push
+git config credential.helper 'cache --timeout=99999999999999999999999999'
+git push
+git pull
+lout
+startx
+xbacklight -d 10
+clear
+vi .zshrc
+cat .config/zsh/zshrc
+cat .config/zsh/zshrc | bat
+clear
+ls
+cat .zshrc >> .config/zsh/zshrc
+clear
+uninstall_oh_my_zsh
+clear
+ls
+cat .zshrc.omz-uninstalled-2021-03-25_21-52-06
+ls -a | grep zsh
+vi .zshrc
+something
+clear
+ls
+cd .config/zsh/zshrc
+cd .config/zsh/
+ls
+rm -rf oh-my-zsh
+clear
+vi zshrc
+vi something
+vi
+vi
+clear
+vi .config/zsh/zshrc
+ls
+tets
+test
+clear
+documents
+clear
+cd .config/zsh
+clear
+ls
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> zshrc
+vi zshrc
+sl -V
+lout
+startx
+cd pictures/wallpapers
+clear
+ls
+file anime-street.jpg
+exiv2 anime-street.jpg
+cd /etc/default/
+ls
+vi grub
+sudo nvim grub
+clear
+update-grub
+sudo pacman -Sy update-grub
+sudo pacman -Sy grub2
+sudo pacman -Sy grub
+clear
+grub-mkconfig -o /boot/grub/grub.cfg
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+reboot
+startx
+cd /etc/default
+sudo vi grub
+sudo nvim grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+reboot
+nordvpn c Bulgaria
+sudo systemctl start nordvpnd
+nordvpn c Bulgaria
+q
+lsblk
+sudo mount /dev/sda1 /mnt
+nordvpn d
+q
+startx
+cd /etc/default
+clear
+vi grub
+sudo nvim gruv
+sudo nvim grub
+clear
+cd 
+clear
+cd documents/apps
+clear
+man git clone
+git clone https://github.com/sandesh236/sleek--themes/tree/master/Sleek%20theme-dark
+git clone https://github.com/sandesh236/sleek--themes/Sleek%20theme-dark
+git clone https://github.com/sandesh236/sleek--themes
+cd sleek--themes
+ls
+cd Sleek\ theme-dark
+clear
+ls
+vi install.sh
+clear
+./install.sh
+sudo ./install.sh
+clear
+reboot
+cd documents/apps/sleek--themes
+clear
+ls
+cd Sleek\ theme-bigSur
+cd ../Sleek\ theme-dark
+sudo ./uninstall.sh
+clear
+cd ../Sleek\ theme-bigSur
+sudo ./install.sh
+q
+startx
+reboot
+startx
+ls
+cd documents/apps/sleek--themes
+ls
+cd Sleek\ theme-bigSur
+sudo ./uninstall.sh
+cd ..
+clear
+ls
+cd Sleek\ theme-dark
+clear
+ls
+vi install.sh
+clear
+ls
+cd sleek
+ls
+cd icons
+ls
+cat arch
+cat archlinux.png
+clear
+ls
+sxiv ./*
+cp archlinux.png archlinux.png.bak
+cp linux.png archlinux.png
+cd ..
+clear
+ls
+cd ..
+ls
+cd sleek
+clear
+ls
+sxiv ./*
+clear
+cd ..
+clear
+ls
+sudo ./install.sh
+reboot
+ls
+vi .profile
+ls
+clear
+ls -la | grep profile
+ls -la
+rm -rf .zcompdump .zshrc.omz-uninstalled-2021-03-25_21-52-06
+ls -la
+clear
+sudo pacman -Sy
+crontab -e
+clear
+ls
+crontab -e
+clear
+readmail
+q
+man pacman
+which pacman
+pacman --color always -Syu
+sudo pacman --color always -Syu
+clear
+which pacman
+bash
+clear
+man pacman
+clear
+pacman -Uyu
+pacman -Uu
+pacman -U
+sudo pacman -Uyu
+sudo pacman -U
+sudo pacman -Syu
+clear
+readmail
+clear
+sudo pacman -Syu
+q
+readmail
+q
+startx
+poweroff
+ls
+cd downloads
+clear
+ls
+unzip as_1056614_051142.ipynb.zip
+clear
+ls
+jupyter-lab as_1056614_051142.ipynb
+clear
+q
+cd downloads
+ls
+cd Jet
+ls
+cd ..
+clear
+ls
+rm -rf Jet __MACOSX
+clear
+ls
+rm -rf as_1056614_051142.ipynb as_1056614_051142.ipynb.zip as_1056553_051142.pdf
+clear
+q
+q
+./ep3
+q
+./ep3
+q
+./ep3
+q
+htop
+q
+./ep3
+q
+./ep4
+q
+./ep4
+q
+./ep4
+q
+./ep4
+q
+./ep4
+clear
+q
+./ep4
+q
+./ep4
+q
+./ep4
+q
+./ep4
+q
+./ep5
+q
+./ep5
+q
+./ep5
+q
+startx
+cd documents/programming/rust/learn-rust
+cd ../lets-learn-rust
+clear
+ls
+vi NOTES.md
+cd documents/programming/rust/lets-learn-rust
+ls
+vi ep3.rs
+clear
+vi ep4.rs
+clear
+readmail
+sudo vim /etc/sudoers
+clear
+which sudo
+crontab -e
+clear
+vi ep5.rs
+./ep5
+readmail
+clear
+man pacman
+crontab -e
+clear
+man pacman
+crontab -e
+clear
+sudo pacman -Syuw --no-confirm --needed --noprogressbar
+sudo pacman -Syuw --noconfirm --needed --noprogressbar
+clear
+sudo pacman -Su
+clear
+vi ep5.rs
+readmail
+clear
+crontab -e
+clear
+ls
+rustc ./ep5.rs
+vi ep5.rs
+reboot
+pamixer
+pamixer --default-source
+q
+pamixer --help
+pamixer --default-source
+pamixer --get-volume
+pamixer --get-volume
+pamixer --get-volume
+pamixer --get-volume
+pamixer --get-volume
+pamixer --get-volume
+clear
+pamixer --help
+pamixer --list-sources
+pamixer --source 5
+pamixer --source 4
+pamixer --source 2
+pamixer --source 3
+clear
+sudo pamixer --source 2
+sudo pamixer --source 3
+clear
+pamixer --help
+pamixer --list-sources
+pamixer --list-sources
+pamixer --source 7
+pamixer --source 6
+pamixer --source 3
+pamixer --source 2
+pamixer --source 1
+pamixer --source 2
+pamixer -u
+q
+./ep5
+q
+./ep5
+q
+./ep5
+q
+ls
+cd .config/nvim/
+vi init.vim
+vi init.vim
+q
+cd documents/programming/rust/lets-learn-rust
+clear
+ls
+vi ep5.rs
+clear
+ls
+mkdir calcularot
+rm -r calcularot
+mkdir calculator
+cd calculator
+clear
+ls
+clear
+cargo new
+cargo --help
+clear
+cargo new --help
+clear
+cargo help new
+cargo new .
+cargo init
+clear
+ls
+cd src
+ls
+vi main.rs
+ls
+rm main
+ls
+clear
+vi main.rs
+cd 
+clear
+exit
+cd documents/programming/rust/lets-learn-rust
+clear
+ls
+vi NOTES.md
+clear
+ls
+cd calculator
+clear
+ls
+vi Cargo.toml
+clear
+ls
+cargo run
+clear
+cargo run
+cargo run
+cargo run
+cargo run
+clear
+cargo run
+clear
+cargo run
+clear
+cargo run
+clear
+cargo run
+cargo run
+cargo run
+clear
+cargo run
+clear
+exit
+ls
+sl
+sl
+train
+clear
+sl
+clear
+ls
+cd test
+ls
+clear
+l
+clear
+sl
+clear
+vi .config/zsh/zshrc
+l
+clear
+l
+l
+cat .lesshst
+rm -rf .lesshst
+lout
+ls
+clear
+cd documents/apps/coreutils
+ls
+cd target
+ls
+cd release
+ls
+clear
+pwd >> ~/.config/zsh/zshrc
+cd 
+clear
+ls
+cd .config/zsh/zshrc
+cd .config/zsh/
+clear
+vi zshrc
+uu cat
+uu cat .bash_history
+q
+git clone https://github.com/luliic2/rttnw\
+
+mv rttnw documents/apps/
+clear
+ls
+cd documents/apps/rttnw
+clear
+la
+clear
+ls
+cargo run --release
+cargo run --release 1
+cargo run --release 4
+cargo run --release 5
+cd ~/.config/groff/fonts
+clear
+sl
+clear
+ls
+cd ..
+ls
+cd fonts
+clear
+ls
+cd Times\ New\ Roman
+ls
+mv install-font.sh ../
+clear
+ls
+cd ..
+ls
+rm -r Times\ New\ Roman
+clear
+ls
+./install-font.sh --help
+./install-font.sh -help
+cd documents/programming/rust/lets-learn-rust
+clear
+ls
+clea
+clear
+ls
+mkdir matrix
+clear
+ls
+cd matrix
+clear
+l
+ls
+clear
+ls
+cargo init
+clear
+ls
+cd src
+clear
+ls
+vi main.rs
+clear
+sl
+cd ../../note
+cd ../../../notes
+celar
+ls
+clear
+zathura Vec.pdf
+clear
+clear
+ls
+ls /usr/share/fonts/gsfonts
+clear
+cp /usr/share/fonts/TTF/JetBrainsMono-* ~/.config/groff/fonts
+cd ~/.config/groff/fonts
+clear
+ls
+clear
+l
+clear
+ls
+clear
+clear
+./install-font.sh -s -F JBM -f +R JetBrainsMono-Regular.ttf
+sudo ./install-font.sh -s -F JBM -f +R JetBrainsMono-Regular.ttf
+sudo ./install-font.sh -s -F JBM -f +B JetBrainsMono-Bold.ttf
+sudo ./install-font.sh -s -F JBM -f +I JetBrainsMono-Italic.ttf
+sudo ./install-font.sh -s -F JBM -f +BI JetBrainsMono-BoldItalic.ttf
+clear
+q
+cd documents/programming/rust/lets-learn-rust
+cler
+clear
+ls
+vi NOTES.md
+clear
+ls
+cd calculator
+clear
+cargo run
+cd ../matrix
+clear
+ls
+cargo run
+cargo run
+clear
+bat ../NOTES.md
+clear
+cargo run
+cargo run
+cargo run
+clear
+ls
+clear
+rustdoc Vec
+rustdoc vector
+clear
+rustdoc --help
+rustdoc --help
+clear
+man rustdoc
+clear
+ls
+cd ../..
+clear
+ls
+mkdir notes
+cd notes
+vi Vec\<T\>.ms
+clear
+ls
+mv Vec\<T\>.ms Vec.ms
+clear
+vi Vec.ms
+clear
+cd ../matrix
+clear
+cargo rin
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+clear
+cargo rin
+clear
+cargo run
+cargo run
+cargo run
+uu cat documents/programming/rust/matrix/src/main.rs
+q
+./ep6
+q
+./ep6
+q
+./ep6
+q
+q
+./ep6
+q
+./ep6
+q
+./ep6
+q
+./ep6
+q
+./ep6
+q
+cd documents/programming/rust/lets-learn-rust
+cd ../notes
+clear
+ls
+zathura Vec.pdf
+clear
+ls
+cd ../lets-learn-rust/matrix
+lcea
+rclear
+clear
+cd ../
+clear
+ls
+mv matrix ../
+clear
+ls
+cd ../
+clear
+ls
+cd matrix
+cd src
+vi main.rs
+clear
+ls
+cd ../../
+cd lets-learn-rust
+clear
+ls
+vi ep5.rs
+vi ep6.rs
+vi ep6.rs
+clear
+cd documents/programming/rust/matrix
+clear
+cargo rin
+clear
+cargo run
+cargo run
+cargo run
+clear
+cargo run
+cargo run
+cargo run
+cargo run
+clear
+cargo run
+cargo run
+cargo run
+clear
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+clear
+cargo run
+cargo run
+cargo run
+cargo run
+clear
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+clear
+cargo run
+cargo run
+cargo run
+cargo run
+clear
+cargo run
+cargo run
+clear
+cd ../notes
+clear
+cd ../lets-learn-rust
+vi NOTES.md
+clear
+rustc pattern-mathing.rs
+./pattern-mathing
+q
+rustc pattern-mathing.rs
+./pattern-mathing
+q
+./generics
+q
+./generics
+q
+./VecT
+q
+./VecT
+q
+./VecT
+q
+./VecT
+q
+./VecT
+q
+./VecT
+q
+./VecT
+q
+cd documents/programming/rust/learn-rust/data-structures
+clear
+ls
+vi pattern-mathing
+vi pattern-mathing.rs
+rustc pattern-mathing
+rustc pattern-mathing.rs
+clear
+./pattern-mathing
+clear
+vi pm.rs
+vi pm.rs
+clear
+vi test.ms
+clear
+vi pm.rs
+clear
+ls
+vi generics.rs
+clear
+cd ..
+clear
+mkdir standard-collections
+cd standard-collections
+clear
+ls
+vi overview.rs
+clear
+ls
+rustc overview.rs
+clear
+ls
+vi VecT.rs
+rustc VecT.rs
+clear
+vi VecT
+clear
+vi VecT.rs
+clear
+rustc VecT
+rustc VecT.rs
+clear
+./VecT
+q
+q
+./VecT
+q
+./VecT
+q
+./VecT
+q
+q
+./VecT
+q
+./VecT
+q
+./VecT 
+q
+./VecT
+q
+./HashMap
+q
+./HashMap
+q
+./HashMap
+q
+./HashMap
+q
+./HashMap
+q
+./HashMap
+q
+./HashMap
+q
+cd documents/programming/rust/learn-rust/standard-collections
+clear
+ls
+vi VecT.rs
+clear
+ls
+vi HashMap.rs
+clear
+bat ../../lets-learn-rust/ep6.rs
+bat ../../lets-learn-rust/NOTES.md
+vi HashMap.rs
+clear
+q
+readmail
+q
+sudo pacman -Su
+sudo systemctl start nordvpnd
+nordvpn c Bulgaria
+q
+lsblk
+clear
+ls
+q
+xxd /dev/urandom
+xxd /dev/urandom
+cmatrix
+cmatrix
