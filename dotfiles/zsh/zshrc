@@ -53,17 +53,20 @@ bindkey -v
 # syntax highlighting
 source /home/jojito/.config/zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
+PATH="$HOME/.local/bin:$PATH"
+
 # alias
 alias ls="exa"
-alias manmenu="$HOME/scripts/small/dmenumanselect.sh"
-alias pacman="pacman --color always"
+# alias manmenu="$HOME/scripts/small/dmenumanselect.sh"
+# alias pacman="pacman --color always"
 alias readmail="cat /var/spool/mail/$USER"
 alias vi="nvim"
 alias lout="kill -9 -1"
-alias mkgroff="~/.config/groff/makegroff.bash"
-alias mail="neomutt"
+# alias mkgroff="~/.config/groff/makegroff.bash"
+# alias mail="neomutt"
 alias q="exit"
-alias token-master="cat $HOME/documents/github/master-token"
-alias wpaper="$HOME/scripts/small/wpaper.sh"
+# alias token-master="cat $HOME/documents/github/master-token"
+# alias wpaper="$HOME/scripts/small/wpaper.sh"
 alias l="exa -laH"
-alias uu="/home/jojito/documents/apps/coreutils/target/release/coreutils"
+# alias uu="/home/jojito/documents/apps/coreutils/target/release/coreutils"
+alias intellij="$HOME/github/idea-IC-212.5284.40/bin/idea.sh"

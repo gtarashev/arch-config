@@ -7145,3 +7145,401 @@ xxd /dev/urandom
 xxd /dev/urandom
 cmatrix
 cmatrix
+ln -s $HOME/github/arch-config/dotfiles/zsh $HOME/.config/zsh
+exit
+ls .config
+sudo apt-get install exa
+sudo apt-get install rust
+sudo apt install gcc
+sudo apt install build-essentials
+curl https://sh.rustup.rs -sSf | sh
+sudo apt-get update && sudo apt-get upgrade
+cd github
+git clone https://github.com/ogham/exa.git
+clear
+cd exa
+cargo build --release
+sudo apt-get install cargo
+cargo build --release
+clear
+ls
+ex
+exa
+ls
+l
+cat .
+cd ../..
+cd github/arch-config/dotfiles/zsh
+vi zshrc
+q
+l
+ls
+cd github/arch-config/dotfiles/zsh
+vi zshrc
+q
+ls
+cd github
+ls
+ls exa
+echo $PATH
+ln -s /usr/bin/exa $HOME/github/exa/target/release/exa
+ln -s $HOME/github/exa/target/release/exa /usr/bin/exa
+sudo ln -s $HOME/github/exa/target/release/exa /usr/bin/exa
+exa
+clear
+vi arch-config/dotfiles/zsh/zshrc
+q
+ls
+clear
+l
+clear
+q
+ls .config
+ls .config/zsh
+cd .config/zsh
+ls
+clear
+git clone https://github.com/zsh-users/zsh-syntax-highlighting
+ls
+q
+ls
+clear
+ls
+clear
+sudo apt-get install python3
+sudo apt-get install -y python3-pip git libtinfo-dev libzmq3-dev libcairo2-dev libpango1.0-dev libmagic-dev libblas-dev liblapack-dev
+curl -sSL https://get.haskellstack.org/ | sh
+vi github/arch-config/dotfiles/zsh/zshrc
+git clone https://github.com/gibiansky/IHaskell
+cd IHaskell
+ls
+clear
+pip3 install -r requirements.txt
+clear
+stack install --fast
+q
+ihaskell install --stack
+stack exec jupyter -- notebook
+reboot
+stack exec jupyter -- notebook
+stack exec jupyter -- notebook
+sudo apt-get update && sudo apt-get upgrade
+sudo apt-get update && sudo apt-get upgrade
+reboot
+stack exec jupyter -- notebook
+clear
+which ghc
+sudo apt-get install ghc
+which ghc
+stack exec jupyter -- notebook
+vi ~/.stack/global-project/stack.yaml
+clear
+stack exec ghc -- --version
+ghc --version
+sudo apt-get remove ghc
+sudo apt-get install ghc
+ghc --version
+vi ~/.stack/global-project/stack.yaml
+clear
+stack exec jupyter -- notebook
+stack exec ghc -- --version
+stack install --fast
+stack init
+stack exec ghc -- --version
+ghc --version
+stack exec jupyter -- notebook
+vi ~/.stack/global-project/stack.yaml
+stack exec ghc -- --version
+stack ghc --version
+stack ghci --version
+stack ls dependencies
+stack list-dependencies
+clear
+sudo apt-get install docker
+which docker
+sudo apt-get remove docker
+sudo apt-get update
+clear
+sudo apt-get install \\
+    apt-transport-https \\
+    ca-certificates \\
+    curl \\
+    gnupg \\
+    lsb-release
+sudo apt autoremove
+curl -fsSL https://download.docker.com/linux/debian/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg\
+
+echo \\
+  "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/debian \\
+  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+clear
+sudo apt-get update
+sudo apt-get install docker-ce docker-ce-cli containerd.io
+sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu\
+ bionic stable"
+sudo apt update
+reboot
+sudo apt-get install bluej
+sudo nvim /etc/apt/sources.list.d/additional-repositories.list
+clear
+sudo apt-get update && sudo apt-get upgrade
+ping google.com
+ping 8.8.8.8
+iwctl
+nmtui
+ip a
+reboot
+sudo apt-get update
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install bluej
+sudo apt-get install jdk
+sudo apt-get install openjdk
+java -version
+clear
+sudo apt-get install intellij
+cd Downloads
+ls
+clear
+ls
+tar xvf ideaIU-2021.2.2.tar.gz
+clear
+ls
+cd idea-IU-212.5284.40
+ls
+cd bin
+ls
+cd ..
+ls
+cd ..
+rm -rf ./*
+clear
+git clone https://github.com/JetBrains/intellij-community
+clear
+ls
+mv intellij-community ../github
+cd ../github/intellij-community
+ls
+cleara
+clear
+ls
+sudo apt-get install ant
+cat build
+cat build.xml
+ant
+cd ..
+ls
+rm -rf intellij-community
+cd ..
+clear
+ls
+rm -rf Untitled*
+ls
+clear
+ls
+ls
+ls
+clea
+clear
+cd Downloads/
+tar xvf ideaIC-2021.2.2.tar.gz
+clear
+cd idea-IC-212.5284.40
+ls
+java -version
+clear
+ls
+cat build.txt
+cat Install-Linux-tar.txt
+cd bin
+./idea.sh
+cd ..
+cd ,,
+cd ..
+mv idea-IC-212.5284.40 ../github
+clear
+cd ../github/idea-IC-212.5284.40/bin
+vi ~/.config/zsh/zshrc
+q
+idea.sh
+vi ~/.config/zsh/zshrc
+vi ~/.config/zsh/zshrc
+q
+which java
+file /usr/bin/java
+intellij
+reboot
+reboot
+reboot
+cd Downloads
+ls
+unzip Noto_Sans_Mono.zip
+clear
+ls
+rm -rf Noto_Sans_Mono.zip
+ls
+mkdir noto
+mv NotoSansMono-VariableFont_wdth,wght.ttf OFL.txt README.txt static
+mv static noto
+cd noto/static
+ls
+mv NotoSansMono-VariableFont_wdth,wght.ttf OFL.txt README.txt ..
+clear
+ls
+cd ..
+ls
+clear
+cat README.txt
+clear
+ls
+cat OFL.txt
+clear
+cd static
+ls
+cd NotoSansMono
+ls
+sudo mkdir /usr/share/fonts/truetype/noto-sans-mono
+mv ./* /usr/share/fonts/truetype/noto-sans-mono
+sudo mv ./* /usr/share/fonts/truetype/noto-sans-mono
+ls
+clear
+cd .
+cd 
+clear
+reboot
+ls
+ln -s ~/github/arch-config/dotfiles/nvim ~/.config/nvim
+clear
+ls
+cd Documents
+ls
+clear
+sudo apt-get update && sudo apt-get upgrade
+clear
+l
+clear
+ls
+mkdir exeter
+cd exeter
+mkdir year2
+cd year2
+ls
+clear
+mkdir term1
+cd term1
+mkdir ecm2418
+clear
+ls
+cd ecm2418
+ls
+clear
+mkdir week3
+ls
+cd week3
+clear
+vi recursive-functions.md
+vi recursive-functions.md
+ckear
+clear
+ls
+vi euclids-algorithm.hs
+sudo apt-get install cabal
+sudo apt-get install ghcup
+sudo apt-get remove haskell
+curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh
+ghci
+clear
+sudo apt-get install cabal-install
+clear
+cabal install cabal-install
+clear
+cd 
+clear
+ls
+mkdir Documents/programming
+cd Documents/programming
+ls
+mkdir haskell
+clear
+ls
+cd haskell
+ls
+clear
+mkdir ha
+mkdir haq
+rm -rf ha
+cd haq
+ls
+vi Haq.hs
+clear
+ls
+clear
+cabal init
+clear
+ls
+cat haq.cabal
+rm -rf CHANGELOG.md haq.cabal LICENSE Main.hs Setup.hs
+ls
+cabal init
+clear
+ls
+clear
+cabal sandbox init
+cabal install -j
+ls
+vi Haq.hs
+cabal install -j
+clear
+ls
+l
+.cabal-sandbox/bin/haq
+clear
+cd 
+cd Documents/exeter/year2/term1/ecm2418/week3
+ls
+clear
+ls
+mkdir euclids-algorithm
+mv euclids-algorithm.hs euclids-algorithm
+cd euclids-algorithm
+clear
+vi euclids-algorithm.hs
+clear
+ls
+which ghc
+clear
+ghc -version
+ghc --version
+clear
+ghc euclids-algorithm.hs
+vi euclids-algorithm.hs
+ghc euclids-algorithm.hs
+ls
+./euclids-algorithm
+clear
+vi euclids-algorithm
+vi euclids-algorithm.h
+vi euclids-algorithm.hs
+ghc euclids-algorithm.hs
+vi euclids-algorithm
+vi euclids-algorithm.hs
+ghc euclids-algorithm.hs
+./euclids-algorithm
+vi euclids-algorithm.hs
+ls
+cd Documents/exeter/year2/term1/
+mkdir ecm2426
+cd ecm2426
+ls
+clear
+mkdir week3
+clear
+ls
+cd week3
+ls
+clear
+vi signatures-and-pkis.md
+sudo apt-get atom
+sudo apt-get install  atom
+sudo apt-get install atom
+q

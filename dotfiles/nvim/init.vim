@@ -53,6 +53,8 @@ autocmd BufRead,BufNewFile *.ms set filetype=groff
 autocmd FileType groff inoremap ;b <Esc>o.B 
 " italic
 autocmd FileType groff inoremap ;i <Esc>o.I 
+" multi-line EQN
+autocmd FileType groff inoremap ;e <Esc>o.EQ<Esc>o.EN<Esc>O
 " autocompile
 autocmd FileType groff noremap <Space>c :!/home/jojito/.config/groff/makegroff.bash %<CR>
 
