@@ -2,6 +2,7 @@
 counter=0
 # create the log file variable
 logfile="$HOME/.config/net/logfile"
+echo "0 0" > $logfile
 
 # continous loop
 while :; do

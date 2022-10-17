@@ -1,0 +1,5 @@
+export TERMINAL="st"
+$HOME/github/arch-config/scripts/small/bar.bash &
+sxhkd &
+xwinwrap -ov -g 1920x1080+0+0 -- mpv -wid WID ~/videos/Spirited\ Away\ \ \ Ōtori\ Sama\ \[KQiK5eN1Acs\].webm --no-osc --no-osd-bar --loop-file --player-operation-mode=cplayer --no-audio --panscan=1.0 --no-input-default-bindings &
+exec dwm
