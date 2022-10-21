@@ -2,9 +2,6 @@
 # ~/.xinitrc
 # =======================
 
-# set the connection uri for vms
-export LIBVIRT_DEFAULT_URI="qemu:///system"
-
 # export the preferred terminal (for sxhkd)
 export TERMINAL="st"
 
