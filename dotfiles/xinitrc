@@ -11,6 +11,9 @@ $HOME/github/arch-config/scripts/small/bar.bash &
 # start sxhkd for keybinds
 sxhkd &
 
+# using setxkbmap to change keyboard layouts with windows key + space
+setxkbmap -layout gb,bg -option grp:win_space_toggle
+
 # start the moving background (looped mpv video playing behind everything)
 xwinwrap -ov -g 1920x1080+0+0 -- mpv -wid WID "$HOME/videos/spirited-away" --no-osc --no-osd-bar --loop-file --player-operation-mode=cplayer --no-audio --panscan=1.0 --no-input-default-bindings &
 
