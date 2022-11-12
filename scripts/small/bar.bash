@@ -24,7 +24,7 @@ while :; do
     prevdata="$(cat "$logfile")"
 
     # get the difference and format into Kib/s
-    net="$(printf "🔻: %sKib/s 🔺: %sKib/s" \
+    net="$(printf "DOWN: %sKib/s UP: %sKib/s" \
     "$(((rxcurrent-${prevdata%% *})/1024))" \
     "$(((txcurrent-${prevdata##* })/1024))")"
     
@@ -33,7 +33,7 @@ while :; do
 
     # set xsetroot name ($DISPLAY is an environment variable declared by the system when
     # an xsession is started)
-    xsetroot -d "$DISPLAY" -name "$net | 🔋 $battery | 🗓️ $curr_date ⏳ $curr_time"
+    xsetroot -d "$DISPLAY" -name "$net | BAT: $battery | $curr_date  $curr_time"
     # update counter
     counter=$(expr $counter + 1)
     # sleep for a second (no need to update more often)
