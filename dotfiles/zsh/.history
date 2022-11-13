@@ -7543,3 +7543,292 @@ sudo apt-get atom
 sudo apt-get install  atom
 sudo apt-get install atom
 q
+cd github/arch-config
+git pull
+git stash
+git pull
+clear
+exit
+something
+clear
+ls
+cd github
+ls
+cd rust-zip
+ls
+clear
+ls
+cargo run --
+clear
+vi test
+clear
+ls
+vi src/main.rs
+cargo run --
+clear
+cd ..
+clear
+git clone https://github.com/rust-lang/rustlings
+cd rustlings
+clear
+ls
+cd ..
+curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | bash
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | bash
+clear
+exit
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+sudo zypper remove rust
+clear
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+exit
+sudo zypper remove rust
+sudo zypper remove rustc
+sudo zypper remove cargo
+clear
+which rust
+which rustc
+rm -rf /home/jojito/.cargo
+clear
+which rustc
+sudo zypper remove rust
+sudo zypper remove rustc
+clear
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+source "$HOME/.cargo/env"\
+
+clear
+which rustc
+clear
+curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | bash
+clear
+curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | bash -s mypath/
+clear
+ls
+ls bin
+ls
+l bin
+rm -rf bin
+clear
+rustling
+clear
+exit
+cd -
+clear
+cd github/rustlings
+clear
+rustlings watch
+rustling
+rustlings
+cd rustlings
+cd ..
+mv rustlings github
+rm -rf github/rustlings
+mv rustlings github
+cd github/rust
+cd github/rustlings
+rustlings
+rustlings watch
+clear
+ls
+tmux ls
+cd 
+tmux ls
+sudo zypper dup
+clear
+tmux a -t test
+tmux a -s test
+tmux
+clear
+tmux ls
+clear
+cd -
+clear
+vi exercises/intro/intro1.rs
+vi exercises/intro/intro2.rs
+clear
+vi exercises/variables/variables1.rs
+vi exercises/variables/variables2.rs
+vi exercises/variables/variables3.rs
+vi exercises/variables/variables4.rs
+vi exercises/variables/variables5.rs
+vi exercises/variables/variables6
+vi exercises/variables/variables6.rs
+vi exercises/functions/functions1.rs
+vi exercises/functions/functions2.rs
+vi exercises/functions/functions3.rs
+vi exercises/functions/functions4.rs
+clear
+vi exercises/functions/functions5.rs
+vi exercises/if/if1.rs
+vi exercises/if/if2.rs
+vi exercises/quiz1.rs
+vi exercises/quiz2.rs
+htop
+clear
+ls
+clear
+mkdir assembly
+clear
+l
+cd assembly
+ls
+clear
+ls
+clear
+vi test.asm
+clear
+ls
+clear
+sudo zypper install nasm
+clear
+vi test.asm
+nasm -f elf32 test.asm -o test.o
+ls
+ld -m elf_i386 test.o -o test
+clear
+ls
+./test
+echo $?
+vi test.asm
+nasm -f elf32 test.asm -o test.o
+ld -m elf_i386 test.o -o test
+./test
+echo $?
+clear
+ls
+rm -rf test*
+ls
+clera
+clear
+cd ..
+rem assembly
+clera
+clear
+sudo zypper install go
+clear
+mkdir go
+cd go
+clear
+go install golang.org/x/website/tour@latest
+go tour
+clera
+clear
+ls
+cd bin
+ls
+./tour
+clera
+cd 
+clera
+clear
+ls
+mkdir pp
+mv go/ pp
+mkdir -p pp/rust
+cd pp/rust
+clear
+ls
+cargo new grrs
+cd grrs
+ls
+clera
+clear
+cargo run
+c
+cargo run
+vi src/main.rs
+vi Cargo.toml
+clear
+vi src/main.rs
+cargo run
+clera
+clear
+cargo run
+vi src/main.rs
+cargo run
+clear
+cargo run
+vi src/main.rs
+cargo run
+cargo run -- some-pattern some-file
+clear
+vi src/main.rs
+cargo run -- some-pattern some-file
+vi src/main.rs
+cargo run -- some-pattern some-file
+cargo run -- main src/main.rs
+clera
+clear
+vi src/main.rs
+clera
+clear
+vi Cargo.toml
+cargo run --
+vi Cargo.toml
+vi src/main.rs
+cargo run --
+vi src/main.rs
+clera
+clear
+vi src/main.rs
+clear
+ls
+cd ..
+ls
+mkdir useful
+cd useful
+clear
+ls
+vi errors.rs
+rustc errors.rs
+vi errors.rs
+rustc errors.rs
+vi errors.rs
+rustc errors.rs
+cargo install anyhow
+vi errors.rs
+clear
+rustc errors.rs --extern crate anyhow
+cd ..
+rm -rf useful
+clear
+cargo new useful
+cd useful
+ls
+vi src/error.rs
+clear
+cargo run
+ls
+vi Cargo.toml
+cargo run
+vi Cargo.toml
+cargo run
+clear
+cargo run
+cargo build --release
+ls
+cd target
+ls
+cd release
+ls
+./useful
+cd ..
+rem target/release
+clear
+ls target
+ls target/release
+rm -rf target/release
+clear
+ls target
+ls
+cd 
+clera
+cd -
+ls
+clear
+ls
+vi Cargo.
+vi Cargo.toml
+sudo reboot

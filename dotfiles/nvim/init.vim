@@ -43,6 +43,10 @@ inoremap ;; <Esc>/<++><Enter>"_c4l
 map <Space>f :Goyo<CR>
 " open terminal
 map <Space>t :term<CR>
+" use j and k to scroll through soft-wrapped lines
+noremap j gj
+noremap k gk
+
 
 " FILETYPE MAPPINGS 
 
