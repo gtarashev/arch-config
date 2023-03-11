@@ -1,256 +1,56 @@
-clear
-ls
-clear
-ls
-doas pacman -Syu
-clear
-ls
-clear
-pacman -Q
-clear
-doas pacman -Sy mupdf
-doas pacman -Syu
-doas pacman -S speedtest-cli
 migspeed
 doas pacman -Rdd speedtest-cli
-clear
-ls
-cd scripts
-ls
-clear
-ls
 echo $GROU{
 echo $GROUP
 echo $GROUPS
 cat /etc/group
-cat /etc/group | cut -d ":" -f 1
 time (cat /etc/group | cut -d ":" -f 1)
 time cat /etc/group
-clear
-ls
-cd auto-install
-ls
 cd bash-script
-ls
-vi userformat.bash
 time cat /etc/group | tr '\n' ,
 vi ~/.zshrc
 cat /etc/group | cut -d ":" -f 1 | tr \n ,
 cat /etc/group | cut -d ":" -f 1
 cat /etc/group | cut -d ":" -f 1 | tr "\n" ","
 echo "{ $(cat /etc/group | cut -d ":" -f 1 | tr "\n" ",")%, }"
-echo $(cat /etc/group | cut -d ":" -f 1 | tr "\n" ",")
 echo $(cat /etc/group | cut -d ":" -f 1 | tr "\n" ",")%,
 echo $(cat /etc/group | cut -d ":" -f 1 | tr "\n" ",")
 cd scripts/auto-install/bash-script
 vi userformat.bash
-clear
-ls
-cd ..
-ls
 mv bash-script/userformat.bash curses-interface/cursesTrial.c .
-ls
 git rm bash-script/ curses-interface/
 git rm -r bash-script/ curses-interface/
 git commit -m "Decided to merge the ncurses and bash scripts together"
-git push
-clear
-ls
-cd documents/CA
-ls
 cd ecm1410-700028245-ca2
-ls
 java MainMenu
 vi MainMenu.
 vi MainMenu.java
-ls
-clear
-ls
 mkdir 700028245
-ls
 cd 700028245
 mkdir src doc
-ls
 mkdir ca2 res
-ls
 mv doc res src ca2
-ls
 cd ca2
-clear
-ls
 mv ../../MainMenu.java BookingApp.java
-ls
 mv BookingApp.java src
-ls
-cd src
-ls
-vi BookingApp.java
-ls
-ls Downloads
-cd downloads
-ls
 unzip week7_code_from_videos.zip
-ls
 vi Shape.java
 vi Rectangle.java
-javac BookingApp.java
-vi Rectangle.java
-vi BookingApp.java
-javac BookingApp.java
-vi BookingApp.java
-javac BookingApp.java
-java BookingApp
-vi BookingApp.java
-java BookingApp
-javac BookingApp.java
-java BookingApp
-vi BookingApp.java
-clear
-ls
-vi Room.java
-ls
 cd documents/CA/ecm1410-700028245-ca1/ecm1410/700028245/ca1/src
-ls
 cta Module
 cat Module.java
-javac Room.java
-vi Room.java
-javac Room.java
-vi BookingApp.java
-javac BookingApp.java
-ls
-vi BookingApp.java
-javac BookingApp.java
-vi BookingApp.java
-javac BookingApp.java
-ls
-vi Room.java
-vi BookingApp.java
-javac BookingApp.java
-java BookingApp
-vi BookingApp.java
-ls
-cd documents/CA/ecm1410-700028245-ca2/700028245/ca2/src
-ls
-vi Room.java
-javac BookingApp.java
-java BookingApp
-vi BookingApp.java
-clear
-ls
-vi Room.java
-javac Room.java
-javac BookingApp.java
-clear
-ls
-clear
-ls
-vi Assistant.java
-ls
-vi .config/nvim/init.vim
 doas pacman -S latex
 doas pacman -S tex
 doas pacman -S pandoc
 doas pacman -S pandoc mupdf
-clear
-ip link
 ping -c 3 google.com
 ip link
-reboot
-startx
-cd documents/CA/ecm1410-700028245-ca2/700028245/ca2/src
-ls
-clear
-vi Assistant.java
-javac Assistant.java
-vi Assistant.java
-javac Assistant.java
-vi Assistant.java
-javac Assistant.java
-vi Assistant.java
-vi UniversityResources.java
-clear
-kill -9 -1
-startx
-cd documents/CA/ecm1410-700028245-ca2/700028245/ca2/src
-ls
-vi Assistant.java
-javac Assistant.java
-vi Assistant.java
-javac Assistant.java
-vi Assistant.java
-javac Assistant.java
-vi BookingApp.
-vi BookingApp.java
-javac BookingApp.java
-java BookingApp
-vi Assistant.java
-javac Assistant.java
-java BookingApp
-vi Assistant.java
-javac Assistant.java
-java BookingApp
-vi Assistant.java
-javac Assistant.java
-java BookingApp
-vi Assistant.java
-javac Assistant.java
-java BookingApp
-vi Assistant.java
-javac Assistant.java
-java BookingApp
-vi Assistant.java
-java BookingApp
-vi Assistant.java
-javac Assistant.java
-java BookingApp
-vi Assistant.java
-vi BookingApp.
-vi BookingApp.java
-javac Assistant.java
-java  BookingApp
-vi Assistant.java
-vi BookingApp.
-vi BookingApp.java
-javac BookingApp.java
-java BookingApp
 vi Assistant.
 vi Assistant.java
-vi BookingApp.java
-vi Assistant.java
-vi BookingApp.java
 javac Assistant.java
-javac BookingApp.java
-java BookingApp
-vi Assistant.java
-javac Assistant.java
-java BookingApp
-clear
-ls
 vi UniversityResources.java
 javac UniversityResources.java
 mv UniversityResources.java UniversityResource.java
-vi UniversityResource.java
-javac UniversityResource.java
-vi BookingApp.
-vi BookingApp.java
-javac BookingApp.java
-java BookingApp
-javac BookingApp.java
-vi BookingApp.java
-javac BookingApp.java
-java BookingApp
-vlear
-clear
-vi UniversityResource.java
-javac UniversityResource.java
-vi UniversityResource.java
-javac UniversityResource.java
-vi UniversityResource.java
-javac UniversityResource.java
-vi UniversityResource.
-vi UniversityResource.java
-javac UniversityResource.java
 vi UniversityResource.
 vi UniversityResource.java
 javac UniversityResource.java
@@ -258,98 +58,19 @@ vi BookingApp.
 vi BookingApp.java
 javac BookingApp.java
 java BookingApp
-vi BookingApp.java
-javac BookingApp.java
-java BookingApp
-vi UniversityResource.
-vi UniversityResource.java
-javac UniversityResource.java
-vi UniversityResource.java
-javac UniversityResource.java
-vi BookingApp.
-vi BookingApp.java
-javac BookingApp.java
-java BookingApp
-vi BookingApp.java
-javac BookingApp.java
-vi BookingApp.java
-javac BookingApp.java
-vi BookingApp.java
-javac BookingApp.java
-java BookingApp
-clear
-ls
 as
 help as
 whatis as
-clear
-l
-sl
-vlear
-clear
-l
-vi BookableRoom.java
-javac BookableRoom.java
-vi BookableRoom.java
-clear
-javac BookableRoom.java
-ls
-vi Room.java
-javac Room.java
-vi BookableRoom.java
-javac BookableRoom.java
-vi BookableRoom.java
-javac BookableRoom.java
-vi BookableRoom.java
-clear
-ls
-javac BookableRoom.java
-vi BookableRoom.java
-clear
-ls
-javac BookableRoom.java
-vi BookableRoom.java
-vim .zshrc
-lout
-startx
 cd documents/CA/ecm1410-700028245-ca2/700028245/ca2/src
-clear
-ls
-vi BookableRoom.java
-cd documents/CA/ecm1410-700028245-ca2/700028245/ca2/src
-clear
-vi BookableRoom.java
-javac BookableRoom.java
-vi BookableRoom.java
-javac BookableRoom.java
-javac Room.java
-javac BookableRoom.java
-vi BookableRoom.java
-javac BookableRoom.java
 vi Room.
 vi Room.java
 javac Room
 javac Room.java
 javac BookableRoom.java
-clear
-vi BookableRoom.java
-javac BookableRoom.java
-vi BookableRoom.java
-javac BookableRoom.java
-clear
 vi BookableRoom.
 vi BookableRoom.java
-lout
-startx
-time neofetch
 doas pacman -S neofetch
 time neofetch
-clear
-time neofetch
-clear
-time neofetch
-ls
-clear
 for i in (seq 1000) do\
 printf "hello"
 for i in (seq 1000) do\
@@ -361,587 +82,153 @@ for (seq 1000) ; do printf "hello\n" ; done
 for `seq 1000` ; do printf "hello\n" ; done
 for i in $(seq 1000) ; do printf "hello\n" ; done
 time (for i in $(seq 1000) ; do printf "hello\n" ; done)
-ls
-time (for i in $(seq 1000) ; do printf "hello\n" ; done)
 time (for i in $(seq 1000) ; do echo "hello" ; done)
-clear
-five=5
 if [ five == 5 ] ; then echo "right" ; fi
-r
-if [ five == 5 ] ; then echo "right" ; fi
-clear
-ls
 cd /te
 cd /temp
-ls
 ls /
 cd /tmp
-ls
-mkdir test
-cd test
-clear
 cd /tmp/test
-clear
-ls
-clear
-vi test.bash
 five=5
 vi test.bash
 chmod 755 test.bash
 ./test.bash
-clear
 time ( for i in $(seq 10000); do ./test.bash; done )
-man echo
-time ( for i in $(seq 10000); do ./test.bash; done )
-cd 
-clear
-ls
-clear
-ls
-clear
-ls
-cd github/arch-config
 git commit -m "updating any changes, cant remember any" 
-clear
-git push
-clear
-cd 
-clear
-ls
-clear
-vi .config/nvim/init.vim
-pfetch
-neofetch
-clear
-vi .config/nvim/init.vim
-clear
-ls
-cd .config/nvim
-clear
-ls
-cd vim-plug
-ls
-vi plugins.vim
-cd ..
-ls
-vi init.vim
-clear
-ls
-vi latex.tex
-pdflatex latex.tex
-mupdf latex.pdf
-cd .config/nvim
 mupdf latex.pdf
 zathura latex.pdf
 vi latex.tex
 pdflatex latex.tex
-vi latex.tex
-pdflatex latex.tex
-vi latex.tex
-pdflatex latex.tex
-vi init.vim
-vi latex.tex
-cd .config/nvim
-clear
-pdflatex latex.tex
-ls
-clear
-ls
-cd .config/nvim
-clear
-ls
 rm -rf latex*
-ls
-clear
-vi init.vim
 vi something.java
-vi init.vim
-vi s.tex
-vi init.vim
-vi s.tex
-vi init.vim
 shellcheck
 doas pacman -S shellcheck
-doas pacman -Syu
-doas pacman -S shellcheck
-clear
 shellcheck ~/scripts/dmenumanselect.sh
-clear
-ls
-vi init.vim
 vi something.tex
-vi init.vim
-vi something.tex
-vi init.vim
-clear
-lout
-startx
-ls
-clear
 vim
-cd .config/nvim/
-vi init.vim
-clear
-vi init.vim
-ls
-vi init.vim
-vi s.java
-vi init.vim
-vi s.java
 javac s.java
 rm -rf s.java
-clear
-ls
-vi init.vim
-vi s.java
-vi init.vim
-clear
-vi s.java
-vi init.vim
-vi s.java
-vi init.vim
-clear
 doas pacman -S teams
-paru teams
-clear
 doas pacman -S zoom
-paru zoom
-clear
-ls
 mkdir templates
-cd templates
-clear
-ls
-vi skeleton.sh
-cd ..
-clear
-ls
-vi init.vim
 vi s.sh
-vi init.vim
-vi s.sh
-vi init.vim
-vi s.sh
-vi init.vim
-ls
-vi s.sh
-ls
-clear
-cd templates
 vi skeleton.tex
-clear
-ls
-cd ..
-clear
-ls
-vi init.vim
-cd templates
-vi skeleton.tex
-cd ..
-ls
-vi init.vim
-vi s.tex
-ls
 ls templates
-vi init.vim
-vi s.tex
-pdflatex s.tex
-zathura s.pdf
-clear
-ls
-vi init.vim
-vi s.tex
-cd .config/nvim
-clear
-ls
-zathura s.pdf
-vi init.vim
-vi s.tex
-rm -rf s.*
-ls
-clear
-vi lahdljashd.tex
-ls
 vi .config/nvim
 vi lahdljashd.tex
-fg
-ls
 zathura lahdljashd.pdf
 pdflatex lahdljashd.tex
 fb
-fg
-clear
 rm -rf lahdljashd.*
-ls
-clear
 vi s.tex
 gf
 gb
-fg
-pdflatex s.tex
 zathura s.pdf
-fg
 pdflatex s.tex
 fg
 rm -rf s.*
-ls
-clear
-ls
-clear
-exit
 vi s.java
-vi .config/nvim/init.vim
-vi s.java
-ls
 rm s.java
-clear
-htop
-df -kh
 transmission-cli "magnet:?xt=urn:btih:A29D1368678739DF320D1B2E5599177DB3EE6881&dn=SNOWFALL%20-%20Complete%20Season%201%20S01%20(2017)%20-%201080p%20AMZN%20Web-DL%20x264&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
-nordvpn c Malaysia
 doas systemctl start nordvpnd
 nordvpn c Malaysia
 doas nordvpn c Malaysia
-clear
 man groupadd 
 man usermod
 usermod jojito -aG nordvpn
 doas usermod jojito -aG nordvpn
-clear
 nordvpnd
-nordvpn c Bulgaria
-paru
-uname -a
-uname -r
-doas systemctl enable --now nordvpnd
-paru
 groupadd -r nordvpn
 gpasswd -a jojito nordvpn
 doas gpasswd -a jojito nordvpn
-doas systemctl enable --now nordvpnd
-nordvpn login
 nordvpn set technology nordlynx
-paru nordvpn
 doas pacman -R nordvpn-bin 
 paru nordvpn
-clear
 doas systemctl enable --now nordvpnd
-nordvpn login
 systemctl --failed
-paru
-clear
-doas pacman -Syu
-ls
-cd Downloads
-ls
 cd SNOWFALL\ -\ Complete\ Season\ 1\ S01\ \(2017\ Series\)\ -\ 1080p\ AMZN\ Web-DL\ x264
-ls
-cd ../..
-clear
-ls
-cd Videos
-ls
 mv ~/Downloads/* .
-ls
 mv As\ Above,\ So\ Below\ \(2014\)\ \[1080p\] As-Above,-So-Below
 mv SNOWFALL\ -\ Complete\ Season\ 1\ S01\ \(2017\ Series\)\ -\ 1080p\ AMZN\ Web-DL\ x264 Snowfall-S01
-ls
-clear
-cd Snowfall-S01
-ls
 cd Other\ CRIME-Related\ SHOWS,\ Here
-ls
-cd ..
 rm -rf Other\ CRIME-Related\ SHOWS,\ Here
-clear
-ls
 rm \[TGx\]Downloaded\ from\ torrentgalaxy.to\ .txt
 rm Torrent\ Description\ \(READ\ Me\).txt
-mpv Snowfall\ -\ S01\ E01\ -\ Pilot\ \(1080p\ -\ AMZN\ Web-DL\).mp4
 lotu
-lout
-startx
-ls
-clear
-ls
-cd Videos
-ls
-cd Snowfall-S01
-ls
-mpv Snowfall\ -\ S01\ E01\ -\ Pilot\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-doas pacman -Syu
-clear
-paru
-clear
-uname -r
 uname -a
-clear
-ls
 mpv Snowfall\ -\ S01\ E02\ -\ Make\ Them\ Birds\ Fly\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-lout
-startx
-cd Videos
-cd Snowfall-S01
-clear
-ls
 mpv Snowfall\ -\ S01\ E03\ -\ Slow\ Hand\ \(1080p\ -\ AMZN\ Web-DL\).mp4
 mpv Snowfall\ -\ S01\ E04\ -\ Trauma\ \(1080p\ -\ AMZN\ Web-DL\).mp4
 mpv Snowfall\ -\ S01\ E05\ -\ Seven-Four\ \(1080p\ -\ AMZN\ Web-DL\).mp4
 df -kh 
-clear
 transmission-cli "magnet:?xt=urn:btih:3BF82EBDA6C84C49E060AE3C6E915BA6A8898697&dn=SNOWFALL%20-%20Complete%20Season%202%20S02%20(2018)%20-%201080p%20AMZN%20Web-DL%20x264&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
 mpv Snowfall\ -\ S01\ E06\ -\ A\ Long\ Time\ Coming\ \(1080p\ -\ AMZN\ Web-DL\).mp4
 mpv Snowfall\ -\ S01\ E07\ -\ Cracking\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-cd Videos/Snowfall-S01
-ls
 cat Snowfall\ -\ S01\ E01\ -\ Pilot\ \(1080p\ -\ AMZN\ Web-DL\).srt
 mpv Snowfall\ -\ S01\ E08\ -\ Baby\ Teeth\ \(1080p\ -\ AMZN\ Web-DL\).mp4
 transmission-cli "https://zamunda.net/magnetlink/download_go.php\?id\=455231\&m\=x"
 mpv Snowfall\ -\ S01\ E09\ -\ Story\ of\ a\ Scar\ \(1080p\ -\ AMZN\ Web-DL\).mp4
 mv Downloads/SNOWFALL\ -\ Complete\ Season\ 2\ S02\ \(2018\ Series\)\ -\ 1080p\ AMZN\ Web-DL\ x264 Videos/Snowfall-S02
-clear
-uname -r
-reboot
-startx
-uname -r
-clear
-uname -r
-clear
 cd Videos/Snowfall-S01
-ls
 mpv Snowfall\ -\ S01\ E10\ -\ The\ Rubicon\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-ls
 cd ../Snowfall-S02
-ls
 mpv Snowfall\ -\ S02\ E01\ -\ Sightlines\ \(1080p\ -\ AMZN\ Web-DL\).mp4
 mpv Snowfall\ -\ S02\ E02\ -\ The\ Day\ \(1080p\ -\ AMZN\ Web-DL\).mp4
 mpv Snowfall\ -\ S02\ E03\ -\ Prometheus\ Rising\ \(1080p\ RP\ -\ AMZN\ Web-DL\).mp4
-jupyter-lab
 groff
-man groff
-clear
-ls
-cd documents
-ls
 rm -rf last\ exam.*
-ls
 cat useful.txt
 rm -rf useful.txt
-clear
-ls
 cd pc_
-ls
-cd ..
-clear
-ls
 cd desktop
-ls
-cd ..
-clear
-ls
 cd Exeter/ECM1416
-ls
 mkdir week 4
-clear
-ls
 rm -rf week 4
-clear
-ls
 mkdir "week 4"
-l
-clear
-cd week\ 4
-clear
-ls
-clear
 groff -ms groff.ms > groff.pdf
-clear
-ls
 groff -ms groff.ms -T pdf > groff.pdf
-zathura groff.pdf
-vi groff.ms
-groff -ms groff.ms -T pdf > groff.pdf
-zathura groff.pdf
-vi groff.ms
-clear
-ls
-mkdir groff
-mkdir notes
-clear
-ls
 mv groff.ms notes
 mv notes/groff.ms groff
 mv groff.pdf notes
-clear
-ls
 l groff
-clear
-l
 l -R
-clear
-ls
-cd groff
-ls
-vi groff.ms
-cd documents/Exeter/ECM1416/week\ 4
-ls
-cd notes
 zathura groff.pdf
-ls
-clear
-ls
-clear
 cd documents/Exeter/ECM1416/week\ 4
-cd groff
-clear
-ls
-clear
-ls
-cd .config/nvim
-clear
-ls
-cd templates
-clear
-ls
-vi skeleton.ms
-clear
-cd ..
-vi init.vim
-ls
-clear
-ls
 vi groff.ms
-clear
-vi "Differentiation and Taylor approximations".ms
-clear
-ls
 groff -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
-clear
-ls
-zathura Differentiation\ and\ Taylor\ approximations.pdf
-groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
-clear
-groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
 vi "Differentiation and Taylor approximations".ms
-groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
-clear
-groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
-cd .config/nvim/templates
-vi skeleton.ms
-groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
-clear
-groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
-clear
-ls
 cd .config
-ls
 mkdir groff
-cd groff
 vi macros
-groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
 cat ~/.config/groff/macros
-groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
-clear
-cd documents/Exeter/ECM1416/week\ 4/groff
-clear
-cd documents/Exeter/ECM1416/week\ 4/groff
-groff -t -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
 groff -G -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
-groff -t -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
 groff -tC -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
-groff -t -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
 doas pacman -S gnuplot
-clear
 gnuplot
 groff -t -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
-groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
-ls
-cd documents/Exeter/ECM1416/week\ 4/groff
-ls
 xdg-open 1\ over\ x.png
-groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
-zathura Differentiation\ and\ Taylor\ approximations.pdf
-groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
-clear
-groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
-clear
-man groff
-groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
-clear
-ls
 rm 1\ over\ x.png
-clear
-ls
 rm groff.ms
-clear
-ls
 vi "Scalar and Vector Fields".ms
-groff -e -ms "Scalar and Vector Fields.ms" -T pdf > ../notes/"Scalar and Vector Fields.pdf"
-zathura Scalar\ and\ Vector\ Fields.pdf
-groff -e -ms "Scalar and Vector Fields.ms" -T pdf > ../notes/"Scalar and Vector Fields.pdf"
 man geqn
 man groff_eqn
-clear
-man eqn
-groff -e -ms "Scalar and Vector Fields.ms" -T pdf > ../notes/"Scalar and Vector Fields.pdf"
-cd documents/Exeter/ECM1416/week\ 4/notes
-clear
-zathura Differentiation\ and\ Taylor\ approximations.pdf
-zathura Scalar\ and\ Vector\ Fields.pdf
-groff -e -ms "Scalar and Vector Fields.ms" -T pdf > ../notes/"Scalar and Vector Fields.pdf"
 groff -e -mom "Scalar and Vector Fields.ms" -T pdf > ../notes/"Scalar and Vector Fields.pdf"
 groff -e -ms "Scalar and Vector Fields.ms" -T pdf > ../notes/"Scalar and Vector Fields.pdf"
-manmenu
-groff -e -ms "Scalar and Vector Fields.ms" -T pdf > ../notes/"Scalar and Vector Fields.pdf"
-clear
-cd ../..
-clear
 mkdir -p week\ 5/groff week \5/notes
-clear
-ls
 mkdir -p week\ 5/groff week\ 5/notes
-clear
-ls
 rm -rf 5 week
-clear
-ls
 cd week\ 5
-ls
-cd groff
-clear
-cd ../../week\ 5/notes
 cd ../../week\ 5/groff
-clear
 vi "Probability: basic concepts".ms
-l
-groff -e -ms "Probability: basic concepts.ms" -T pdf > ../notes/"Probability: basic concepts.pdf"
-clear
-zathura Probability:\ basic\ concepts.pdf
-groff -e -ms "Probability: basic concepts.ms" -T pdf > ../notes/"Probability: basic concepts.pdf"
-zathura Probability:\ basic\ concepts.pdf
-clear
-ls
 cat Probability:\ basic\ concepts.pdf
-clear
-ls
-zathura Probability:\ basic\ concepts.pdf
-groff -e -ms "Probability: basic concepts.ms" -T pdf > ../notes/"Probability: basic concepts.pdf"
-zathura Probability:\ basic\ concepts.pdf
-mupdf Probability:\ basic\ concepts.pdf
 cat ../../week\ 4/groff/Scalar\ and\ Vector\ Fields.ms
 groff -e -ms "Probability: basic concepts.ms" -T pdf > ../notes/"Probability: basic concepts.pdf"
 mupdf Probability:\ basic\ concepts.pdf
 zathura Probability:\ basic\ concepts.pdf
 zathura ../../week\ 4/notes/Scalar\ and\ Vector\ Fields.pdf
-groff -e -ms "Probability: basic concepts.ms" -T pdf > ../notes/"Probability basic concepts.pdf"
-ls
 zathura Probability
-zathura Probability\ basic\ concepts.pdf
 rm -rf Probability:\ basic\ concepts.pdf
-clear
-ls
 zathura Probability\ basic\ concepts.pdf
-groff -e -ms "Probability: basic concepts.ms" -T pdf > ../notes/"Probability basic concepts.pdf"
 mpv Snowfall\ -\ S02\ E04\ -\ Jingle\ Bell\ Rock\ \(1080p\ RP\ -\ AMZN\ Web-DL\).mp4
 mpv Snowfall\ -\ S02\ E05\ -\ Serpiente\ \(1080p\ -\ AMZN\ Web-DL\).mp4
 mpv Snowfall\ -\ S02\ E06\ -\ The\ Offer\ \(1080p\ RP\ -\ AMZN\ Web-DL\).srt
@@ -954,236 +241,70 @@ mpv Snowfall\ -\ S02\ E09\ -\ Aftermath\ \(1080p\ -\ AMZN\ Web-DL\).mp4
 l Videos/Snowfall-S02
 mpv Snowfall\ -\ S02\ E10\ -\ Education\ \(1080p\ -\ AMZN\ Web-DL\).mp4
 mv ~/Downloads/SNOWFALL\ -\ Complete\ Season\ 3\ S03\ \(2019\ Series\)\ -\ 1080p\ AMZN\ Web-DL\ x264 ~/Videos/Snowfall-S03
-clear
-cd ../Snowfall-S03
-clear
-ls
 mpv SNOWFALL\ -\ S03\ E01\ -\ Protect\ and\ Swerve\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-mpv SNOWFALL\ -\ S03\ E02\ -\ The\ More\ You\ Make\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-mpv SNOWFALL\ -\ S03\ E04\ -\ The\ Game\ That\ Moves\ as\ You\ Play\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-doas pacman -Syu
-clear
-cd documents/Exeter/ECM1416/week\ 4/notes
-clear
-l
-zathura Differentiation\ and\ Taylor\ approximations.pdf
-zathura Scalar\ and\ Vector\ Fields.pdf
 cd ../../week\ 5
-clear
-ls
 cd groff
-ls
 vi Probability:\ basic\ concepts.ms
-l
-clear
-groff -e -ms "Probability: basic concepts.ms" -T pdf > ../notes/"Probability basic concepts.pdf"
-lsblk
 doas mount /dev/sda1 /mnt
-doas su
-clear
-lsblk
-clear
-ls
-doas pacman -Syu
-clear
-ls
-cd downloads
-ls
-l
-clear
-l
-lsblk
 dd if=linuxmint-20.1-cinnamon-64bit.iso of=/dev/sdb
 doas dd if=linuxmint-20.1-cinnamon-64bit.iso of=/dev/sdb
-lsblk
 doas dd if=linuxmint-20.1-cinnamon-64bit.iso of=/dev/sdb status=progress
-clear
 groff -e -ms "Probability: basic concepts.ms" -T pdf > ../notes/"Probability basic concepts.pdf"
 mkdir "11:26"
-ls
-clear
 doas reboot
-startx
 vi somehting.ms
-exit
-vi something.ms
-clear
 sudo
 doas pacman -Sy teams zoom
 paru teams zoom
 paru teams
-clear
 paru zoom
-clear
-lout
-startx
-paru sketchable
 paru scetchable
 paru sketchable
 paru skechable
 pacman -Q sketchable
-clear
 paru chrome
 paru firefox
 paru -R firefox
-l
-clear
 ls -l
-bash
-clear
 fish
 doas pacman -S kde
 doas pacman -S plasma
-clear
-poweroff
-startx
 cd documents/Exeter/ECM1416/week\ 5/notes
 cd documents/Exeter/ECM1416/week\ 5/groff
-clear
-ls
-clear
-cd ../../week\ 4/notes
 cd ../../week\ 4/groff
-clear
-ls
-cd documents/Exeter/ECM1416/week\ 4/groff
-clear
-l downloads
-l Downloads
-exit
-ls
-cd Downloads
-l
 cd ../downloads
-l
-transmission-cli manjaro-xfce-20.2.1-minimal-210103-linux59.iso.torrent
 vi "Euler's Method: a Numerical Approach to Solving DE".ms
-ls
 groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > "../notes/Differentiation and Taylor approximations.pdf"
-ls
 groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/Differentiation\ and\ Taylor\ approximations.pdf
-l
-clear
-cd ..
-l
-cd notes
-ls
-cd ../groff
 history | grep groff
 groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor\
 approximations.pdf"
-l
-clear
-l
-groff -e -ms "Euler's Method: a Numerical Approach to Solving DE.ms" -T pdf > ../notes/"Euler's Method: a Numerical Approach to Solving DE.pdf"
-l
 rm -rf Differentiation\ and\ Taylor$'\n'approximations.pdf
-clear
-zathura Euler\'s\ Method:\ a\ Numerical\ Approach\ to\ Solving\ DE.pdf
-groff -e -ms "Euler's Method: a Numerical Approach to Solving DE.ms" -T pdf > ../notes/"Euler's Method: a Numerical Approach to Solving DE.pdf"
-l
 transmission-cli manjaro-xfce-20.2.1-minimal-210103-linux59.iso.torrent
-groff -e -ms "Euler's Method: a Numerical Approach to Solving DE.ms" -T pdf > ../notes/"Euler's Method: a Numerical Approach to Solving DE.pdf"
 cat Scalar\ and\ Vector\ Fields.ms
-groff -e -ms "Euler's Method: a Numerical Approach to Solving DE.ms" -T pdf > ../notes/"Euler's Method: a Numerical Approach to Solving DE.pdf"
-ls
 l downloads
-l Downloads
-lsblk
 doas dd if=/home/jojito/Downloads/manjaro-xfce-20.2.1-minimal-210103-linux59.iso of        
-lsblk
-groff -e -ms "Euler's Method: a Numerical Approach to Solving DE.ms" -T pdf > ../notes/"Euler's Method: a Numerical Approach to Solving DE.pdf"
 doas systemctl restart NetworkManager
 groff -e -ms "Euler's Method: a Numerical Approach to Solving DE.ms" -T pdf > ../notes/"Euler's Method: a Numerical Approach to Solving DE.pdf"
 man groff
 groff -t -e -ms "Euler's Method: a Numerical Approach to Solving DE.ms" -T pdf > ../notes/"Euler's Method: a Numerical Approach to Solving DE.pdf"
-zathura Euler\'s\ Method:\ a\ Numerical\ Approach\ to\ Solving\ DE.pdf
-groff -t -e -ms "Euler's Method: a Numerical Approach to Solving DE.ms" -T pdf > ../notes/"Euler's Method: a Numerical Approach to Solving DE.pdf"
-doas pacman -Syu
-exit
-lout
-startx
-jupyter-lab
-cd documents/Exeter/ECM1416/week\ 4/notes
-zathura Euler\'s\ Method:\ a\ Numerical\ Approach\ to\ Solving\ DE.pdf
-cd documents/Exeter/ECM1416/week\ 4/notes
-cd documents/Exeter/ECM1416/week\ 4/groff
-cd documents/Exeter/ECM1416/week\ 4/notes
-clear
-cd ../groff
-clear
-ls
 vi "Separation of Variables Method".ms
-cd documents/Exeter/ECM1416/week\ 4/groff
-l
-groff -e -t -ms "Separation of Variables Method.ms" -T pdf > ../notes/"Separation of VariablesMethod.pdf"
-l
-vi Separation\ of\ VariablesMethod.pdf
-zathura Separation\ of\ VariablesMethod.pdf
-groff -e -t -ms "Separation of Variables Method.ms" -T pdf > ../notes/"Separation of VariablesMethod.pdf"
 vi .zhsrc
-clear
-ls
-ls -a
-vi .zshrc
 groff -e -t -ms "Separation of Variables Method.ms" -T pdf > ../notes/"Separation of VariablesMethod.pdf"
 vi "Integrating Factor Method".ms
 groff -e -t -ms "Integrating Factor Method.ms" -T pdf > ../notes/"Integrating Factor Method.pdf"
-zathura Integrating\ Factor\ Method.pdf
-groff -e -t -ms "Integrating Factor Method.ms" -T pdf > ../notes/"Integrating Factor Method.pdf"
-zathura Integrating\ Factor\ Method.pdf
-groff -e -t -ms "Integrating Factor Method.ms" -T pdf > ../notes/"Integrating Factor Method.pdf"
-lsblk
 doas dd if=Downloads/manjaro-xfce-20.2.1-minimal-210103-linux59.iso of=/dev/sda
 doas dd if=Downloads/manjaro-xfce-20.2.1-minimal-210103-linux59.iso of=/dev/sda status=progress
-lsblk
-reboot
-startx
-lsblk
-doas dd if=Downloads/manjaro-xfce-20.2.1-minimal-210103-linux59.iso of=/dev/sda status=progress
-reboot
-startx
-doas pacman -Syu
-clear
 doas pacman -Syu r
 R
-clear
 paru rstudio-desktop-bin
-mkdir test
-cd test
-paru rstudio-desktop-bin
-cd test
-clear
-ls
-vi test.ms
-clear
-groff -e -t -ms test.ms -T pdf  > test.pdf
-ls
-zathura test.pdf
 groff -e -t -mspdf test.ms -T pdf  > test.pdf
-cd documents/Exeter/ECM1416/week\ 4/notes
 cd documents/Exeter/ECM1416/week\ 4/groff
-ls
-vi Scalar\ and\ Vector\ Fields.ms
-groff -e -t -mspdf Scalar\ and\ Vector\ Fields.ms -T pdf > ../notes/Scalar\ and\ Vector\ Fields.pdf
-ls
-zathura Scalar\ and\ Vector\ Fields.pdf
-clear
-groff -e -t -mspdf Scalar\ and\ Vector\ Fields.ms -T pdf > ../notes/Scalar\ and\ Vector\ Fields.pdf
-man eqn
 man eqn_matrix
 man eqn-matrix
-man eqn
 man 2 eqn
-man eqn
 groff -e -t -mspdf Scalar\ and\ Vector\ Fields.ms -T pdf > ../notes/Scalar\ and\ Vector\ Fields.pdf
 man eqn
-groff -e -t -mspdf Scalar\ and\ Vector\ Fields.ms -T pdf > ../notes/Scalar\ and\ Vector\ Fields.pdf
-man eqn
-groff -e -t -mspdf Scalar\ and\ Vector\ Fields.ms -T pdf > ../notes/Scalar\ and\ Vector\ Fields.pdf
-man eqn
-cal
-cal -3
 cal -4
 cal -5
 cal  june 532
@@ -1191,62 +312,25 @@ cal  june 532 -3
 doas pacman -Sy gotop
 paru gotop
 uname -o
-clear
-gotop
-exit
-ls
-cd Videos/As-Above,-So-Below
-mpv As.Above,.So.Below.2014.1080p.BluRay.x264.YIFY.mp4
-ls
-cd apps/dwm/dwm
-ls
-vi config.h
-make
 doas make install
-kill -9 -1
-startx
 mpv Videos/As-Above,-So-Below/As.Above,.So.Below.2014.1080p.BluRay.x264.YIFY.mp4
-gotop
-cmatrix
 doas pacman -S cmatrix
-cmatrix
 cow
-neofetch
-pfetch
-clear
-pfetch
-sl
 while :; sl done
 bash -c while :; sl ;
-bash
 update && clean
-clear
 doas pacman -Syu --no-confirm
-man pacman 
 doas pacman -Syu --noconfirm
-vi .zshrc
-update
-vi .zshrc
-update
-vi .zshrc
-update
-clear
 doas pacman -Rdd $(pacman -Qdt | cut -d " " -f 1)
-vi .zshrc
-update
 pacman -S groff
 doas pacman -S groff
-clear
 pacman -Q groff
 pacman -Q grof
 pacman -Q steam
-man pacman
 pacman -Qsm groff
 pacman -Qs groff
 pacman -Qm groff
-man pacman
 az group create --name ECM1417 --location westuk
-az group create --name ECM1417 --location ukwest
 az
 az login
 az group create --name ECM1417 --location ukwest
@@ -1256,85 +340,32 @@ az vm create \\
 --image UbuntuLTS \\
 --admin-username ecm1417 \\
 --generate-ssh-key
-clear
 doas pacman -S apache2
 doas pacman -S apache
-clear
-doas ufw app list
 doas pacman -S ufw
 doas ufw app list
-clear
-ls
-ls downloads
-cd downloads
 cat ECM1417_key.pem
-clear
-ls
-clear
-cd ..
-ls
-clear
-ls Downloads
 mv Downloads/manjaro-xfce-20.2.1-minimal-210103-linux59.iso downloads
-rm -rf Downloads
-ls
 ln -s ~/Downloads ~/downloads
 clearls
-clear
-ls
-l
-clear
-ls
-cd downloads
-ls
 unzip -d Deployment-CreateVm-debian.debian-10-10-20210303210010.zip > Deployment-CreateVm-debian.debian-10-10-20210303210010
 unzip -d Deployment-CreateVm-debian.debian-10-10-20210303210010.zip 
-ls
 cat Deployment-CreateVm-debian.debian-10-10-20210303210010
 file Deployment-CreateVm-debian.debian-10-10-20210303210010
 doas pacman -Sy nautilus
-clear
-ls
 mv Deployment-CreateVm-debian\ \(3\).debian-10-10-20210303210010 Deployment-CreateVm-debian.debian-10-10-20210303210010
-clear
-ls
 rm -rf Deployment-CreateVm-debian.debian-10-10-20210303210010.zip
-clear
-cd ..
-clear
-ls downloads
 mv downloads/ECM1417_key.pem ECM1417.key
 ssh -i ECM1417.key ecm1417@51.141.117.243
 mv ECM1417.key ECM1417_key.pem
-clear
-ls
-ssh -i ECM1417_key.pem ecm1417@51.141.117.243
-ls
-l ECM1417_key.pem
 chmod 770 ECM1417_key.pem
-ls
 chmod 500 ECM1417_key.pem
-l ECM1417_key.pem
 chmod 600 ECM1417_key.pem
 l ECM1417_key.pem
-ssh -i ECM1417_key.pem ecm1417@51.141.117.243
 doas pacman -S terminator
-ls
-ssh -i ECM1417_key.pem ecm1417@51.141.117.243
 cat .config/nvim/init.vim
-clear
-ssh -i ECM1417_key.pem ecm1417@51.141.117.243
-reboot
-startx
-ls
-cd Videos
-ls
 cd Snowfall-S02
-ls
 cd ../Snowfall-S03
-ls
-clear
-ls
 mpv SNOWFALL\ -\ S03\ E02\ -\ The\ More\ You\ Make\ \(1080p\ -\ AMZN\ Web-DL\).mp4
 mpv SNOWFALL\ -\ S03\ E03\ -\ Cash\ and\ Carry\ \(1080p\ -\ AMZN\ Web-DL\).mp4
 mpv SNOWFALL\ -\ S03\ E04\ -\ The\ Game\ That\ Moves\ as\ You\ Play\ \(1080p\ -\ AMZN\ Web-DL\).mp4
@@ -1344,1141 +375,289 @@ mpv SNOWFALL\ -\ S03\ E07\ -\ Pocket\ Full\ of\ Rocks\ \(1080p\ -\ AMZN\ Web-DL\
 mpv SNOWFALL\ -\ S03\ E08\ -\ Hedgehogs\ \(1080p\ -\ AMZN\ Web-DL\).mp4
 mpv SNOWFALL\ -\ S03\ E09\ -\ Blackout\ \(1080p\ -\ AMZN\ Web-DL\).mp4
 mpv SNOWFALL\ -\ S03\ E10\ -\ Other\ Lives\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-jupyter-lab
-exit
-cd documents/Exeter/ECM1416/week\ 4/notes
-ls
 zathura Integrating\ Factor\ Method.pdf
-ls
-cd test
-ls
-rm -rf ./*
-clear
-ls
-vi test.ms
 groff -e -t -ms test.ms -T pdf > test.pdf
-zathura test.pdf
-vi test.ms
-groff -e -t -ms test.ms -T pdf > test.pdf
-zathura test.pdf
-vi test.ms
-zathura test.pdf
-vi test.ms
-groff -e -t -ms test.ms -T pdf > test.pdf
-zathura test.pdf
-vi test.ms
-groff -e -t -ms test.ms -T pdf > test.pdf
-zathura test.pdf
-vi test.ms
-clear
 cd ../documents/Exeter/ECM1416/week\ 4/notes
-ls
-zathura Euler\'s\ Method:\ a\ Numerical\ Approach\ to\ Solving\ DE.pdf
-ssh -i ECM1417_key.pem ecm1417@51.141.117.243
-exit
 cd documents/Exeter/
 mkdir ECM1414
-clear
-ls
-clear
-cd ECM1414
-clear
-ls
-clear
-mkdir CA
-celar
-clear
-cd CA
-clear
-ls
-clear
-vi documentation.ms
-groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
-clear
-ls
-zathura documentation.pdf
-vi documentation.ms
-zathura documentation.pdf
-vi documentation.ms
-groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
-zathura documentation.pdf
-groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
-vi documentation.ms
-groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
-vi documentation.ms
-zathura documentation.pdf
-vi documentation.ms
-cd downloads
-ls
 mv install-font.sh ../.config/groff/
-clear
 cd ../.config/groff
-clear
-ls
 chmod 750 install-font.sh
-ls
 ./install-font.sh
 ./install-font.sh -h
 ./install-font.sh -H | less
-clear
-cd 
-celar
-clear
 cd /usr/share/groff/1.22.4/font/
 ls -lR
 ls -lR | grep TNR
-clear
-cd 
-cd documents/Exeter/ECM1414/CA
-clear
-ls
-vi documentation.ms
-groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
-zathura documentation.pdf
-vi documentation.ms
-groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
-clear
-cd 
-cd .config/groff
-clear
-ls
-cd 
-cd downloads
-ls
 rm -rf linuxmint-20.1-cinnamon-64bit.iso kramer-via-go-qs-7.pdf Year\ 1\ Software\ info2020-21\ \(2\).pdf Notorious.2009.*
-ls
 rm -rf manjaro-xfce-20.2.1-minimal-210103-linux59.iso
-clear
-ls
 rm -rf manjaro-xfce-20.2.1-minimal-210103-linux59.iso.torrent
-clear
-ls
 unzip -h
 mkdir times-new-roman
-clear
 mv times-new-roman.zip times-new-roman
 cd times-new-roman
-clea
-clear
 unzip times-new-roman.zip
-ls
 cat times-new-roman.ttf
-clear
-ls
 mv times-new-roman.ttf ../../.config/groff/
 cd ../../.config/groff
 mkdir font
 mkdir fonts
 rm -rf font
-clear
-ls
 mv times-new-roman.ttf fonts
-clear
-cd fonts
-clear
-l
 mv ../install-font.sh .
-clear
-doas ./install-font.sh -s -F TNR -f +R times-new-roman.ttf
 doas pacman -S fotnforge
 paru fontforge
-doas ./install-font.sh -s -F TNR -f +R times-new-roman.ttf
-clear
-cd 
-cd documents/Exeter/ECM1414/CA
-vi documentation.ms
-clear
-groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
-zathura documentation.pdf
-vi documentation.
-vi documentation.ms
-groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
-zathura documentation.pdf
-mupdf documentation.pdf
-cd 
-cd downloads/
-ls
 rm -rf times-new-roman
 mkdir tnr
 mv Times-New-Roman.zip tnr
 cd tnr
 unzip Times-New-Roman.zip
-clear
-ls
 rm -rf Times-New-Roman.zip
-clear
 mv Times\ New\ Roman ../../.config/groff/fonts
 cd ../../.config/groff/fonts
-clear
-ls
 rm -rf times-new-roman.ttf
-clear
 mv install-font.sh Times\ New\ Roman
-clear
-ls
-cd Times\ New\ Roman
-ls
 doas ./install-font.sh -s -F TNR -f +R times-new-roman.ttf
 doas ./install-font.sh -s -F TNR -f +R times\ new\ roman.ttf
 doas ./install-font.sh -s -F TNR -f +B times\ new\ roman\ bold.ttf
-l
 doas ./install-font.sh -s -F TNR -f +I times\ new\ roman\ italic.ttf
-l
 doas ./install-font.sh -s -F TNR -f +BI times\ new\ roman\ bold\ italic.ttf
-clear
-cd 
-clear
-ls
-cd documents/Exeter/ECM1414/CA
-clear
-ls
-vi documentation.
-vi documentation.ms
-groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
-mupdf documentation.pdf
-clear
-ls
-vi documentation.ms
-groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
-vi documentation.ms
-groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
-zathura documentation.pdf
-vi documentation.ms
-groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
-zathura documentation.pdf
-vi documentation.ms
-clear
-groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
-zathura documentation.pdf
-vi documentation.ms
-doas pacman -Syu
-gotop
 ls 
 cd documents/CA
-ls
 cd ecm1416
-ls
 cat ex2.ipynb
-clear
-ls
 mv ex2.ipynb ecm1416-georgi-tarashev.ipynb
-ls
-clear
 rm ex1.ipynb
-clear
-ls
-cd ..
-ls
-clear
-cd ..
 mkdir Snowfall-S04
-celar
-clear
-transmission-cli "magnet:?xt=urn:btih:E03F785128E67C4049D3790EFB957601B63CE59F&dn=Snowfall.S04E01.Re-Entry.HDTV.x264-CRiMSON%5BTGx%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
 groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
-zathura documentation.pdf
-vi documentation.ms
-groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
-zathura documentation.pdf
-vi documentation.ms
-groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
-zathura documentation.pdf
 transmission-cli "magnet:?xt=urn:btih:E03F785128E67C4049D3790EFB957601B63CE59F&dn=Snowfall.S04E01.Re-Entry.HDTV.x264-CRiMSON%5BTGx%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
 mv Downloads/Snowfall.S04E01.Re-Entry.HDTV.x264-CRiMSON\[TGx\]/Snowfall.S04E01.Re-Entry.HDTV.x264-CRiMSON.mkv Videos/Snowfall-S04
-cd Videos/Snowfall-S04
-ls
 mpv Snowfall.S04E01.Re-Entry.HDTV.x264-CRiMSON.mkv
 transmission-cli "magnet:?xt=urn:btih:AD416E73DB8BF36610F6232692115A7BB92B7D9E&dn=Snowfall.S04E03.All.the.Way.Down.HDTV.x264-CRiMSON%5BTGx%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
-ls
 mv Downloads
-cd Downloads
-ls
-clear
-ls
 transmssion-cli "magnet:?xt=urn:btih:9D3DF38EC07373F88A829B0C5136D261EE2E9E02&dn=Snowfall.S04E02.Weight.HDTV.x264-CRiMSON&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
 transmission-cli "magnet:?xt=urn:btih:9D3DF38EC07373F88A829B0C5136D261EE2E9E02&dn=Snowfall.S04E02.Weight.HDTV.x264-CRiMSON&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
-exit
-ls
-cd /
-ls
-clear
-ls
-/
-clear
 /proc
-/
-clear
 /home/jojito
-clear
-ls
 /downloads
 downloads
-clear
-cd 
-clear
-cd /
-clear
-ls
 cd sys
-ls
 cd devices
-ls
-cd ..
 cd class
-ls
 cd power_supply
-ls
 cd BAT1
-ls
 cd power
-ls
-cd 
-clear
-cd scripts/dwm_bar
-ls
-vi bar.bash
 cd /
-clear
-cd 
-clear
 /
-clear
-ls
 sys
-clear
-ls
 class
-clear
-ls
 net
-ls
 cd net/wlp2s0/statistics
-ls
 cat rx_bytes
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
-./bar.bash
-clear
-vi bar.bash
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
-gotop
-vi bar.bash
-./bar.bash
-cat rx_bytes
-clear
-ls
 transmission-cli "magnet:?xt=urn:btih:9D3DF38EC07373F88A829B0C5136D261EE2E9E02&dn=Snowfall.S04E02.Weight.HDTV.x264-CRiMSON&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce" 
-vi bar.bash
-clear
-ls
-cd scripts/dwm_bar
-vi bar.bash
-clear
 cat /sys/class/net/wlp2s0/carrier_down_count
 cat /sys/class/net/wlp2s0/carrier_up_count
-clear
 doas pacman -Suyw --noconfirm
-clear
 doas pacman -yu
-man pacman
 doas pacman -Uy
 doas pacman -U
-man pacman
 doas pacman -Syuw --color always
 doas pacman -Syuw 
-clear
-man pacman 
 doas pacman -Syuc
 doas pacman -Suc
-doas pacman -Syu
-doas pacman -Syu --color always
-clear
 expr 1024 ** 2
 expr 1024 ^ 2
-expr 1024 * 1024
 expr (1024 * 1024)
 expr (1024 + 1024)
 expr 1024 + 1024
 expr 1024 x 1024
 expr 1024(1024)
 expr 1024 * 1024
-clear
 expr "1024 * 1024"
 git commit -m "added network speeds"
-cd ..
-ls
-cd auto-install
-ls
 git add cursesTrial.c userformat.bash
 cd ../dwm_bar
-clear
-ls
 git commit -m "added network information"
-git push
-clear
-lout
-startx
-ls
-cd scripts/dwm_bar
-clear
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
-kill -9 -1
-startx
-ls
-cd scripts/dwm_bar
-./bar.bash
 echo $XDG_CONFIG_HOME
 echo $XDG_CONFIG
 echo $CONFIG_HOME
 echo $CONFIG
 echo $HOME
 echo $XDG_HOME
-clear
-ls
 mkdir ~/.config/net
 touch ~/.config/net/logfile
-clear
-vi bar.bash
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
-cat .config/net/logfile
 echo s > .config/net/logfile
 cat .config/net/logfile
-clear
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
-./bar.bash
-testparm
 doas pacman -Ss testparm
-testparm
 doas pacman -Syu Samba
 doas pacman -Syu aamba
 doas pacman -Syu samba
-./bar.bash
-testparm
 cat /etc/samba/smb.conf
-touch /etc/samba/smb.conf
-doas r
-r
 doas r
 touch /etc/samba/smb.conf
 touch touch /etc/samba/smb.conf
 doas touch touch /etc/samba/smb.conf
 testparm
-clear
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
 date +'%A (%-e/%-m/%Y)'
-./bar.bash
 transmission-cli "magnet:?xt=urn:btih:6E4ABA3399F875A1DCB606945AAD37347B2B7851&dn=Snowfall.S04E02.Weight.HDTV.x264-CRiMSON%5BTGx%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
-clear
 mv Downloads/Snowfall.S04E02.Weight.HDTV.x264-CRiMSON\[TGx\]/Snowfall.S04E02.Weight.HDTV.x264-CRiMSON.mkv Videos/Snowfall-S04
-clear
 rm -rf Downloads/*
-clear
-cd Videos/Snowfall-S04
-mpv Snowfall.S04E02.Weight.HDTV.x264-CRiMSON.mkv
-clear
-lout
-startx
-ls
-lout
-startx
-ls
-clear
-cd scripts/dwm_bar
-clear
-ls
-./bar.bash
-vi bar.bash
-./bar.bash
-vi bar.bash
-./bar.bash
-lout
-startx
-clear
-ls
-clear
-ls
-clear
-ls
-ssh -i ECM1417_key.pem ecm1417@51.141.117.243
-exit
-ls
-clea
-clear
-ls
-cd scripts/dwm_bar
-git commit -m "updated network information"
 rm touch
 git commit -m "updated network information"
 git add bar.bash 
 git commit -m "updated network info"
-git push
-clear
-cd ..
-ls
-cd ..
-ls
-ls -a
-clear
-ls
-cd github/arch-config
-clear
-ls
 mkdir dotfiles
-clear
-ls
-cd dotfiles
-clear
-ls
-vi bashrc
-pacman -Qdt
-clear
-man pacman 
-cp bashrc ~/.bashrc
-bash
-clear
-vi bashrc
-clear
-cp bashrc ~/.bashrc
-clear
-ls
-bash
-cp bashrc ~/.bashrc
-clear
-bash
-clear
 pacman -Qdt | cut -d " " -f 1 | doas pacman -Rdds --color always
 vi update.sh
 mv update.sh update.bash
-vi update.bash
 chmod 755 update.bash
-./update.bash
-ls
-vi update.bash
-./update.bash
-vi update.bash
-clear
-ls
-vi bashrc
-bash
-clear
-vi bashrc
 cp bashrc ~/.bashrc
-clear
-bash
-clear
-ls
-vi bashrc
-clear
-cp bashrc ~/.bashrc
-bash
-clear
 git add bashrc update.bash
 git commit -m "added bash rc, havent fixed rempving orphaned packages"
-git push
-clear
-cd 
-clear
-ls
-clear
-ls
-clear
-ls
-clear
 vi scripts/dwm_bar/bar.bash
-clear
-cd scripts/
-ls
-cd ..
 cd github/arch-config/dotfiles
-ls
-./update.bash
-rm /var/lib/pacman/db.lck
-./update.bash
 rm /var/lib/pacman/db.lck
 doas rm /var/lib/pacman/db.lck
 ./update.bash
-clear
-ls
 vi update.bash
 pacman -
-pacman -Qdt
-clear
-doas pacman -Syu
-pacman -
-pacman -Qdt
-clear
 doas pacman -Rdds "$(pacman -Qdt | cut -d " " -f 1)"
-clear
 doas pacman -Syu ; doas pacman -Rdds "$(pacman -Qdt | cut -d " " -f 1)" --noconfirm
-clear
-ls
-clera
-clear
 ~
-clear
-vi .zshrc
 update
-clear
 doas pacman -Qdt | cut -d " " -f 1 | xargs -r pacman -Rdds
-clear
-ls
-cd github/arch-config
-clear
-ls
 cd dotfiles
-ls
-vi bashrc
-man pacman
-man pacman 
-ls
 git rm update.bash
-clear
 git commit -m "Fixed orphan package cleanup with 'xargs -r' (variable substitution wasn't working)"
-git push
-clear
-paru opensesame
 paru python1-webcolors
 paru python2-webcolors
 doas pacman -Sy python2-pip
 pip install python2-webcolors
 paru opensesame
-clear
-ls
-cd apps
-ls
 mkdir open-sesame
 cd open-sesame
-clear
 git clone https://github.com/open-cogsci/OpenSesame
 pip install python-academicmarkdown python-yamldoc
-clear
 doas pacman -Sy pelican inkscape
-clear
 doas pacman -Syw vi
-doas pacman -Syw firefox
-doas pacman -Sy firefox
-clear
 man pacman 
-clear
-man pacman 
-doas pacman -Syw firefox
-doas pacman -Rns firefox
 doas pacman -Sy firefox
 doas pacman -Rns firefox
 doas pacman -Syw firefox
-clear
-ls
 mv OpenSesame/* .
-ls
 rm OpenSesame
 rm -r OpenSesame
-clear
 cat readme.md
 cat readme.md | less
-clear
-ls
 makepkg -si
-clear
-ls
-./setup.py
 pip install yaml
-pip install python3-yaml
-clear
-ls
 vi setup
 vi setup.cfg
 vi setup.py
 paru python3.7
 paru python37
-clear
-ls
 ./setup.py
-vi test.py
-python test.py
-python3.7 test.py
-clear
 pip install python-yaml
 pip install python3-yaml
 pip install yamldoc
 python3.7 test.py
 python3.8 test.py
 python3.9 test.py
-clear
 vi libopensesame/py3compat.py
 pip3 install yamldoc
-clear
-python3 setup.py
 pip3 install python-yamldoc
 pip2 install python-yamldoc
-python3 setup.py
-clear
-ipython
 pip3 install python-yaml
-pip install pyyaml
 python3 setup.py
-clear
 python3 setup.py | less
-clear
-ls
-cat README.txt
-clear
-cd 
-clear
-ls
-cd downloads
-ls
-transmission-cli xubuntu-20.04.2.0-desktop-amd64.iso.torrent
 paru qBittirrent
 paru qBittorrent
-clear
-ls
-cd apps/open-sesame
-ls
 ./setup.py > logfile
-./setup.py --help
 ./setup.py -n
 ./setup.py -v
 ./setup.py -v cmd --help
 ./setup.py cmd --help
-clear
 cd apps/open-sesame
 ./setup.py --help
 setup.py build
 ./setup.py build
 ./setup.py install
-doas ./setup.py install
 pip2 install pyyaml
 pip install pyyaml
-doas ./setup.py install
 ipython 
 cat libopensesame/py3compat.py
-clear
-ls
-doas ./setup.py install
 doas pip install yaml
 doas pip install pyyaml
-doas ./setup.py install
 doas pip install pyqode3
 doas pip install pyqode
 doas pip install pyqode3.python
 doas pip install pyqode.python
 doas ./setup.py install
 doas pip3 install pyqode3.python
-clear
 doas ./run_unittests.py
 ./run_unittests.py
 pip install yamldoc.validate
-clear
 doas pip install yamldoc
-clear
-doas ./opensesamerun
 doas pip install qtpy
 doas ./opensesamerun
 doas pip install PySide
-clear
-cd 
-clear
-ls
 mkdir nadya
-ls
 mv Downloads/xubuntu-20.04.2.0-desktop-amd64.iso nadya
-clear
-cd nadya
-ls
 vi bashrc
-exit
-lsblk
 doas dd if=/home/jojito/nadya/xubuntu-20.04.2.0-desktop-amd64.iso of=/dev/sda
 doas dd if=/home/jojito/nadya/xubuntu-20.04.2.0-desktop-amd64.iso of=/dev/sda status=progress
-clear
-ls
 l xubuntu-20.04.2.0-desktop-amd64.iso
-clear
-exit
 transmission-cli downloads/kubuntu-20.04.2.0-desktop-amd64.iso.torrent
-clear
-ls
-clear
-ls
-cd .config/groff/
-ls
-vi makegroff.sh
-cd .config/groff
-clear
-ls
-vi makegroff.sh
-chmod 755 makegroff.sh
-clear
-l
-clear
 ./makegroff.sh something
-vi makegroff.sh
-./makegroff.sh test.pdf
-vi makegroff.sh
-./makegroff.sh test.pdf
-cd scripts
-cd dwm_bar
-clear
-ls
-vi bar.bash
-vi makegroff.sh
-./makegroff.sh test.pdf
-vi makegroff.sh
-./makegroff.sh test.pdf
-vi makegroff.sh
-./makegroff.sh test.pdf
-clear
-ls
-vi makegroff.sh
-./makegroff.sh test.pdf
-vi makegroff.sh
 ./makegroff.sh test.pdf
 mv makegroff.sh makegroff.bash
 ./makegroff.bash test.pdf
-clear
-ls
-vi makegroff.bash
-./makegroff.bash test.pdf
-clear
-vi makegroff.bash
-clear
-vi something.ms
 ./makegroff.bash something.ms
-ls
-zathura something.pdf
-clear
-cd 
-clear
-cd .config/groff
-clear
-cd 
-cd .config/nvim
-ls
-vi init.vim
-cd 
-clear
-ls
-vi .zshrc
-doas pacman -Syu
 doas pacman -Syu --color always
-celar
-clear
-ls
-rm test
 rm test.py
-clear
-cd test
-ls
-rm test.*
-clear
-vi test.ms
-ls
-clear
-ls
-mkgroff
 mkgroff test/test.ms
-ls
-cd test
-ls
-vi init.vim
-ls
 rm test.
-rm test.pdf
-clear
-ls
-vi test.ms
-ls
-clear
-vi init.vim
-ls
-vi test.ms
-ls
 vi test/test.ms 
-clear
-ls
-cd .config/nvim
-vi init.vim
-cd 
-clear
-ls
 vi test/test.ms
-ls
-cd test
-ls
-clear
-mupdf test.pdf
-clear
-cd 
-clea
-clear
-ls
-cd .config/nvim
-ls
-vi init.vim
-clear
-cd 
-clear
-cd test
-rm test.pdf
-vi test.ms
-ls
-vi test.ms
-clear
-ls
-mupdf test.pdf
-clear
-ls
-cd 
-clear
-ls
-cd test
-rm test.pdf
-clear
-vi test.ms
-ls
 mkgroff
-clear
-ls
-clear
-vi test.
 rm test.pdf
-vi test.ms
-cd .config/nvim
-ls
-vi init.vim
-vi test.ms
-ls
-vi init.vim
-vi test.ms
-cd 
-clear
-ls
-cd test
-ls
 mupdf test.pdf
-zathura test.pdf
-ls
-cd documents/Exeter/ECM1416/week\ 4/notes
-ls
-zathura Euler\'s\ Method:\ a\ Numerical\ Approach\ to\ Solving\ DE.pdf
-cd documents/Exeter/ECM1416/week\ 4/notes
-ls
 zathura Differentiation\ and\ Taylor\ approximations.pdf
-ls
-clea
-clear
-ls
-cd documents/Exeter/ECM1414
-ls
-cd CA
-ls
-zathura documentation.pdf
-cd ../..
-ls
 cd ECM1415\ Descrete\ Mathematics\ \ for\ Computer\ Sciende
-ls
-cd ..
 cd ECM1416
-ls
 cd week\ 4
-ls
-cd notes
-ls
 vi Separation\ of\ VariablesMethod.pdf
 zathura Separation\ of\ VariablesMethod.pdf
-ls
 cd ../../week\ 5/notes
-ls
 mupdf Probability\ basic\ concepts.pdf
 cd ../../week\ 4/notes
-ls
-clear
-ls
 zathura Scalar\ and\ Vector\ Fields.pdf
-cd ../groff
-ls
 vi Scalar\ and\ Vector\ Fields.ms
 cd Videos/As-Above,-So-Below
 mpv As.Above,.So.Below.2014.1080p.BluRay.x264.YIFY.mp4
-cd ..
-ls
-clear
-ls
 cd Snowfall-S01
-ls
 mpv Snowfall\ -\ S01\ E01\ -\ Pilot\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-ls
-cd test
-ls
 rm test.8
 rm test.*
-clear
-ls
 vi something.sh
-cd test
-ls
 chmod 755 something.sh
-clear
-ls
 ./something.sh "hello me"
 ./something.sh "hello.me"
 ./something.sh hello.me
-clea
-clear
-ls
-cd ..
-ls
-cd .config/groff
-clear
-ls
-vi makegroff.bash
 ./makegroff.bash hello.sa
-vi makegroff.bash
-./makegroff.bash hello.sa
-vi makegroff.bash
-cd .config/groff
-ls
 zathura something.pdf
-clear
-ls
 vi something.ms
-jupyter-lab
-clea
-clear
-ls
-cd documents/Exeter/ECM1414/CA
-ls
-vi documentation.ms
-cd documents/Exeter/ECM1414/CA
 zathura
-zathura documentation.pdf
-clear
-ls
-vi lz77-encoder.py
-vi documentation.ms
-vi lz77-encoder.py
 chmod 755 lz77-encoder.py
-clear
-ls
-./lz77-encoder.py
 ./lz77-encoder.py hi
-clear
-ls
-clear
-./lz77-encoder.py documentation.ms
-clear
-ls
-vi lz77-encoder.py
-./lz77-encoder.py documentation.ms
-vi lz77-encoder.py
-./lz77-encoder.py documentation.ms
 ./lz77-encoder.py documentation.lsa
-vi lz77-encoder.py
-./lz77-encoder.py documentation.lsa
-clear
-vi lz77-encoder.py
-./lz77-encoder.py documentation.lsa
-vi lz77-encoder.py
 chmod 000 documentation.pdf
-./lz77-encoder.py documentation.pdf
 chmod 444 documentation.pdf
-l
-clear
-ls
-vi lz77-encoder.py
-chmod 000 documentation.pdf
-./lz77-encoder.py documentation.pdf
-chmod 444 documentation.pdf
-clear
-vi lz77-encoder.py
-clear
-ls
-cd 
-clear
-ls
-cd .config/nvim/vim-plug
-ls
-vi plugins.vim
-cd 
-cd documents/Exeter/ECM1414/CA
-clear
-ls
-vi lz77-encoder.py
-clear
-./lz77-encoder.py
 ./lz77-encoder.py documentation.pdf
 ./lz77-encoder.py documentation.ms
 ./lz77-encoder.py
-./lz77-encoder.py hi mom
 echo $1
-echo $0
 ./lz77-encoder.py hi mom
-echo $0
-echo $status
-./lz77-encoder.py hi mom
-echo $status
-./lz77-encoder.py hi mom
-echo $status
-./lz77-encoder.py hi mom
-echo $status
-clear
 ls
 curl https://www.gutenberg.org/files/17400/17400-0.txt > "the-wright's-chaste-wife-adam-cobsam"
 clear
@@ -7832,3 +6011,4115 @@ ls
 vi Cargo.
 vi Cargo.toml
 sudo reboot
+cd pp/rust/grrs
+ls
+mkdir tests
+cd pp/rust/useful
+ls
+vi Cargo.lock
+vi Cargo.toml
+ls
+clear
+cd src
+ls
+vi main.rs
+cargo run
+vi error.rs
+cargo run
+cd 
+cd -
+cd ../target/debug
+ls
+./useful
+clear
+ls
+ls deps
+./deps/useful-785fae3d49acde2e
+./deps/useful-a85fb1befaab5a2e
+ls
+ls build
+ls examples
+cd ../..
+clear
+ls
+vi src/error.rs
+vi src/main.rs
+cargo run
+vi src/error.rs
+cargo run
+ls
+vi src/cli.rs
+vi src/main.rs
+cargo run
+vi Cargo.toml
+cargo run
+clear
+cd ..
+ls
+cd grrs
+ls
+vi src/main.rs
+cd ../useful
+ls
+vi src/main.rs
+cargo run
+cargo run 2>/dev/null
+cargo run 1>/dev/null
+clear
+ls
+vi src/main.rs
+vi src/progress.rs
+vi src/main.rs
+cargo run
+cat src/progress.rs
+vi src/main.rs
+cargo run
+clear
+vi Cargo.toml
+cargo run
+vi Cargo.toml
+cargo run
+clear
+ls
+cd ..
+cd useful
+ls
+vi src/logging.rs
+env RUST_LOG=info cargo run --bin logging
+vi src/main.rs
+vi src/logging.rs
+cargo run
+vi Cargo.toml
+cargo run
+clear
+ls
+env RUST_LOG=info cargo run --bin output-log
+env RUST_LOG=info cargo run --bin logging
+env RUST_LOG=info cargo run --bin useful
+clear
+ls
+vi src/main.rs
+env RUST_LOG=info cargo run --bin useful
+ls
+ls target
+ls target/debug
+clear
+env RUST_LOG=info cargo run --bin useful
+clear
+ls
+vi src/testing.rs
+vi src/main.rs
+cargo test
+vi src/main.rs
+cargo test
+vi src/main.rs
+cargo test
+vi src/main.rs
+cargo test
+vi src/main.rs
+cargo test
+clear
+cd ..
+ls
+vi grrs
+cd grrs
+cargo run
+vi src/main.rs
+cargo run
+cargo run -- test test.txt
+ls
+clear
+ls
+ls src
+touch test
+cargo run -- test test.txt
+touch test.txt
+cargo run -- test test.txt
+clear
+vi src/main.rs
+cd 
+clear
+cd documents/work
+ls
+mkdir northtop-grumman
+cd northtop-grumman
+ls
+clear
+ls
+vi role
+vi role.md
+ls
+vi ps.txt
+wc ps.txt
+wc --help
+wc -w ps.txt
+vi ps.txt
+vi ~/.config/nvim/init.vim
+clear
+cd ~/github/arch-config
+git add .
+git commit -m "added moving through soft-wrapped lines in vim with j and k rather than g{j,k}"
+token-master
+git push
+clear
+cd-
+cd -
+ls
+clear
+ls
+vi ps.txt
+wc -w ps.txt
+cat ps.txt
+vi ps.txt
+ls
+rm -rf ps.txtwc\ -w\ ps.txt
+ls
+clear
+wc -w ps.txt
+cat ps.txt
+clear
+vi se.txt
+clera
+clear
+wc -w se.txt
+cat se.txt
+ls
+vi role.md
+vi sk.txt
+wc -w sk.txt
+vi sk.txt
+wc -w sk.txt
+cat sk.txt
+vi role.md
+clear
+ls
+cd 
+ls
+cd pp/rust
+ls
+clear
+cd grrs
+ls
+vi src/main.rs
+cargo run
+vi src/main.rs
+cargo run
+vi src/main.rs
+cargo run
+vi src/main.rs
+cargo run
+vi src/main.rs
+cargo run
+vi src/main.rs
+cargo run
+vi src/main.rs
+cargo run
+cargo test
+vi src/main.rs
+cargo test
+cargo build
+clear
+ls
+rm -rf test
+cat >> test.txt << "EOF"\
+something here\
+is not right\
+but I do not know what it is\
+EOF
+clear
+ls
+cargo run -- some test.txt
+cargo run -- i test.txt
+cat >> test.txt << "EOF"\
+something here\
+is not right\
+but I do not know what it is\
+II\
+EOF
+cargo run -- i test.txt
+clear
+ls
+rm -rf test.txt
+clear
+vi src/lib.rs
+cat src/main.rs
+cat > src/lib.rs << "EOF"\
+// -----------------------------------------------\
+// FIND MATCHES\
+\
+/// a function to find the pattern in the given content\
+fn find_matches(content: &str, pattern: &str, mut writer: impl std::io::Write) -> Result<()> {\
+    for line in content.lines() {\
+        if line.contains(pattern) {\
+            writeln!(writer, "{}", line)?;\
+        }\
+    }\
+\
+    Ok(())\
+}\
+\
+/// test for find_matches\
+#[test]\
+fn find_a_match() {\
+    let mut result = Vec::new();\
+    find_matches("lorem ipsum\ndolor sit amen", "lorem", &mut result);\
+    assert_eq!(result, b"lorem ipsum\n");\
+}\
+EOF
+clear
+ls
+cd src
+ls
+vi lib.rs
+vi main.rs
+cargo run
+vi main.rs
+cargo run
+vi lib.rs
+cargo run
+vi lib.rs
+cargo run
+vi lib.rs
+cargo run
+vi lib.rs
+cat main.rs
+vi lib.rs
+vi main.rs
+cargo run
+clear
+cd ..
+ls
+clear
+cargo test
+Doc-tests grrs
+clear
+vi Cargo.toml
+vi tests/cli.rs
+clear
+cargo test
+vi tests/cli.rs
+cargo test
+vi tests/cli.rs
+cargo test
+c
+vi Cargo.toml
+cargo test
+clear
+cargo build
+vi src/lib.rs
+cargo build
+clear
+cargo build --release
+cargo test
+vi src/lib.rs
+cargo test
+clear
+vi tests/cli.rs
+cargo test
+vi tests/cli.rs
+cargo test
+clear
+cargo login cioOyGxCDCjIcMW9kH6stvMbN63HkiOgWTg
+clear
+echo $PATH
+cargo build --release
+clear
+exit
+ls
+cd pp/rust/grrs
+clear
+cd -
+cd pp/rust/grrs
+cd ..
+cd grrs
+ls
+clear
+vi ~/.config/zsh/zshrc
+cd ~/github
+cd arch-config
+cd ~/pp/rust/grrs
+ls
+clear
+exit
+cd Downloads
+ls
+clear
+tar xf Banana.tar.gz
+ls
+mv Banana ~/.icons
+ls
+sudo cp ~/.icons/Banana /usr/share/icons/
+ls
+ls ..
+l ..
+ls ../.icons/o
+ls ../.icons/
+tar xf Banana.tar.gz
+sudo mv Banana /usr/share/icons/
+clear
+exit
+sudo zypper install gnome-tweaks
+exit
+htop
+cd downloads
+ls
+sudo cp -p nat803.cur /usr/share/icons/dinosaur
+clear
+sudo poweroff
+ls
+tmux ls
+mkdir /run/tmux/1000/default
+tmux ls
+tmux new
+rm -rf /run/tmux/1000/default
+tmux new
+tmux ls
+clear
+cd pp
+ls
+cd rust
+ln -s ~/github/rust-zip ~/pp/rust/rust-zip
+clear
+ls
+cd rust-zip
+ls
+clear
+cd ..
+cd rust-zip
+clear
+ls
+clear
+ls
+tmux ls
+tmux
+clear
+ls
+vi src/lib.rs
+vi src/main.rs
+cargo run -- c files/alice29.txt
+vi src/lib.rs
+cargo run -- c files/alice29.txt
+vi src/lib.rs
+cargo run -- c files/alice29.txt
+vi src/main.rs
+cargo run -- c files/alice29.txt
+clear
+ls
+vi src/lib.rs
+vi src/main.rs
+cargo run -- c files/alice29.txt
+vi src/main.rs
+vi src/lib.rs
+cargo run -- c files/alice29.txt
+vi src/lib.rs
+cargo run -- c files/alice29.txt
+vi src/lib.rs
+cargo run -- c files/alice29.txt
+vi src/main.rs
+cargo run -- c files/alice29.txt
+vi src/main.rs
+vi src/lib.rs
+cargo run -- c files/alice29.txt
+vi src/lib.rs
+cargo run -- c files/alice29.txt
+vi src/main.rs
+cargo run -- c files/alice29.txt
+vi src/lib.rs
+cargo run -- c files/alice29.txt
+vi src/main.rs
+cargo run -- c files/alice29.txt
+clear
+vi src/lib.rs
+cargo run -- c files/alice29.txt
+vi src/lib.rs
+cargo run -- c files/alice29.txt
+clear
+vi src/lib.rs
+vi src/main.rs
+cargo run -- c files/alice29.txt
+vi src/lib.rs
+clear
+exit
+sudo zypper install pinta
+sudo zypper dup
+jupyter-lab
+sudo zypper install jupyter-lab
+pip install jupyter-lab
+pip install jupyter
+pip install jupyter-notebook
+pip install jupyterlab
+pip install jupyternotebook
+jupyter-lab
+reboot
+sudo reboot
+ls
+cd documents
+ls
+mkdir exeter
+cd exeter
+ls
+mv ../DevOps ~/pp
+clear
+ls
+mkdir ecm3422
+cd ecm3422
+ls
+clear
+ls
+mkdir ca
+cd ca
+ls
+clear
+vi ca.ms
+ls
+groff -ms -e -T pdf ca.ms > ca.pdf
+ls
+sudo zypper install zathura
+zathura ca.pdf
+ls
+vi makegroff.sh
+cat ~/github/arch-config/scripts/small/bar.bash
+vi makegroff.sh
+./makegroff.sh
+chmod 755 makegroff.sh
+./makegroff.sh
+vi makegroff.sh
+./makegroff.sh
+./makegroff.sh some.sad
+vi makegroff.sh
+./makegroff.sh some.sad
+vi makegroff.sh
+vi ca.ms
+mkdir -p ~/.config/groff
+mv makegroff.sh ~/.config/groff
+vi ~/.config/nvim/init.vim
+clear
+vi ca.ms
+ls
+zathura ca.pdf
+vi ca.ms
+ghighlight ca.ms | groff -ms -e -T pdf > ca.pdf
+vi ca.ms
+ghighlight ca.ms | groff -ms -e -T pdf > ca.pdf
+vi ca.ms
+ghighlight ca.ms | groff -ms -e -T pdf > ca.pdf
+vi test.ms
+ghighlight test.ms| groff -ms -e -T pdf > test.pdf
+cat ca.ms
+cd
+clear
+exit
+cd downloads
+ls
+cat eqns.ms
+vi *.ps
+ls
+zathura eqn2e.ps
+vi eqn2e.ps
+ls
+cd ../github
+git clone https://github.com/Gavinok/ghighlight
+cd ghighlight
+ls
+clear
+ls
+sudo make install 
+clear
+ls
+ghighlight test.ms | groff -e -ms -T pdf > test.pdf
+vi test.ms
+sudo zypper install perl
+sudo zypper install gsh
+cnf gsh
+exit
+zathura documents/exeter/ecm3422/ca/ca.pdf
+clear
+sudo zypper dup
+sudo poweroff
+cd downloads
+ls
+unzip discord-0.0.21.tar.gz
+tar xf discord-0.0.21.tar.gz
+clear
+ls
+cd Discord
+ls
+./Discord
+sudo zypper dup
+htop
+cd pp/rust/rust-zip
+ls
+clear
+ls
+cargo run
+cargo run c files/alice29.txt
+vi src/main.rs
+vi src/lib.rs
+cargo run c files/alice29.txt
+vi src/lib.rs
+cargo run c files/alice29.txt
+wc -c files/alice29.txt
+clear
+zip files/alice29.txt
+help
+cnf help
+sudo zypper install sccs
+clear
+ls
+cd ..
+ls
+clear
+rustup docs --book
+cargo new guessing_game
+cd guessing_game
+ls
+clear
+cargo run
+vi src/main.rs
+cargo run
+clear
+cd ..
+rm -rf guessing_game
+clear
+cargo new functions
+cd functions
+cargo run
+clear
+vi src/main.rs
+cargo run
+clear
+cd ..
+rm -rf functions
+ls
+vi progress
+touch progress
+clear
+ls
+cd rust-zip
+ls
+vi src/lib.rs
+cargo run
+cargo run -- sad files/alice29.txt
+vi src/lib.rs
+cargo run -- sad files/alice29.txt
+cd ..
+clear
+ls
+cargo new ownership
+cd ownership
+vi src/main.rs
+cargo run
+vi src/main.rs
+cargo run
+vi src/main.rs
+cargo run
+vi src/main.rs
+cargo run
+vi src/main.rs
+cargo run
+clear
+cargo run
+vi src/main.rs
+cargo run
+cd ..
+ls
+vi progress
+file progress
+type file
+clear
+type echo
+type -a echo
+alias echo="echo hi"
+type -a echo
+exit
+cd pp/rust
+cat progress
+ls
+cd documents
+ls
+cd exeter/
+ls
+mkdir project
+cd project
+ls
+mkdir lit-review
+cd lit-review
+ls
+clear
+echo "The structure of neural networks, in terms of chess algorithms, has become extremely complex to increase the level of the algorithm above the level of humans. This, however, has created algorithms with a \emph{black-box} core, making it extremely hard to learn from. Therefore, in this paper, I will conduct a review of different existing methods of explaining deep neural networks, propose a new idea, and a project plan for creating a chess neural network, then attempting to explain it with the proposed technique.\
+" > abstract
+wc -w abstract
+echo "The structure of neural networks, in terms of chess algorithms, has become extremely com-\
+plex in order to be able to play at superhuman levels.. This, however, has created algorithms\
+with a black-box core which makes it extremely hard to understand, and therefore learn, than\
+traditional chess algorithms. Therefore, in this paper I propose a new technique of analysing\
+deep neural networks by looking at the relative rate of improvement throughout the training\
+process and back-tracking the learning of techniques to label features. I will also review\
+the relevant literature on chess algorithms and current methods of explaining deep neural\
+networks, as well as propose a time plan for training the network, analysing it, and success\
+criteria." > abstract
+wc -w abstract
+clear
+cd 
+cd downloads
+ls
+mkdir moderncsv
+mv ModernCSV-Linux-v1.3.36.1.tar.gz moderncsv
+cd moderncsv
+ls
+tar xf ModernCSV-Linux-v1.3.36.1.tar.gz
+ls
+cd moderncsv1.3.36.1
+ls
+cat README.md
+sudo sh install.sh
+clear
+ls
+cat install.sh
+sudo poweroff
+sudo zypper dup
+sudo poweroff
+cd Downloads
+ls
+cat csp_119_.bib
+sudo zypper dup
+clear
+ lsblk
+ls /boot/efi
+ls /boot/efi/EFI
+ls /boot/efi/EFI/boot
+ls /boot/efi/EFI/opensuse
+file /boot/efi/EFI/boot/bootx64.efi
+file /boot/efi/EFI/opensuse/grub.cfg
+file /boot/efi/EFI/opensuse/boot.csv
+exit
+sestatus
+clera
+clear
+ls -Z
+clear
+man ls
+clear
+exit
+sudo lspci -nnk | grep -A3 VGA
+sudo zypper dup
+sudo zypper install brave
+sudo zypper install brave-browser
+sudo zypper install curl
+sudo rpm --import https://brave-browser-rpm-release.s3.brave.com/brave-core.asc
+sudo zypper addrepo --refresh https://brave-browser-rpm-release.s3.brave.com/x86_64/ brave-browser
+sudo zypper install brave-browser
+exit
+ls Downloads
+Downloads/Discord/Discord
+clear
+echo "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" > github/master-token-cm41
+clear
+vi .config/zsh/zshrc
+q
+sudo zypper install vscode
+sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc\
+
+sudo zypper addrepo https://packages.microsoft.com/yumrepos/vscode vscode\
+
+sudo zypper refresh\
+
+sudo zypper install code\
+
+clear
+ls
+cd pp
+ls
+cd rust
+ls
+cd grrs
+code -r
+q
+cm41
+vi .config/zsh/zshrc
+source .config/zsh/zshrc
+cm41
+clear
+Downloads/Discord/Discord
+clear
+Downloads/Discord/Discord
+clear
+ls
+github/Discord/Discord
+Chatterino7-x86_64.AppImage
+chmod 755 .local/bin/Chatterino7-x86_64.AppImage
+Chatterino7-x86_64.AppImage
+cd te
+mkdir test
+cd test
+ls
+vi test.py
+python test.py
+vi test.py
+python test.py
+vi test.py
+python test.py
+vi test.py
+python test.py
+vi test.py
+python test.py
+vi test.py
+python test.py
+vi test.py
+python test.py
+vi test.py
+python test.py
+clear
+ls
+vi structure.md
+cd 
+cd downloads
+l
+cat 10.1371_journal.pone.0130140.bib
+cat oe-23-3-2220.bib
+cat csp_362_.bib
+ls
+mkdir notes
+cd notes
+l
+vi clip
+sudo zypper install youtube-dl
+clear
+ls
+cd Music
+ls
+youtube-dl "https://www.youtube.com/watch?v=OFNKya-tqQk" > something
+youtube-dl --help
+clear
+youtube-dl -F "https://www.youtube.com/watch?v=OFNKya-tqQk\
+"
+ls
+clear
+cat something
+rm -rf something
+clear
+file TAKTSTÃƒ¶RER\ -\ 141\ Schneeschieber-OFNKya-tqQk.f248.webm.part
+sudo zypper dup
+sudo zypper install libapr1 libapr-util1
+sudo zypper addrepo https://ftp.lysator.liu.se/pub/opensuse/repositories/Apache/openSUSE_Tumbleweed/ apache-x86_64
+sudo zypper install libapr1
+cd 
+clear
+sudo zypper install libapr-util1
+clear
+sudo zypper install appimaged
+appimaged
+appimaged --help
+appimaged -vi downloads/kdenlive-22.08.3-x86_x64.AppImage
+cd downloads
+./kdenlive-22.08.3-x86_x64.AppImage
+youtube-dl "https://clips.twitch.tv/FuriousSpookyRedpandaYouWHY-GBwfywSAkWwwF7P5"
+ls
+mkdir ../Videos/tiktok/clips
+mv good\ play-2252378990.mp4 ../Videos/tiktok/clips
+mv downloads/kdenlive-22.08.3-x86_x64.AppImage .local/bin
+q
+ln -s $HOME/github/Discord/Discord $HOME/.local/bin
+ls .local/bin
+Discord
+cd documents/work
+ls
+zathura georgi-tarashev-cv.pdf
+sudo poweroff
+sudo zypper dup
+clear
+cd pp/rust
+ls
+cat progress
+sudo powerof
+sudo poweroff
+man dracut
+clear
+ls
+cd pp
+ls
+mkdir phyos
+cd phyos
+ls
+mkdir process
+cd process
+ls
+vi boot process.md
+vi bootprocess.md
+q
+cd pp
+ls
+cd python
+ls
+mkdir test
+cd test
+cat ../coin-game.ipynb
+clear
+ls
+vi test.py
+python test.py
+vi test.py
+python test.py
+vi test.py
+python test.py
+vi test.py
+python test.py
+vi test.py
+python test.py
+vi test.py
+clear
+ipython
+q
+sudo tlp start
+systemctl enable tlp
+sudo tlp start
+clear
+ls
+cd documents/exeter/project/documentation
+mkdir -p documents/exeter/project/documentation
+cd documents/exeter/project/documentation
+ls
+clear
+mkdir pdf
+mkdir doc
+cd ..
+ls
+mv documentation doc
+ls
+cd doc
+ls
+clear
+mkdir src
+ls
+cd ..
+ls
+vi README.md
+ls
+bat README.md
+sudo zypper dup
+clear
+zypper ps -p
+zypper ps 
+clear
+ls
+cd doc
+ls
+cat ../README.md
+vi compile-pdfs.bash
+chmod 755 compile-pdfs.bash
+./compile-pdfs.bash
+clear
+vi compile-pdfs.bash
+ls
+./compile-pdfs.bash
+vi compile-pdfs.bash
+./compile-pdfs.bash
+vi compile-pdfs.bash
+./compile-pdfs.bash
+vi compile-pdfs.bash
+./compile-pdfs.bash
+vi compile-pdfs.bash
+clear
+vi compile-pdfs.bash
+clear
+./compile-pdfs.bash
+vi compile-pdfs.bash
+./compile-pdfs.bash
+vi compile-pdfs.bash
+ls
+clear
+touch src/test1.ms
+touch src/test1.pdf
+touch src/test2.pdf
+touch src/test2.ms
+clear
+./compile-pdfs.bash
+vi compile-pdfs.bash
+cat src/test1.pdf
+file src/test1.pdf
+cd src
+ls
+rm -rf *.pdf
+ls
+rm -rf ./*
+clear
+vi test.ms
+file test.ms
+cd ..
+vi test.ms
+vi compile-pdfs.bash
+ls
+cp src/test.ms src/test.sad
+./compile-pdfs.bash
+vi compile-pdfs.bash
+cat ~/.config/groff/makegroff.sh
+vi compile-pdfs.bash
+./compile-pdfs.bash
+vi compile-pdfs.bash
+./compile-pdfs.bash
+vi compile-pdfs.bash
+./compile-pdfs.bash
+vi compile-pdfs.bash
+./compile-pdfs.bash
+ls
+ls pdf
+zathura pdf/test.pdf
+clear
+zathura pdf/test.pdf
+vi compile-pdfs.bash
+./compile-pdfs.bash
+clear
+ls
+vi compile-pdfs.bash
+./compile-pdfs.bash
+vi compile-pdfs.bash
+./compile-pdfs.bash
+vi compile-pdfs.bash
+./compile-pdfs.bash
+clear
+vi compile-pdfs.bash
+./compile-pdfs.bash
+vi compile-pdfs.bash
+./compile-pdfs.bash
+vi compile-pdfs.bash
+./compile-pdfs.bash
+clear
+ls
+./compile-pdfs.bash
+cd src
+../compile-pdfs.bash
+cd ..
+clear
+ls
+vi compile-pdfs.bash
+./compile-pdfs.bash src
+cd src
+../compile-pdfs.bash .
+ls
+cd ..
+vi compile-pdfs.bash
+./compile-pdfs.bash as- sad
+vi compile-pdfs.bash
+./compile-pdfs.bash as- sad
+cd src
+../compile-pdfs.bash .
+ls
+cd ..
+vi compile-pdfs.bash
+cd src
+../compile-pdfs.bash . ../pdf
+rm -rf ../pdf/*
+ls ../pdf
+../compile-pdfs.bash . ../pdf
+ls ../pdf
+ls
+rustc elephant.rs
+./elephant
+((843 // 5))
+((843 / 5))
+echo ((843 / 5))
+i=((843 / 5))
+clear
+rustc elephant.rs
+./elephant
+rustc elephant.rs
+./elephant
+rustc elephant.rs
+clear
+rustc elephant.rs
+./elephant
+rustc elephant.rs
+./elephant
+5 % 5
+(( val = 5 % 5))
+echo val
+echo $val
+rustc elephant.rs
+./elephant
+rustc elephant.rs
+./elephant
+rustc elephant.rs
+./elephant
+clear
+ls
+cd ..
+rm -rf codeforces
+ls
+clear
+cargo new codeforces
+cd codeforces
+ls
+clear
+cargo run 
+clear
+asd
+clear
+ls
+clear
+ls
+cargo run -p elephant
+cargo run --bin elephant
+cargo run --bin codeforces
+clear
+cargo run
+clear
+cargo rin
+cargo run
+clear
+cargo run
+clear
+cd ..
+ls
+clear
+ls
+clear
+cargo run
+clear
+cargo run
+clear
+ls
+mkdir test
+cd test
+clear
+ls
+vi test.txt
+clear
+ls
+cd ..
+cd pp/rust
+ls
+cd rustsh
+ls
+clear
+ls
+vi src/lib.rs
+vi src/main.rs
+cat src/lib.rs
+vi src/main.rs
+vi src/lib.rs
+cargo run
+vi Cargo.toml
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+clear
+ls
+vi src/main.rs
+cargo run
+vi src/main.rs
+cargo run
+vi src/main.rs
+cargo run
+ls
+ls test
+vi src/main.rs
+ls test
+cargo run
+vi src/main.rs
+clear
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+echo "dasd askdljas" >> test/test.txt
+clear
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+clear
+cargo run
+vi src/main.rs
+clear
+ls
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+clear
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+clear
+cargo run
+vi src/lib.rs
+cargo run
+clear
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cat src/main.rs
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+clear
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+clear
+ls
+vi test/test.txt
+cargo run
+vi test/test.txt
+clear
+ls
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+clear
+vi test/test.txt
+cargo run
+cargo run 2> /dev/null
+vi test/test.txt
+vi src/lib.rs
+cargo run 2> /dev/null
+vi src/lib.rs
+cargo run 2> /dev/null
+vi src/lib.rs
+cargo run 2> /dev/null
+cargo run
+vi src/lib.rs
+cargo run
+cargo run 2>/dev/null
+vi src/lib.rs
+cargo run 2>/dev/null
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+cargo run 2>/dev/null
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+clear
+cargo run
+vi src/lib.rs
+cargo run
+clear
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cargo run
+clear
+cargo run
+vi src/lib.rs
+cargo run
+vi src/lib.rs
+cd pp/rust/grrs
+cat Cargo.toml
+cat src/main.rs
+cd documents/exeter/ecm3420/CA
+zathura report.pdf
+clear
+ls
+mkdir datasets
+cd
+ls
+cd pp/rust
+mkdir advent-2022
+cd advent-2022
+ls
+mkdir day1.rs
+rm -rf day1.rs
+clear
+ls
+vi day1.rs
+rustc day1.rs
+vi day1.rs
+rustc day1.rs
+clear
+ls
+cat day1.rs
+mkdir files
+clear
+ls
+curl "https://adventofcode.com/2022/day/1/input" > files/day1.txt
+cat files/day1.txt
+clear
+ls
+vi files/day1.txt
+clear
+./day1
+vi files/day1.txt
+clear
+vi day1.rs
+./day1
+rustc day1.rs
+vi day1.rs
+rustc day1.rs
+vi day1.rs
+rustc day1.rs
+clear
+./day1
+vi day1.rs
+./day1
+rustc day1.rs
+./day1
+cat files/day1.txt
+vi day1.rs
+rustc day1
+rustc day1.rs
+./day1
+vi day1.rs
+rustc day1.rs
+vi day1.rs
+rustc day1.rs
+vi day1.rs
+rustc day1.rs
+vi day1.rs
+rustc day1.rs
+./day1
+clear
+ls
+vi day1.rs
+rustc day1.rs
+vi day1.rs
+rustc day1.rs
+./day1
+clear
+ls
+vi day1.rs
+clear
+ls
+cd ..
+git clone https://github.com/gtarashev/aoc22
+mv advent-2022/* aoc22
+rm -rf advent-2022
+clear
+cd aoc22
+ls
+cargo init
+ls
+cat day1.rs > src/lib.rs
+rm -rf day1 day1.rs
+cd src
+ls
+vi lib.rs
+vi main.rs
+cd ..
+cargo run
+clear
+ls
+vi src/main.rs 
+cargo run -- 1
+vi src/main.rs
+clear
+vi Cargo.toml
+cargo run
+vi Cargo.toml
+vi src/main.rs
+cargo run
+cargo run -- 1
+clear
+cargo run -- 2
+clear
+ls
+vi .gitignore
+clear
+ls
+vi README.md
+cargo build
+cargo build --release
+ls
+cd target
+ls
+cd release
+ls
+./aoc22 1
+cd ../..
+clear
+vi src/main.rs
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+clear
+ls
+vi README.md
+clear
+cargo build
+cargo build --release
+cd target/release
+cargo build --debug
+./aoc22 1 ../../files/day1.txt
+clear
+ls
+cd ../..
+clear
+ls
+vi README.md
+clear
+git add .
+git commit -m "Initial commit + added first day"
+git config --global user.name "Georgi Tarashev"
+git config --global user.email georgitarashev@gmail.com
+git commit --amend --reset-author
+clear
+ls
+sudo systemctl reboot
+sudo zypper dup
+clear
+sudo zypper install selinux-policy-targeted
+clear
+sudo vim /etc/default/grub
+sudo vim /etc/selinux/config
+sudo systemctl reboot
+cd pp/rust
+ls
+cd 
+cd github
+ls
+clear
+c d
+cd
+cd pp/rust
+clear
+ls
+cargo new rustsh
+ln -s ~/pp/rust/rustsh ~/github/rustsh
+clear
+ls
+cd rustsh
+clear
+ls
+cd src
+ls
+cd ..
+code .
+clear
+ls
+cd ..
+ls
+cd codeforces
+cat src/lib.rs
+s
+test
+clear
+cat src/lib.rs
+clear
+cd ..
+ls
+cd grrs
+ls
+cat src/lib.rs
+cat src/main.rs
+cat Cargo.toml
+cd
+clear
+ls
+cd documents/exeter
+ls
+mkdir exm3420
+rm -rf exm3420
+mkdir ecm3420
+cd ecm3420
+ls
+clear
+mkdir CA 
+cd CA
+ls
+clear
+vi report.ms
+clear
+jupyter-lab .
+clear
+ls
+cd 
+cd pp/rust/grrs
+clear
+ls
+cat src/main.rs
+htop
+sestatus
+update-bootloader
+sudo update-bootloader
+sudo systemctl reboot
+sestatus
+sudo vim /etc/selinux/config
+sudo systemctl reboot
+sestatus
+sudo systemctl poweroff
+htop
+cd pp/rust/aoc22
+token-master
+git push
+clear
+ls
+cd 
+clear
+cd pp/rust
+ls
+cd ../python
+ls
+mkdir foobar
+ls
+cd foobar
+ls
+clear
+vi id.py
+python id.py
+ls
+touch primes.txt
+python id.py
+clear
+l
+vi id.py
+ls
+cat id.py
+python id.py
+clear
+vi id.py
+python id.py
+vi id.py
+python id.py
+ls
+vi id.py
+python id.py
+vi id.py
+python id.py
+cat id.py
+vi id.py
+python id.py
+clear
+vi id.py
+cat id.py
+vi id.py
+cat id.py
+clear
+python id.py
+clear
+ls
+vi elevator.p
+vi elevator.py
+python elevator.py
+vi elevator.py
+python elevator.py
+vi elevator.py
+python elevator.py
+vi elevator.py
+python elevator.py
+vi elevator.py
+python elevator.py
+vi elevator.py
+cd ../..
+ls
+clear
+ls
+cd rust
+ls
+clear
+ls
+cd aoc22
+clear
+ls
+cd src
+vi lib.rs
+clear
+cd ..
+ls
+clear
+ls
+cd files
+ls
+vi day2.txt
+clear
+ls
+cd .
+cd ..
+ls
+vi src/lib.rs
+vi src/main.rs
+vi files/day2.txt
+clear
+ls
+cargo run -- 2 files/day2.txt
+vi src/lib.rs
+cargo run -- 2 files/day2.txt
+vi src/lib.rs
+cargo run -- 2 files/day2.txt
+vi src/lib.rs
+clear
+cargo run -- 2 files/day2.txt
+clear
+vi src/lib.rs
+clear
+cargo run -- 2 files/day2.txt
+vi src/lib.rs
+cargo run -- 2 files/day2.txt
+clear
+ls
+vi src/main.rs
+clear
+vi src/lib.rs
+clear
+cargo build --release
+vi src/lib.rs
+vi src/main.rs
+clear
+cargo build --release
+clear
+git add .
+git commit -m "Added day 2"
+exit
+htop
+ls
+cd pp/rust
+ls
+cd aoc22
+vi src/main.rs
+vi src/lib.rs
+token-master
+git push
+vi src/lib.rs
+vi files/day3.txt
+clear
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi files/day3.txt
+clear
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt
+vi src/lib.rs
+vi src/main.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt > test
+ls
+wc test
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt | grep a
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt | grep A
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt | grep b
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt | grep B
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt | grep z
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt | grep z
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt | grep z
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt | grep Z
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt | grep b
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt | grep b
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt | grep b
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt | grep B
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt | grep B
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt | grep B
+clear
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt
+vi files/day3test.txt
+cargo run -- 3 files/day3test.txt
+vi src/lib.rs
+cargo run -- 3 files/day3test.txt
+vi src/lib.rs
+cargo run -- 3 files/day3test.txt
+vi src/lib.rs
+cargo run -- 3 files/day3test.txt
+vi src/lib.rs
+cargo run -- 3 files/day3test.txt
+vi src/lib.rs
+cargo run -- 3 files/day3test.txt
+vi src/lib.rs
+cargo run -- 3 files/day3test.txt
+vi src/lib.rs
+cargo run -- 3 files/day3test.txt
+vi src/lib.rs
+cargo run -- 3 files/day3test.txt
+vi src/lib.rs
+cargo run -- 3 files/day3test.txt
+cargo run -- 3 files/day3.txt
+vi files/day3.txt
+cargo run -- 3 files/day3.txt
+vi files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+clear
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+vi src/lib.rs
+cargo run -- 3 files/day3.txt
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt
+vi src/lib.rs
+RUST_BACKTRACE=1 cargo run -- 3 files/day3.txt
+clear
+ls
+git add.
+git add .
+git commit -m "Added day 3"
+vi README.md
+clear
+cd
+q
+cd pp/rust/aoc22
+ls
+vi src/lib.rs
+q
+ls
+cd pp/rust
+ls
+cargo init aoc-better
+cp aoc22/files aoc-better
+cd aoc-better
+ls
+cd ..
+cp -r aoc22/files aoc-better
+ls
+ls aoc-better
+cd aoc-better
+ls
+cp ../aoc22/src/main.rs ./src/main.rs
+cp ../aoc22/Cargo.toml ./Cargo.toml
+clear
+vi src/lib.rs
+clear
+vi src/main.rs
+cargo run -- 1 files/day1.txt
+vi src/main.rs
+vi src/lib.rs
+vi src/main.rs
+cargo run -- 1 files/day1.txt
+vi src/main.rs
+vi src/lib.rs
+vi src/main.rs
+cargo run -- 1 files/day1.txt
+vi src/main.rs
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+ls
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+clear
+cargo run -- 1 files/day1.txt
+cd Downloads
+ls
+cd The.Perverts.Guide.To.Ideology.2012.DVDRip.x264-WaLMaRT\[rarbg\]
+ls
+clear
+ls
+mpv wmt-tpgti.
+mpv wmt-tpgti.mkv
+cat pp/rust/aoc-better/src/lib.rs
+ls
+cd pp/rust
+ls
+cd aoc-better
+clear
+ls
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+vi src/lib.rs
+cargo run -- 1 files/day1.txt
+clear
+cd 
+cd pp/rust/aoc22
+ls
+clear
+vi src/lib.rs
+vi src/main.rs
+vi files/day4.txt
+clear
+vi files/day4.txt
+clear
+ls
+vi src/lib.rs
+cargo run -- 4 files/day4.txt
+vi src/lib.rs
+cargo run -- 4 files/day4.txt
+vi src/lib.rs
+cargo run -- 4 files/day4.txt
+vi src/lib.rs
+cargo run -- 4 files/day4.txt
+vi src/lib.rs
+cargo run -- 4 files/day4.txt
+vi src/lib.rs
+cargo run -- 4 files/day4.txt
+vi src/lib.rs
+cargo run -- 4 files/day4.txt
+vi src/lib.rs
+cargo run -- 4 files/day4.txt
+vi src/lib.rs
+cargo run -- 4 files/day4.txt
+clear
+vi src/lib.rs
+cargo run -- 4 files/day4.txt
+vi src/lib.rs
+cargo run -- 4 files/day4.txt
+vi src/lib.rs
+cargo run -- 4 files/day4.txt
+rustc --explain E0308
+vi src/lib.rs
+rustc --explain E0308
+cargo run -- 4 files/day4.txt
+vi src/lib.rs
+cargo run -- 4 files/day4.txt
+clear
+cargo run -- 4 files/day4.txt
+vi src/lib.rs
+cargo run -- 4 files/day4.txt
+vi src/lib.rs
+cargo run -- 4 files/day4.txt
+vi src/lib.rs
+cargo run -- 4 files/day4.txt
+vi src/lib.rs
+cargo run -- 4 files/day4.txt
+vi src/lib.rs
+cargo run -- 4 files/day4.txt
+vi src/lib.rs
+cargo run -- 4 files/day4.txt
+vi src/lib.rs
+cargo run -- 4 files/day4.txt
+vi src/lib.rs
+cargo run -- 4 files/day4.txt
+vi src/lib.rs
+cargo run -- 4 files/day4.txt
+vi src/lib.rs
+cargo run -- 4 files/day4.txt
+vi src/lib.rs
+cargo run -- 4 files/day4.txt
+poweroff
+sudo zypper dup
+sudo systemctl poweroff
+pip install tensorflow matplotlib
+clear
+wc "something"
+echo "something" | wc
+echo "n the world of trading, the ability to be able to predict the movement of stocks has been a very\
+prevalent way to get rich. Many different algorithms and techniques have been proposed, with\
+varying success rates. Some of the most popular programs used for this have been quick and\
+unintelligent bots. These do not rely on any complex algorithms, but the simple fact that bots are\
+faster than humans and trade at very small volumes, short-term, with the aim of exploiting the\
+minuscule fluctuations of the market in order to make small wins which add up over time. However,\
+there have also been bots which trade in a more long-term fashion, analysing trends over hours, days\
+or even weeks and employing well-established and constantly observed market patterns to make a\
+decision on wether to buy or sell a stock.\
+Recurrent Neural Networks (RNN)[1, 2, 3] on their own and also an LSTM[4, 5] approach with\
+RNNs." | wc
+clear
+ls
+cd downloads
+ls
+cat citations-20221207T093719.bibtex
+ls
+cd downloads
+ls
+rm -rf The.Perverts.Guide.To.Ideology.2012.DVDRip.x264-WaLMaRT\[rarbg\]/ DaVinci_Resolve_18.1.1_Linux DaVinci_Resolve_18.1.1_Linux.zip libapr1.ymp libapr-util1.ymp CockCog.py
+ls
+rm -rf Cyberscience-2020-21-Job-Spec.pdf Hawk-Eye\ Innovations\ -\ About\ Us\ .pdf
+clear
+ls
+mv archive.zip ../documents/exeter/ecm3420/CA/datasets
+cd ../documents/exeter/ecm3420/CA/datasets
+clear
+ls
+unzip archive.zip
+ls
+rm -rf archive.zip
+clear
+ls
+xdg-open AT_T_SBC_Stock_Price_Data_2000_2020.csv
+clear
+ls
+cd ..
+ls
+jupyter-lab
+clear
+pip install pandas numpy sklearn
+clear
+jupyter-lab
+pip install sklearn
+jupyter-lab
+pip install scikit-learn
+jupyter-lab
+clear
+jupyter-lab
+clear
+ls
+xdg-open ecm3420.ipynb
+jupyter-lab
+xdg-open ecm3420.ipynb
+jupyter-lab
+clear
+ls
+mkdir final
+mv ecm3420.ipynb ECM3420.pdf final
+ls
+zip -c final
+ls
+zip final
+zip
+zip -e final
+zip -9v final
+zip -9v final > final.zip
+ls
+cat final
+cat final.zip
+rm -rf final.zip
+zip final.zip final
+ls
+file final.zip
+mv final.zip ~/downloads
+cd 
+cd downloads
+ls
+unzip final.zip
+ls
+cd final
+ls
+cd 
+cd documents/exeter/ecm3420/CA/
+ls
+zip -r final.zip final
+zip -r9 final.zip final
+zip -r0 final.zip final
+zip -r9 final.zip final
+clear
+ls
+mv final.zip ~/downloads/final.zip
+cd ~/downloads
+ls
+unzip final.zip
+ls
+ls final
+file final/ecm3420.ipynb
+file final/ECM3420.pdf
+clear
+sudo zypper dup
+zypper ps -p
+zypper ps -s
+sudo systemctl poweroff
+mv downloads/The.Perverts.Guide.To.Ideology.2012.DVDRip.x264-WaLMaRT\[rarbg\]/wmt-tpgti.mkv Videos/The\ Perverts\ Guide\ to\ Ideology
+ls
+cd Videos
+ls
+file The\ Perverts\ Guide\ to\ Ideology
+mpv The\ Perverts\ Guide\ to\ Ideology
+clear
+ls
+cd pp
+ls
+mkdir cc
+cd cc
+mkdir leetcode
+cd leetcode
+clear
+vi 59a.cpp
+clear
+vi 59a.cpp
+clear
+sudo zypper install clang++
+sudo zypper install clang
+clear
+ls
+c
+clang++ 59a.cpp
+vi 59a.cpp
+clang++ 59a.cpp
+vi 59a.cpp
+clang++ 59a.cpp
+vi 59a.cpp
+clang++ 59a.cpp
+vi 59a.cpp
+clang++ 59a.cpp
+clear
+clang++ 59a.cpp
+vi 59a.cpp
+clang++ 59a.cpp
+vi 59a.cpp
+clang++ 59a.cpp
+vi 59a.cpp
+clang++ 59a.cpp
+clear
+ls
+mkdir 59a
+mv 59a.cpp 59a/solution.cpp
+clear
+ls
+clear
+ls
+clear
+ls
+cd ..
+clear
+ls
+tar xvf boost_1_80_0.tar.gz
+clear
+ls
+rm -rf boost_1_80_0.tar.gz
+clear
+sudo zypper install boost
+clear
+sudo zypper search boost
+sudo zypper install boost-base boost-devel boost-extra
+clear
+sudo zypper dup
+clear
+ls
+rm -rf boost_1_80_0
+cd leetcode/59a
+clear
+clang++ solution.cpp
+clear
+vi solution.cpp
+clang++ solution.cpp
+clear
+./solution.cpp
+ls
+./a.out
+vi solution.cpp
+clang++ solution.cpp
+./a.out
+vi solution.cpp
+clang++ solution.cpp
+./a.out
+vi solution.cpp
+clang++ solution.cpp
+./a.out
+vi solution.cpp
+clang++ solution.cpp
+./a.out
+vi solution.cpp
+./a.out vip
+./a.out
+vi solution.cpp
+clang++ solution.cpp
+./a.out
+vi solution.cpp
+./a.out
+vi solution.cpp
+clang++ solution.cpp
+./a.out
+clear
+vi solution.cpp
+clang++ solution.cpp
+./a.out
+clear
+vi solution.cpp
+cd
+clear
+glxinfo | grep OpenGL
+sudo lsof +D /usr/lib/xorg/modules/drivers/ +D /usr/lib/x86_64-linux-gnu/nvidia/xorg/
+lspci -k | grep -A 2 -E "(VGA|3D)"
+zypper se nvidia-glG0*
+zypper se nvidia
+clear
+sudo vim /usr/share/X11/xorg.conf.d/10-nvidia-drm-outputclass.conf
+clear
+reboot
+sudo systemctl reboot
+glxinfo | grep OpenGL
+lspci -k | grep -A 2 -i "VGA"
+nvidia-settings
+lout
+nvidia-settings
+lspci -k | grep -A 2 -i "VGA"
+aticonfig
+clear
+sudo vim /etc/X11/xorg.conf.install
+sudo vim /etc/X11/xorg.conf.d
+clea
+clear
+sudo Xorg -configure
+sudo prime-select offload
+lout
+lspci -k | grep -A 2 -i "VGA"
+sudo zypper install steam
+steam
+sudo zypper install wine
+clear
+ls
+cd downloads
+ls
+rm -rf final* 
+ls
+rm -rf citations-20221207T093719.bibtex
+ls
+clear
+wine I\ Wanna\ Be\ the\ Boshy_yJ-RBS1.exe
+sudo zypper in lutris
+q
+Discord
+mv .local/bin/Discord downloads/discord-0.0.22/Discord
+mv downloads/discord-0.0.22/Discord .local/bin
+Discord
+clear
+ls
+Discord
+sudo Discord
+clear
+ls
+cd .local/bin
+ls
+cd Discord
+ls
+./Discord
+mv Discord ..
+cd 
+mv .local/bin/Discord downloads
+ln -s downloads/Discord/Discord .local/bin/Discord
+Discord
+ln -s ~/downloads/Discord/Discord ~/.local/bin/Discord
+rm -rf ~/.local/bin/Discord
+ln -s ~/downloads/Discord/Discord ~/.local/bin/Discord
+Discord
+q
+yes abc | (head -n 1; head -n 1)
+yes abcd | (head -n 1; head -n 1)\
+
+clear
+lsmod | wc -l
+lsmod | (head -n 1; sort) | wc -l
+man head
+yes abc | (head -n 1; head -n 1)
+clear
+yes abc | (head -n 1; head -n1)
+yes abcd | (head -n 1; head -n1)
+yes abcde | (head -n 1; head -n1)
+yes abcdefgh | (head -n 1; head -n1)
+yes abcdefghi | (head -n 1; head -n1)
+yes abcd | head -n 1
+clear
+yes abcd | head -n 1; head -n1
+sudo zypper in adb
+clear
+reboot
+sudo systemctl reboot
+sudo zypper in adb
+clear
+PackageKit
+sudo kill -9 $(pidof packagekit)
+sudo zypper remove packagekit
+sudo zypper remove PackageKit
+sudo zypper in adb
+sudo zypper in android-tools
+clear
+cd /tmp/
+ wget -O droidcam_latest.zip https://files.dev47apps.net/linux/droidcam_1.8.2.zip
+ unzip droidcam_latest.zip -d droidcam
+ cd droidcam && sudo ./install-client
+ls
+sudo ./install-
+sudo ./install-client
+./install-client
+sudo ( ./install-client )
+sudo ./install-client
+l install-client
+cd documents/work/northtop-grumman
+ls
+cat role.md
+mpv https://www.youtube.com/watch?v=6sBmmBa3yyY
+mpv "https://www.youtube.com/watch?v=6sBmmBa3yyY"
+cd Videos
+ls
+mpv The\ Perverts\ Guide\ to\ Ideology 
+git clone https://github.com/PetterKraabol/Twitch-Chat-Downloader
+clear
+ls
+mv Twitch-Chat-Downloader github
+ls
+cd github/Twitch-Chat-Downloader
+ls
+tcd --video 1684036555
+sudo zypper dup
+3
+sudo zypper dup
+ sudo systemctl poweroff
+sudo vim /etc/gdm/custom.conf
+lout
+cd downloads
+ls
+rm -rf I\ Wanna\ Be\ the\ Boshy_yJ-RBS1.exe
+clear
+ls
+mpv den.of.thieves.2018.unrated.720p.bluray.hevc.x265.mkv
+clear
+ls
+mpv The\ Town\ EXTENDED\ \(2010\)\ \[1080p\]/The.Town.EXTENDED.2010.1080p.BrRip.x264.YIFY.mp4
+sudo zypper dup
+sudo zypper dup ; sudo systemctl poweroff
+cd downloads
+ls
+mv Lunar\ Client-2.15.1.AppImage ../.local/bin
+clear
+cd
+q
+Lunar\ Client-2.15.1.AppImage
+cd .local/bin
+ls
+l | grep Lunar
+chmod 755 Lunar\ Client-2.15.1.AppImage
+l | grep Lunar
+cd 
+clear
+q
+Lunar\ Client-2.15.1.AppImage
+clear
+Lunar\ Client-2.15.1.AppImage
+clear
+ls
+mkdir random
+cd random
+ls
+clear
+vi nht
+q
+sudo zypper in keepass
+q
+cd dow
+cd downloads/
+ls
+mpv The\ Town\ EXTENDED\ \(2010\)\ \[1080p\]/The.Town.EXTENDED.2010.1080p.BrRip.x264.YIFY.mp4
+ls
+cd documents/work/northtop-grumman
+ls
+clear
+ls
+mkdir ad
+cd ad
+ls
+clear
+vi notes
+cd downloads
+zathura Georgi\ Tarashev\ CV.pdf
+q
+cd downloads
+ls
+zathura Georgi\ Tarashev\ CV.pdf
+mpv downloads/Uncut.Gems.2019.1080p.BluRay.1600MB.DD5.1.x264-GalaxyRG\[TGx\]/Uncut.Gems.2019.1080p.BluRay.1600MB.DD5.1.x264-GalaxyRG.mkv
+q]#
+q
+cd github
+git clone "https://github.com/dev47apps/droidcam/"
+cd droidcam
+sudo zypper search libavutil
+sudo zypper in ffmpeg-2-libavutil-devel ffmpeg-3-libavutil-devel ffmpeg-4-libavutil-devel ffmpeg-5-libavutil-devel
+sudo zypper in ffmpeg-5-libavutil-devel
+sudo zypper in ffmpeg-4-libavutil-devel
+clear
+ls
+cd 
+ls
+cd downloads
+ls
+cd ..
+clear
+ cd /tmp/
+ wget -O droidcam_latest.zip https://files.dev47apps.net/linux/droidcam_1.8.2.zip
+ unzip droidcam_latest.zip -d droidcam
+ cd droidcam && sudo ./install-client
+ls
+l 
+sudo ./install-client
+./install-client
+sudo su -
+droidcam
+cd 
+cd downloads
+ls
+clear
+ls
+rpm -i v4l2loopback-0.12.5-lp154.3.5.1.src.rpm
+droidcam
+rpm -i v4l2loopback-0.12.5-lp154.3.5.1.src.rpm
+droidcam
+sudo zypper source-install /home/jojito/downloads/v4l2loopback-0.12.5-lp154.3.5.1.src.rpm
+droidcam
+clear
+ls
+zathura Northrop\ Grumman\ -\ Group\ Exercise.docx
+adb devices
+ls
+clear
+cd documents/work/northtop-grumman
+ls
+mkdir assessment
+ls
+cd assessment
+ls
+clear
+vi exercise.txt
+vi exercise.md
+cd 
+clear
+ls
+cd random
+ls
+vi nht
+q
+cd random
+ls
+clear
+ls
+vi 36q.md
+ls
+cd .local/bin
+ls
+l
+Lunar\ Client-2.15.1.AppImage
+mv Downloads/GDLauncher-linux-setup.AppImage .local/bin
+q
+GDLauncher-linux-setup.AppImage
+mv .local/bin/GDLauncher-linux-setup.AppImage downloads
+cd downloads
+ls
+clear
+./GDLauncher-linux-setup.AppImage
+sudo chmod 755 GDLauncher-linux-setup.AppImage
+./GDLauncher-linux-setup.AppImage
+clear
+Lunar\ Client-2.15.1.AppImage
+mkdir books
+cd downloads
+ls
+clear
+mv Hegel\ A\ Very\ Short\ Introduction\ \(Very\ Short\ Introductions\)\ \(\ PDFDrive\ \).pdf ../books
+ls
+cd ..
+clear
+ls
+cd books
+ls
+vi progress.txt
+zathura Hegel\ A\ Very\ Short\ Introduction\ \(Very\ Short\ Introductions\)\ \(\ PDFDrive\ \).pdf
+vi progress.txt
+q
+mpv Downloads/V\ for\ Vendetta\ \(2006\)\ \[1080p\]
+cd books
+cat progress.txt
+zathura Hegel\ A\ Very\ Short\ Introduction\ \(Very\ Short\ Introductions\)\ \(\ PDFDrive\ \).pdf
+vi progress.txt
+cd downloads
+ls
+cd ..
+clear
+cd books
+ls
+zathura Hegel\ A\ Very\ Short\ Introduction\ \(Very\ Short\ Introductions\)\ \(\ PDFDrive\ \).pdf
+q
+cd books
+ls
+mkdir -p hegel/freedom
+cd hegel/freedom
+mv ~/Downloads/hegels-concept-of-freedom.pdf .
+ls
+clear
+ls
+cd ..
+clear
+ls
+q
+cd books
+zathura Hegel\ A\ Very\ Short\ Introduction\ \(Very\ Short\ Introductions\)\ \(\ PDFDrive\ \).pdf
+clear
+ls
+vi progress.txt
+clear
+q
+cd downloads
+ls
+clear
+mv SummertimeSaga-0-20-16-pc.zip ../random
+cd ../random
+ls
+clear
+unzip SummertimeSaga-0-20-16-pc.zip
+ls
+clear
+rm -rf SummertimeSaga-0-20-16-pc.zip
+cd SummertimeSaga-0-20-16-pc
+cd ..
+mv SummertimeSaga-0-20-16-pc summertime-saga
+cd summertime-saga
+ls
+./SummertimeSaga.sh
+cd books
+ls
+zathura Hegel\ A\ Very\ Short\ Introduction\ \(Very\ Short\ Introductions\)\ \(\ PDFDrive\ \).pdf
+clea5r
+clear
+cd ..
+ls
+cd documents/exeter/project
+ls
+cd lit-review
+ls
+cd ..
+cd doc/src
+ls
+vi test.ms
+cd ../pdf
+ls
+zathura test.pdf
+cd ..
+ls
+cd 
+q
+Lunar\ Client-2.15.1.AppImage
+ls
+clear
+q
+ls
+ls downloads
+cd .local/bin
+ls
+cd 
+ls
+clear
+ls
+cat random
+ls random
+./random/summertime-saga/SummertimeSaga.sh
+q
+git clone https://github.com/signalapp/Signal-Desktop.git
+mv Signal-Desktop github
+cd github/Signal-Desktop
+clear
+git tag
+git checkout v6.2.0
+sudo zypper dup
+clear
+sudo zypper in npm
+npm install --global yarn
+sudo npm install --global yarn
+yarn install --frozen-lockfile
+clear
+q
+sudo zypper lr -E -e - |grep name=
+q
+cd books
+ls
+zathura Hegel\ A\ Very\ Short\ Introduction\ \(Very\ Short\ Introductions\)\ \(\ PDFDrive\ \).pdf
+poweroff
+sudo systemctl poweroff
+cd books
+zathura Hegel\ A\ Very\ Short\ Introduction\ \(Very\ Short\ Introductions\)\ \(\ PDFDrive\ \).pdf
+cd random
+ls
+cd summertime-saga
+ls
+./SummertimeSaga.sh
+cd books
+zathura Hegel\ A\ Very\ Short\ Introduction\ \(Very\ Short\ Introductions\)\ \(\ PDFDrive\ \).pdf
+vi progress.txt
+clear
+ls
+sudo zypper in okular
+lucidor
+sudo zypper re lucidor
+sudo zypper remove lucidor
+sudo zypper rm okular
+cd random/summertime-saga
+ls
+./SummertimeSaga.sh
+q
+man refer
+clear
+ls
+clear
+cd documents/exeter/project
+ls
+cd doc
+ls
+cd src
+ls
+vi references
+clear
+ls
+vi test.ms
+touch total.ms
+clear
+ls
+cd ..
+ls
+cat compile-pdfs.bash
+cd src
+ls
+mkdir parts
+mv test.ms parts
+ls
+rm -rf test.sad
+clear
+la
+man refer
+vi references
+man refer
+cat references
+vi parts/test.ms
+clear
+ls
+refer -P references parts/test.ms
+vi parts/test.ms
+refer -P references parts/test.ms
+man refer
+vi parts/test.ms
+refer -P references parts/test.ms
+vi references
+refer -P references parts/test.ms
+vi parts/test.ms
+refer -P references parts/test.ms
+refer -p references parts/test.ms
+cd ..
+clear
+ls
+vi compile-pdfs.bash
+./compile-pdfs.bash
+sudo ./compile-pdfs.bash
+ls
+vi compile-pdfs.bash
+./compile-pdfs.bash src pdf
+vi compile-pdfs.bash
+./compile-pdfs.bash
+sudo ./compile-pdfs.bash
+./compile-pdfs.bash src pdf
+cat pdf/total.pdf
+zathura pdf/total.pdf
+clear
+l
+cat src/total
+vi compile-pdfs.bash
+./compile-pdfs.bash src pdf
+zathura pdf/total.pdf
+cd src/parts
+ls
+vi p2.ms
+cd ../..
+ls
+clear
+./compile-pdfs.bash src pdf
+zathura pdf/total.pdf
+cat src/total.ms
+zathura pdf/total.pdf
+vi compile-pdfs.bash
+./compile-pdfs.bash
+./compile-pdfs.bash src pdf
+vi compile-pdfs.bash
+vi src/parts/test.ms
+vi compile-pdfs.bash
+clear
+./compile-pdfs.bash src pdf
+vi compile-pdfs.bash
+./compile-pdfs.bash src pdf
+clear
+cat src/total.ms
+vi compile-pdfs.bash
+./compile-pdfs.bash src pdf
+zathura pdf/total.pdf
+vi compile-pdfs.bash
+clear
+ls
+cd src
+ls
+cat parts/test.ms
+cat >> total.ms << "EOF"\
+.TL\
+Title\
+.AU\
+Author\
+.EQ\
+delim $$\
+.EN\
+EOF
+cat total.ms
+rm -rf total
+rm -rf total.ms
+cat >> toitle.ms << "EOF"\
+.TL\
+Title\
+.AU\
+Author\
+.EQ\
+delim $$\
+.EN\
+EOF
+ls
+mv toitle.ms title.ms
+cat title.ms
+clear
+vi parts/p2.ms
+mv parts/p2.ms 002-Something
+vi parts/test.ms
+mv parts/test.ms 001-Something-Else
+ls
+mv 00* parts
+ls
+clear
+cd ..
+./compile-pdfs.bash src pdf
+ls
+ls src
+cat src/total.ms
+vi compile-pdfs.bash
+ls
+cd src/parts
+mv 001-Something-Else 001-Something-Else.ms
+mv 002-Something 002-Something.ms
+clear
+cd 
+cd -
+clear
+cd ../..
+lls
+ls
+./compile-pdfs.bash src pdf
+ls
+cat src/total.ms
+zathura pdf/total.pdf
+rm -rf pdf/test.pdf
+clear
+vi compile-pdfs.bash
+./compile-pdfs.bash
+./compile-pdfs.bash src pdf
+zathura pdf/total.pdf
+vi compile-pdfs.bash
+./compile-pdfs.bash src pdf
+zathura pdf/total.pdf
+clear
+cd src
+../compile-pdfs.bash . ../pdf
+zathura ../pdf/total.pdf
+sudo zypper in latte-dock
+clear
+latte-dock
+sudo zypper remove latte-dock
+clear
+sudo zypper rm latte-dock
+clear
+q
+./random/summertime-saga/
+cd
+./random/summertime-saga/SummertimeSaga.sh
+cd books/Hegel:\ A\ Very\ Short\ Introduction
+ls
+zathura total.pdf
+cd books/Hegel:\ A\ Very\ Short\ Introduction
+clear
+ls
+mkdir parts
+touch total.ms
+cp ~/documents/exeter/project/doc/compile-pdfs.bash
+cp ~/documents/exeter/project/doc/compile-pdfs.bash .
+ls
+clear
+ls
+vi compile-pdfs.bash
+clear
+ls
+touch title.ms
+rm -rf title.ms
+vi title.ms
+clear
+ls
+cat title.ms
+echo ".SH\
+Preface\
+.PP\
+No philosopher of the nineteenth or twentieth centuries has had as great an impact on the world as Hegel. The only possible exception to this sweeping statement would be Karl Marx -- and Marx himself was heavily influenced by Hegel. Without Hegel, neither the intellectual nor the political development of the last 150 years would have take the path they did.\
+.PP\
+Hegel's impact alone makes it important to undertstant him; but Hegel's philosophy is in any case worth studying for its own sake. His profound ideas led him to some conclusions that strike the modern reader as bizarre, even absurd. Whatever one thinks of his conclusions, however, there are arguments and insights in his work that retain their force to the present day. The effort required to understand Hegel is repaid by them, and also by the satisfaction of having mastered the challenge to our comprehenmsion that Hegel represents.\
+\
+.PP\
+That Hegel does present a challenge is undeniable. commentaries on Hegel are stubbed with references to the 'Himalayan severity' of his prose, to his 'repulsive terminology', and to the 'extreme obscurity' of his thought. To illustrate the nature of the problem, I have just now picked up my copy of what many consider to be his greatest work,\
+.I {The Phenemenology of Mind}\
+, and opened it at random. The first complete sentence on the page on which it opened (p. 596) reads: 'It is merelythe restless shifting change of those moments, of which one is indeed being-returned-into-itself, but merely as being-for-itself, i.e. as abstract moment, appearing on one side over against the others.' Admittedly, I have wrenched the sentence from its context; even so, it indicates some of the difficulties one has in making sense of Hegel. Equally formidable sentences can be gound on every one of the \
+.I Phenemenology 's\
+750 pages.\
+" ?> parts/Introduction.ms
+echo ".SH\
+Preface\
+.PP\
+No philosopher of the nineteenth or twentieth centuries has had as great an impact on the world as Hegel. The only possible exception to this sweeping statement would be Karl Marx -- and Marx himself was heavily influenced by Hegel. Without Hegel, neither the intellectual nor the political development of the last 150 years would have take the path they did.\
+.PP\
+Hegel's impact alone makes it important to undertstant him; but Hegel's philosophy is in any case worth studying for its own sake. His profound ideas led him to some conclusions that strike the modern reader as bizarre, even absurd. Whatever one thinks of his conclusions, however, there are arguments and insights in his work that retain their force to the present day. The effort required to understand Hegel is repaid by them, and also by the satisfaction of having mastered the challenge to our comprehenmsion that Hegel represents.\
+\
+.PP\
+That Hegel does present a challenge is undeniable. commentaries on Hegel are stubbed with references to the 'Himalayan severity' of his prose, to his 'repulsive terminology', and to the 'extreme obscurity' of his thought. To illustrate the nature of the problem, I have just now picked up my copy of what many consider to be his greatest work,\
+.I {The Phenemenology of Mind}\
+, and opened it at random. The first complete sentence on the page on which it opened (p. 596) reads: 'It is merelythe restless shifting change of those moments, of which one is indeed being-returned-into-itself, but merely as being-for-itself, i.e. as abstract moment, appearing on one side over against the others.' Admittedly, I have wrenched the sentence from its context; even so, it indicates some of the difficulties one has in making sense of Hegel. Equally formidable sentences can be gound on every one of the \
+.I Phenemenology 's\
+750 pages.\
+" > parts/Introduction.ms
+ls
+cat parts/Introduction.ms
+vi title.ms
+clear
+./compile-pdfs.bash . .
+touch references
+./compile-pdfs.bash . .
+ls
+zathura total.pdf
+mv parts/Introduction.ms parts/preface.ms
+clear
+vi parts/preface.ms
+./compile-pdfs.bash
+./compile-pdfs.bash . .
+vi title.ms
+./compile-pdfs.bash . .
+vi title.ms
+./compile-pdfs.bash . .
+vi title.ms
+./compile-pdfs.bash . .
+vi title.ms
+./compile-pdfs.bash
+./compile-pdfs.bash . .
+clear
+ls
+rm -rf parts references title.ms total.* compile-pdfs.bash
+clear
+ls
+rm -rf Hegel:\ A\ Very\ Short\ Introduction.pdf
+clear
+ls
+clear
+sudo zypper in latex
+sudo zypper qu texlive
+sudo zypper search texlive
+sudo zypper in texlive
+clear
+sudo zypper in texmaker
+q
+ls
+clear
+cd books/Hegel:\ A\ Very\ Short\ Introduction
+ls
+rm -rf ./*
+clear
+ls
+clear
+vi Hegel: A Very Short Introduction
+ls
+l
+mv Hegel: titlepage
+ls
+mv titlepage titlepage.tex
+vi titlepage.tex
+clear
+cd 
+ls
+cd .config/nnv
+cd .config/nvim
+ls
+vi vim-plug
+ls
+vi init.vim
+clear
+vi test
+CLEAR
+clear
+cd 
+cd books/Hegel:\ A\ Very\ Short\ Introduction
+ls
+clear
+ls
+vi titlepage.tex
+cd ~/.config/nvim
+ls
+vi snippets.vim
+cd books
+ls
+ls Hegel:\ A\ Very\ Short\ Introduction
+ls
+ls ../downloads
+mv ../downloads/Philosophy_Hegel_A_very_short_introducti.pdf ./Hegel: A Very Short Introduction
+ls
+mv ../downloads/Philosophy_Hegel_A_very_short_introducti.pdf ./"Hegel: A Very Short Introduction"
+ls
+clear
+ls
+ls Hegel:\ A\ Very\ Short\ Introduction
+cd Hegel:\ A\ Very\ Short\ Introduction
+mv Philosophy_Hegel_A_very_short_introducti.pdf Hegel:\ A\ Very\ Short\ Introduction.pdf
+c
+q
+clear
+ls
+cd books/Hegel:\ A\ Very\ Short\ Introduction
+clear
+ls
+vi titlepage.tex
+clear
+pdflatex titlepage.tex
+ls
+zathura titlepage.pdf
+clear
+ls
+clear
+cd 
+clear
+cd .config/n
+cd .config/nvim
+ls
+clear
+vi init.vim
+clear
+ls
+vi latex.vim
+ls
+vi init.vim
+ls
+clear
+ls
+vi tetx.ms
+ls
+cat groff.vim
+vi text.ms
+clear
+ls
+vi init.vim
+vi tasd.ms
+clea
+clear
+ls
+vi init.vim
+mv groff.vim groff-ms.vim
+ls
+clear
+ls
+vi init.vim
+vi asdj.ms
+vi init.vim
+clear
+l
+clear
+ls
+mkdir after
+mkdir ftplugin
+mv ftplugin after
+ls
+clear
+ls
+vi init.vim
+clea
+clear
+ls
+mv latex.vim after/ftplugin
+vi init.vim
+vi asd.tex
+clear
+ls
+cd after/ftplugin
+ls
+mv latex.vim tex.vim
+vi asdas.tex
+clear
+cd ../..
+l
+sclear
+clear
+ls
+vi init.vim
+ls
+mv after/ftplugin/tex.vim .
+l
+rm -rf after
+ls
+clear
+ls
+cat tex.vim
+ls
+vi init.vim
+ls
+vi asdja.tex
+ls
+clear
+l
+vi init.vim
+vi asdhlkashd.tex
+vi init.vim
+ls
+vi sadlkhja.tex
+ls
+vlear
+clear
+ls
+clear
+ls
+cat groff-ms.vim >> init.vim
+cat tex.vim >> init.vim
+rm -rf groff-ms.vim tex.vim
+vi init.vim
+clear
+ls
+cd templates
+ls
+mv skeleton.* *
+ls
+mv skeleton.bash bash
+mv skeleton.ms ms
+mv skeleton.rs rs
+mv skeleton.sh sh
+mv skeleton.tex tex
+clear
+ls
+mv skeleton.py py
+ls
+cd ..
+ls
+clear
+vi init.vim
+vi asd.tex
+vi init.vim
+vi asd.tex
+clear
+ls
+file nvim
+rm -rf nvim
+ls
+clear
+ls
+ls autoload
+clear
+vi init.vim
+clear
+vi init.vim
+clear
+vi teadcs.ms
+ls vi init.vim
+vi init.vim
+clear
+ls
+vi init.vim
+vi sad.tex
+clear
+vi init.vim
+clear
+ls
+cd 
+ls
+q
+ls
+clear
+cd test
+ls
+clear
+rm -rf ./*
+clear
+ls
+vi resume.tex
+clear
+q
+cd books
+ls
+zathura The\ Stranger.pdf
+ls
+clear
+cd 
+cd .config/zathura
+mkdir .config/zathura
+cd .config/zathura
+ls
+celar
+clear
+vi zathurarc
+zathura ~/books/The\ Stranger.pdf
+vi zathurarc
+zathura ~/books/The\ Stranger.pdf
+vi zathurarc
+clear
+zathura ~/books/The\ Stranger.pdf
+vi zathurarc
+zathura ~/books/The\ Stranger.pdf
+vi zathurarc
+zathura ~/books/The\ Stranger.pdf
+vi zathurarc
+zathura ~/books/The\ Stranger.pdf
+vi zathurarc
+clear
+q
+cd books
+ls
+zathura The\ Stranger.pdf
+ls
+zathura Hegel:\ A\ Very\ Short\ Introduction
+zathura Hegel:\ A\ Very\ Short\ Introduction/Hegel:\ A\ Very\ Short\ Introduction.pdf
+clear
+ls
+zathura How\ to\ Read\ Lacan.pdf
+clear
+q
+cd Pictures
+sudo zypper in feh
+feh random/earthlydelights.jpg
+cd random
+clear
+feh --help
+clear
+feh earthlydelights.jpg
+sudo zypper in geeqie
+geeqie earthlydelights.jpg
+clear
+sudo zypper dup
+sudo zypper lr
+sudo zypper rm -d 7
+sudo zypper mr -d 7
+sudo zypper mr -d 8
+sudo zypper mr -d 9
+sudo zypper mr -d 10
+sudo zypper re
+sudo zypper ref
+sudo zypper lr
+sudo zypper mr -d 14
+sudo zypper mr -d 18
+sudo zypper mr -e 18
+sudo zypper mr -d 25
+sudo zypper mr -d 26
+sudo zypper mr -d 28
+sudo zypper ref
+clear
+sudo zypper dup
+i
+clear
+q
+cd books
+ls
+zathura How\ to\ Read\ Lacan.pdf
+cd random/summertime-saga/
+ls
+./SummertimeSaga.sh
+q
+clear
+cd books
+ls
+zathura How\ to\ Read\ Lacan.pdf
+ls
+zathura how-to-read-lacan/book.pdf
+sudo systemctl poweroff
+cd books
+ls
+zathura how-to-read-lacan/book.pdf
+sudo zypper dup
+sudo zypper lr
+sudo zypper ls
+sudo zypper mr -d 22 27
+sudo zypper dup
+clear
+sudo systemctl poweroff
+Discord
+ls
+q
+cd books
+ls
+zathura how-to-read-lacan/book.pdf
+lsblk
+clear
+ls
+lsblk
+sudo mount /dev/sda /mnt
+sudo umount /mnt
+cd 
+mkdir mnt
+sudo mount /dev/sda mnt
+ls
+clear
+ls
+sudo mount /dev/sda mnt
+sudo umount mnt
+sudo mount /dev/sda mnt
+sudo zypper in hdparm
+hdparm
+cnf hdparm
+sudo hdparm -r0 /dev/sda
+sudo mount /dev/sda /mnt
+sudo umount /mnt
+sudo mount /dev/sda mnt
+sudo umount mnt
+sudo mount /dev/sda mnt
+sudo umount mnt
+clear
+ls
+sudo hdparm -r0 /dev/sda
+sudo mount /dev/sda mnt
+ls
+lsblk
+sudo umount mnt
+lsblk
+sudo hdparm -r0 /dev/sda
+lsblk
+sudo mount /dev/sda mnt
+sudo umount mnt
+sudo mkfs -t vfat /dev/sda
+ls
+sudo mount /dev/sda mnt
+ls
+clear
+ls
+sudo dd if=downloads/FreeBSD-13.1-RELEASE-amd64-disc1.iso of=/dev/sda
+sudo systemctl reboot
+ls
+sudo su
+mkdir shared
+sudo mount /dev/nvme0n1p4 shared
+ls
+clear
+l
+ls
+l
+sudo chown shared jojito
+sudo chown jojito shared
+l
+cd shared
+ls
+clear
+lsblk
+mkdir something
+rm -rf something
+mv ../books .
+ls
+mkdir videos
+mv ../Videos/* videos
+cd ..
+ls
+rm -rf Videos
+ln -s ~/Videos ~/shared/videos
+ls
+cd shared
+ls
+ls videos
+rm -rf videos/Videos
+cd ..
+ln -s ~/shared/videos ~/Videos
+ls shared/videos
+clear
+ln -s ~/shared/books ~/books
+clear
+ls
+cd books
+ls
+zathura how-to-read-lacan/book.pdf
+sudo systemctl poweroff
+Lunar\ Client-2.15.1.AppImage
+cd random
+ls
+vi notes.txt
+cd random
+vi nht
+q
+cd random
+vi nht
+q
+sudo zypper install git libsamplerate-devel fftw3-devel libsndfile-devel \\
+portaudio-devel libSDL-devel libpulse-devel libjack-devel \\
+libstdc++-devel-32bit libstdc++48-devel-32bit libstdc++6-devel-gcc6 \\
+libstdc++6-devel-gcc6-32bit gcc-32bit gcc-c++-32bit glibc-devel-32bit fluidsynth \\
+libvorbis-devel libmp3lame-devel fluidsynth-devel libgig-devel \\
+wine wine-devel wine-devel-32bit xcb-util-keysyms-devel xcb-util-devel \\
+fltk-devel libQt5Core-devel libqt5-qttools libqt5-qttools-devel \\
+libqt5-qtbase-private-headers-devel libqt5-qtx11extras-devel
+clear
+lmms.AppImage
+sudo chmod 755 .local/bin/lmms.AppImage
+lmms.AppImage
+jupyter-lab
+cd downloads
+ls
+clear
+ls
+tar xvf Pixelorama.Linux-64bit.tar.gz
+ls
+cd linux-64bit
+ls
+./Pixelorama.x86_64
+mv Pixelorama.x86_64 ~/.local/bin/pixelorama
+pixelorama
+mv ~/.local/bin/pixelorama ./Pixelorama
+ls
+clear
+ls
+clear
+ls
+cd ..
+mv linux-64bit ~/.local/share/pixelorama
+clear
+cd
+ .local/share/pixelorama/
+ls
+cd ..
+rm -rf pixelorama
+cd 
+cd downloads
+tar xf Pixelorama.Linux-64bit.tar.gz
+cd linux-64bit
+./Pixelorama.x86_64
+cd documents/work
+ls
+rm -rf bae-systems northtop-grumman*
+ls
+clear
+ls
+rm -rf tracker.ods
+clear
+ls
+mkdir access
+cd access
+vi summary.md
+cat /proc/cpuinfo
+cat /proc/cpuinfo | grep OMP_NUM_THREADS
+cat /proc/cpuinfo
+clera
+l
+clear
+ls
+cd documents/exeter/ecm3446
+ls
+mkdir labs
+clear
+ls
+cd labs
+ls
+mkdir w2
+cd w2
+ls
+clear
+ls
+vi hello.c
+clear
+gcc -o hello hello.c
+./hello
+gcc -fopenmp hello hello.c
+gcc -fopenmp -o hello hello.c
+./hello
+clear
+- export OMP_NUM_THREADS=4
+./hello
+c
+ls
+vi runtime.c
+gcc -fopenmp -o runtime runtime.c
+vi runtime.c
+gcc -fopenmp -o runtime runtime.c
+clear
+./runtime
+clear
+ls
+vi conditional.c
+gcc -o conditional conditional.c
+vi conditional.c
+gcc -o conditional conditional.c
+c
+vi conditional.c
+gcc -fopenmp -o conditional conditional.c
+./conditional
+gcc -o conditional conditional.c
+vi conditional.c
+c
+gcc -o conditional conditional.c
+./conditional
+vi loops.c
+gcc -fopenmp -o loops loops.c
+vi loops.c
+gcc -fopenmp -o loops loops.c
+vi loops.c
+gcc -o loops loops.c
+vi loops.c
+gcc -o loops loops.c
+vi loops.c
+gcc -o loops loops.c
+cd
+cd -
+c
+gcc -fopenmp -o loops loops.c -lm
+./loops
+vi loops.c
+./loops
+gcc -fopenmp -o loops loops.c -lm
+./loops
+vi loops2.c
+gcc -fopenmp -o loops2 loops2.c -lm
+./loops2
+c
+gcc -fopenmp -o loops2 loops2.c -lm
+./loops2
+clear
+ls
+vi README.md
+cat README.md
+vi README.md
+cat README.md
+vi README.md
+cat README.md
+vi README.md
+cat README.md
+clear
+cat README.md
+vi random/nht
+cd documents/exeter/ecm3446/labs/w2
+ls
+vi scoping.c
+c
+gcc -fopenmp -o scoping scoping.c -lm
+vi scoping.c
+gcc -fopenmp -o scoping scoping.c -lm
+vi scoping.c
+gcc -fopenmp -o scoping scoping.c -lm
+vi scoping.c
+gcc -fopenmp -o scoping scoping.c -lm
+vi scoping.c
+gcc -fopenmp -o scoping scoping.c -lm
+vi scoping.c
+gcc -fopenmp -o scoping scoping.c -lm
+gcc -v
+clear
+ls
+vi scoping.c
+gcc -fopenmp -o scoping scoping.c -lm
+./scoping
+c
+gcc -fopenmp -o scoping scoping.c -lm
+./scoping
+vi sum.c
+gcc -fopenmp -o sum sum.c
+vi sum.c
+gcc -fopenmp -o sum sum.c
+./sum
+vi sum.c
+cat sum.c sum2.c
+cat sum.c > sum2.c
+vi sum2.c
+gcc -fopenmp -o sum2 sum2.c
+vi sum2.c
+gcc -fopenmp -o sum2 sum2.c
+./sum2
+c
+gcc -fopenmp -o sum2 sum2.c
+./sum2
+q
+cd random
+ls
+vi random
+cd
+sudo zypper dup
+q
+echo "14" > txt
+sudo systemctl poweroff
+echo "443128" >> random/nht
+vi random/nht
+q
+cd downloads
+ls
+tar xf discord-0.0.25.tar.gz
+cd Discord
+ls
+./Discord
+./postinst.sh
+Discord
+Lunar\ Client-2.15.1.AppImage
+curl "https://vle.exeter.ac.uk/pluginfile.php/3035508/mod_resource/content/6/advection2D.c" > testfile
+cat testfile
+clear
+ls
+rm -rf testfile
+cd documents/exeter/ecm3446
+ls
+mkdir coursework
+cd coursework
+ls
+clear
+ls
+vi file.c
+mv file.c advection2D.c
+vi plot_final
+clear
+ls
+sudo zypper in bat
+c
+bat advection2D.c
+man bat
+bat help
+bat -h
+clear
+ls
+vi advection2D.c
+gcc -o advection2D -std=c99 advection2D.c -lm
+./advection2D
+ls
+sudo zypper in gnuplot
+c
+ls
+gnuplot plot_advection
+ls
+gnuplot plot_final
+ls
+./final.png
+xdg-open final.png
+vi plot_final
+clear
+mv final.png final-pre.png
+xdg-open final-pre.png
+feh final-pre.png
+clear
+ls
+mv advection2D.c advection2D-pre.c
+clear
+l
+c
+ls
+vi advection2D-pre.c
+gcc -fopenmp -o advection2D -std=c99 advection2D.c -lm
+ls
+cp advection2D-pre.c advection2D.c
+gcc -fopenmp -o advection2D -std=c99 advection2D.c -lm
+vi advection2D.c
+gcc -fopenmp -o advection2D -std=c99 advection2D.c -lm
+vi advection2D.c
+gcc -fopenmp -o advection2D -std=c99 advection2D.c -lm
+time ./advection2D
+gnuplot plot_final
+feh final.png
+feh final.png final-pre.png
+vi advection2D.c
+gcc -fopenmp -o advection2D -std=c99 advection2D.c -lm
+time ./advection2D
+man echo
+vi doit.sh
+bat plot_final
+c
+l
+vi advection2D.c
+clear
+ls
+vi advection2D.c
+mv advection2D.c src/advection2D-2.1.c
+ls src
+clear
+l
+clear
+ls
+cp src/advection2D-2.2.c ./advection2D.c
+ls
+clea
+clear
+vi advection2D.c
+cp src/advection2D-2.1.c advection2D.c
+rm -rf src/advection2D-2.2.c
+clear
+l
+vi advection2D.c
+gcc -fopenmp -o advection2D advection2D.c -lm
+./advection2D
+time ./advection2D
+vi plot_initial
+gnuplot plot_initial
+feh initial.png
+vi plot_final
+gnuplot plot_final
+feh final.png initial.png
+mv final.png png/final-2.2.png
+mv initial.png png/initial-2.2.png
+mv advection2D.c src/advection2D-2.2.c
+clear
+ls
+cp src/advection2D-2.2.c advection2D.c
+ls plot
+ls
+ls png
+vi advection2D.c
+clear
+ls
+cp src/advection2D-2.1.c advection2D.c
+ls plot
+cp src/advection2D-2.2.c advection2D.c
+clear
+ls
+l
+./doit
+./doit.sh
+vi advection2D.c
+ls
+feh plot/*
+ls png
+clear
+ls
+vi advection2D.c
+./doit.sh
+vi advection2D.c
+./doit.sh
+clear
+ls
+vi advection2D.c
+./doit.sh
+vi advection2D.c
+./doit.sh
+vi advection2D.c
+./doit.sh
+vi advection2D.c
+./doit.sh
+vi advection2D.c
+./doit.sh
+vi advection2D.c
+./doit.sh
+vi advection2D.c
+./doit.sh
+vi advection2D.c
+./doit.sh
+vi advection2D.c
+./doit.sh
+./advection2D
+vi advection2D.c
+./advection2D
+./doit.sh
+./advection2D
+vi advection2D.c
+./doit.sh
+vi advection2D.c
+clear
+ls
+code .
+./doit.sh
+clear
+ls
+cp src/advection2D-2.2.c advection2D.c
+./doit.sh
+clea
+clear
+l
+mv final.png png/final-2.2.png
+mv initial.png png/initial-2.2.png
+clear
+l
+vi advection2D.c
+./doit.sh
+./advection2D
+bat doit.sh
+vi advection2D.c
+./doit.sh
+vi advection2D.c
+./doit.sh
+vi advection2D.c
+./doit.sh
+vi advection2D.c
+./doit.sh
+vi advection2D.c
+./doit.sh
+vi advection2D.c
+./doit.sh
+clear
+vi advection2D.c
+./doit.sh
+vi advection2D.c
+./doit.sh
+vi advection2D.c
+./doit.sh
+vi advection2D.c
+./doit.sh
+vi advection2D.c
+./doit.sh
+vi advection2D.c
+./doit.sh
+vi advection2D.c
+gcc -fopenmp -o advection2D advection2D.c -lm
+./advection2D
+vi advection2D.c
+gcc -fopenmp -o advection2D advection2D.c -lm
+./advection2D
+vi advection2D.c
+gcc -fopenmp -o advection2D advection2D.c -lm
+./advection2D
+vi advection2D.c
+gcc -fopenmp -o advection2D advection2D.c -lm
+./advection2D
+clear
+gdb advection2D
+gdb core
+sudo zypper in gdb
+gcc -fopenmp -o advection2D advection2D.c -lm -g
+./advection2D
+gdb core
+pip install encodings
+gdb ./advection2D
+printenv
+printenv | PYTHONHOME
+printenv | grep PYTHONHOME
+which python
+export PYTHONHOME=/usr/bin/python
+gdb ./advection2D
+which python2
+export PYTHONHOME=/usr/bin/python2
+gdb ./advection2D
+pip install encodings
+export PYTHONHOME=/usr/bin/python
+pip install encodings
+q
+ls
+clear
+ls
+rm -rf advection2D-2.2.c
+clear
+l
+ls
+cp src/advection2D-2.1.c advection2D.c
+clear
+ls
+ls plot
+cat plot_final
+vi plot_final
+./doit.sh
+cd documents/exeter/ecm3446/coursework
+vi notes
+htop
+clear
+ls
+vi doit.sh
+sudo chmod 755 doit.sh
+./doit.sh
+clear
+./doit
+./doit.sh
+vi doit.sh
+./doit.sh
+feh final-pre.png final.png
+./doit.sh
+ls
+cp plot_final plot_initial
+vi plot_initial
+gnuplot plot_initial
+./doit.sh
+gnuplot plot_initial
+vi plot_initial
+gcc -fopenmp advection2D-pre -o advection2D-pre.c -lm
+cat doit.sh
+gcc -fopenmp -o advection2D-pre advection2D-pre.c -lm
+ls
+vi advection2D-pre.c
+gcc -fopenmp -o advection2D-pre advection2D-pre.c -lm
+./advection2D-pre
+gnuplot plot_initial
+ls
+vi plot_initial
+./advection2D-pre
+gnuplot plot_initial
+feh initial.png final-pre.png final.png
+mv initial.png initial-pre.png
+clear
+./doit.sh
+vi doit.sh
+./doit.sh
+c
+./doit.sh
+clear
+l
+clear
+l
+ls
+cp final-pre.png final-serial-original-source.png
+mv final-pre.png final-parallel-original-source.png
+mv final.png final-2.1.png
+cp initial-pre.png initial-serial-original-source.png
+mv initial-pre.png initial-parallel-original-source.png
+ls
+mv initial.png initial-2.1.png
+clear
+ls
+mkdir png
+mv *.png png
+ls
+clear
+ls
+ls png
+./doit.sh
+ls
+feh png/*
+clear
+ls
+cp advection2D.c advection2D-2.2.c
+mkdir src
+mv advection2D-2.2.c advection2D-pre.c src
+ls
+rm -rf advection2D advection2D-pre
+ls
+clear
+ls
+vi doit.sh
+clear
+./doit.sh
+mkdir plot
+cp plot_initial plot/plot_initial-2.1
+cp plot_final plot/plot_final-2.1
+clear
+ls
+vi plot_initial
+htop
+Lunar\ Client-2.15.1.AppImage
+clear
+ls
+cd documents/exeter/ecm3446/coursework
+ls
+clear
+gdb
+sudo zypper rm gdb
+sudo zypper in gdb
+sudo zypper in
+sudo zypper dup
+gdb
+clear
+l
+cp src/advection2D-2.2.c advection2D.c
+code .
+./doit.sh
+gcc -o advection2D advection2D.c -lm
+./advection2D
+gnuplot final.png
+gnuplot plot_final
+feh final.png
+clear
+./doit.sh
+clear
+ls
+clear
+l
+ls
+clear
+ls
+mv advection2D.c src/advection2D-2.3.c
+mv final.png png/final-2.3.png
+mv initial.png png/initial-2.3.png
+clear
+ls
+cp src/advection2D-2.3.c advection2D.c
+clear
+ls
+./doit.sh
+ls p
+ls png
+clear
+l
+ls
+clear
+ls src
+vi advection2D.c
+./doit.sh
+vi advection2D.c
+clear
+vi advection2D.c
+./doit.sh
+vi advection2D.c
+./doit.sh
+clear
+vi advection2D.c
+./doit.sh
+clear
+vi advection2D.c
+clear
+ls
+cp plot_initial plot_average
+vi plot_average
+gnuplot plot_average
+./doit.sh
+gnuplot plot_average
+ls
+feh average.png
+vi plot_average
+gnuplot plot_average
+vi plot_average
+gnuplot plot_average
+vi plot_average
+gnuplot plot_average
+vi plot_average
+gnuplot plot_average
+vi plot_average
+gnuplot plot_average
+feh average.
+feh average.png
+vi plot_average
+gnuplot plot_average
+feh average.png
+vi plot_average
+gnuplot plot_average
+feh average.png
+vi plot_average
+gnuplot plot_average
+feh average.png
+vi plot_average
+gnuplot plot_average
+feh average.png
+vi plot_average
+gnuplot plot_average
+feh average.png
+cleear
+clear
+ls
+mkdir deliverable
+mv advection2D.c deliverable
+mv final.png deliverable/final-2.3.png
+mv average.png deliverable/vertically-averaged-2.4.png
+mv png/initial-2.2.png deliverable/initial-2.2.png
+ls deliverable
+mv png/final-2.2.png deliverable/final-2.2.png
+clear
+ls deliverable
+l
+l deliverable
+c
+l deliverable
+zip -c deliverable
+zip --help
+zip -9 deliverable deliverable.zip
+zip -9 deliverable.zip deliverable
+ls
+cp deliverable.zip ..
+cd ..
+ls
+unzip deliverable.zip
+ls deliverable
+clear
+rm -rf deliverable*
+cd coursework
+ls
+rm -rf deliverable.zip
+zip -9 deliverable.zip deliverable/*
+ls
+cp deliverable.zip ...
+cp deliverable.zip ..
+cd ..
+ks
+ls
+clear
+unzip deliverable.zip
+feh deliverable/*.png
+clear
+ls
+rm -rf deliverable
+clea
+clear
+cd 
+cd downloads
+ls
+unzip 1086701_700028245_b.zip
+cd deliverable
+ls
+sudo systemctl reboot
+cd downloads
+ls
+cd deliverable	
+ls
+feh ./*.png
+q
+Lunar\ Client-2.15.1.AppImage
+c		
+clear
+ls
+cd random
+ls
+echo "Nadya Tarasheva, iv20833@bristol.ac.uk" > email.hehe
+cat email.hehe
+q
+Lunar\ Client-2.15.1.AppImage
+sudo zypper dup
+ls
+rm -rf tmux-*
+ls
+clear
+q
+Lunar\ Client-2.15.1.AppImage
+q
+Lunar\ Client-2.15.1.AppImage
+sudo zypper in NetworkManager-openvpn
+cd downloads
+ls
+mv Patrix_1.19.3_32x_basic.zip ../.minecraft/resourcepacks
+ls
+clear
+ls
+tar xf pulse-browser.linux.tar.bz2
+ls
+cd pulse-browser
+ls
+./updater
+./pulse-browser
+cd ..
+ls
+mv pulse-browser/pulse-browser .
+ls
+mkdir temp
+mv pulse-browser/pulse-browser temp
+cd temp
+ls
+./pulse-browser
+mv pulse-browser ../pulse-browser
+cd
+rm -rf downloads/temp
+ls
+mv downloads/pulse-browser ./.local/apps
+cd .local
+ls
+cd apps
+ls
+cd ..
+mkdir pulse-browser
+mv apps/* pulse-browser
+mv pulse-browser apps
+ls
+cd apps/pulse-browser
+man ln
+ln -s ~/.local/bin/pulse-browser ~/.local/apps/pulse-browser/pulse-browser
+ln -s ~/.local/apps/pulse-browser/pulse-browser ~/.local/bin/pulse-browser
+pulse-browser
+sh <(curl -L https://nixos.org/nix/install) --daemon
+sudo HOME=/root /nix/store/9yyfg6fzhs4sf454q2rf179kp3miy9mg-nix-2.14.1/bin/nix-store --load-db
+sudo HOME=/root /nix/store/9yyfg6fzhs4sf454q2rf179kp3miy9mg-nix-2.14.1/bin/nix
+sudo su
+clea
+clear
+sestatus
+sudo nvim /etc/selinux/config
+reboot
+sudo systemctl reboot
+sestatus
+sh <(curl -L https://nixos.org/nix/install) --daemon
+reset
+ls
+q
+ls
+q

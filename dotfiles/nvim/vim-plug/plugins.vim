@@ -22,4 +22,8 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'rust-lang/rust.vim'
     " something
     Plug 'gko/vim-coloresque'
+    " neoshippet for snippets
+    Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
+    Plug 'Shougo/neosnippet.vim'
+    Plug 'Shougo/neosnippet-snippets'
 call plug#end()
