@@ -1,714 +1,3 @@
-migspeed
-doas pacman -Rdd speedtest-cli
-echo $GROU{
-echo $GROUP
-echo $GROUPS
-cat /etc/group
-time (cat /etc/group | cut -d ":" -f 1)
-time cat /etc/group
-cd bash-script
-time cat /etc/group | tr '\n' ,
-vi ~/.zshrc
-cat /etc/group | cut -d ":" -f 1 | tr \n ,
-cat /etc/group | cut -d ":" -f 1
-cat /etc/group | cut -d ":" -f 1 | tr "\n" ","
-echo "{ $(cat /etc/group | cut -d ":" -f 1 | tr "\n" ",")%, }"
-echo $(cat /etc/group | cut -d ":" -f 1 | tr "\n" ",")%,
-echo $(cat /etc/group | cut -d ":" -f 1 | tr "\n" ",")
-cd scripts/auto-install/bash-script
-vi userformat.bash
-mv bash-script/userformat.bash curses-interface/cursesTrial.c .
-git rm bash-script/ curses-interface/
-git rm -r bash-script/ curses-interface/
-git commit -m "Decided to merge the ncurses and bash scripts together"
-cd ecm1410-700028245-ca2
-java MainMenu
-vi MainMenu.
-vi MainMenu.java
-mkdir 700028245
-cd 700028245
-mkdir src doc
-mkdir ca2 res
-mv doc res src ca2
-cd ca2
-mv ../../MainMenu.java BookingApp.java
-mv BookingApp.java src
-unzip week7_code_from_videos.zip
-vi Shape.java
-vi Rectangle.java
-cd documents/CA/ecm1410-700028245-ca1/ecm1410/700028245/ca1/src
-cta Module
-cat Module.java
-doas pacman -S latex
-doas pacman -S tex
-doas pacman -S pandoc
-doas pacman -S pandoc mupdf
-ping -c 3 google.com
-ip link
-vi Assistant.
-vi Assistant.java
-javac Assistant.java
-vi UniversityResources.java
-javac UniversityResources.java
-mv UniversityResources.java UniversityResource.java
-vi UniversityResource.
-vi UniversityResource.java
-javac UniversityResource.java
-vi BookingApp.
-vi BookingApp.java
-javac BookingApp.java
-java BookingApp
-as
-help as
-whatis as
-cd documents/CA/ecm1410-700028245-ca2/700028245/ca2/src
-vi Room.
-vi Room.java
-javac Room
-javac Room.java
-javac BookableRoom.java
-vi BookableRoom.
-vi BookableRoom.java
-doas pacman -S neofetch
-time neofetch
-for i in (seq 1000) do\
-printf "hello"
-for i in (seq 1000) do\
-printf "hello" done
-for i in (seq 1000) do; \
-printf "hello" done
-for seq 1000 ; do printf "hello\n" ; done
-for (seq 1000) ; do printf "hello\n" ; done
-for `seq 1000` ; do printf "hello\n" ; done
-for i in $(seq 1000) ; do printf "hello\n" ; done
-time (for i in $(seq 1000) ; do printf "hello\n" ; done)
-time (for i in $(seq 1000) ; do echo "hello" ; done)
-if [ five == 5 ] ; then echo "right" ; fi
-cd /te
-cd /temp
-ls /
-cd /tmp
-cd /tmp/test
-five=5
-vi test.bash
-chmod 755 test.bash
-./test.bash
-time ( for i in $(seq 10000); do ./test.bash; done )
-git commit -m "updating any changes, cant remember any" 
-mupdf latex.pdf
-zathura latex.pdf
-vi latex.tex
-pdflatex latex.tex
-rm -rf latex*
-vi something.java
-shellcheck
-doas pacman -S shellcheck
-shellcheck ~/scripts/dmenumanselect.sh
-vi something.tex
-vim
-javac s.java
-rm -rf s.java
-doas pacman -S teams
-doas pacman -S zoom
-mkdir templates
-vi s.sh
-vi skeleton.tex
-ls templates
-vi .config/nvim
-vi lahdljashd.tex
-zathura lahdljashd.pdf
-pdflatex lahdljashd.tex
-fb
-rm -rf lahdljashd.*
-vi s.tex
-gf
-gb
-zathura s.pdf
-pdflatex s.tex
-fg
-rm -rf s.*
-vi s.java
-rm s.java
-transmission-cli "magnet:?xt=urn:btih:A29D1368678739DF320D1B2E5599177DB3EE6881&dn=SNOWFALL%20-%20Complete%20Season%201%20S01%20(2017)%20-%201080p%20AMZN%20Web-DL%20x264&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
-doas systemctl start nordvpnd
-nordvpn c Malaysia
-doas nordvpn c Malaysia
-man groupadd 
-man usermod
-usermod jojito -aG nordvpn
-doas usermod jojito -aG nordvpn
-nordvpnd
-groupadd -r nordvpn
-gpasswd -a jojito nordvpn
-doas gpasswd -a jojito nordvpn
-nordvpn set technology nordlynx
-doas pacman -R nordvpn-bin 
-paru nordvpn
-doas systemctl enable --now nordvpnd
-systemctl --failed
-cd SNOWFALL\ -\ Complete\ Season\ 1\ S01\ \(2017\ Series\)\ -\ 1080p\ AMZN\ Web-DL\ x264
-mv ~/Downloads/* .
-mv As\ Above,\ So\ Below\ \(2014\)\ \[1080p\] As-Above,-So-Below
-mv SNOWFALL\ -\ Complete\ Season\ 1\ S01\ \(2017\ Series\)\ -\ 1080p\ AMZN\ Web-DL\ x264 Snowfall-S01
-cd Other\ CRIME-Related\ SHOWS,\ Here
-rm -rf Other\ CRIME-Related\ SHOWS,\ Here
-rm \[TGx\]Downloaded\ from\ torrentgalaxy.to\ .txt
-rm Torrent\ Description\ \(READ\ Me\).txt
-lotu
-uname -a
-mpv Snowfall\ -\ S01\ E02\ -\ Make\ Them\ Birds\ Fly\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-mpv Snowfall\ -\ S01\ E03\ -\ Slow\ Hand\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-mpv Snowfall\ -\ S01\ E04\ -\ Trauma\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-mpv Snowfall\ -\ S01\ E05\ -\ Seven-Four\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-df -kh 
-transmission-cli "magnet:?xt=urn:btih:3BF82EBDA6C84C49E060AE3C6E915BA6A8898697&dn=SNOWFALL%20-%20Complete%20Season%202%20S02%20(2018)%20-%201080p%20AMZN%20Web-DL%20x264&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
-mpv Snowfall\ -\ S01\ E06\ -\ A\ Long\ Time\ Coming\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-mpv Snowfall\ -\ S01\ E07\ -\ Cracking\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-cat Snowfall\ -\ S01\ E01\ -\ Pilot\ \(1080p\ -\ AMZN\ Web-DL\).srt
-mpv Snowfall\ -\ S01\ E08\ -\ Baby\ Teeth\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-transmission-cli "https://zamunda.net/magnetlink/download_go.php\?id\=455231\&m\=x"
-mpv Snowfall\ -\ S01\ E09\ -\ Story\ of\ a\ Scar\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-mv Downloads/SNOWFALL\ -\ Complete\ Season\ 2\ S02\ \(2018\ Series\)\ -\ 1080p\ AMZN\ Web-DL\ x264 Videos/Snowfall-S02
-cd Videos/Snowfall-S01
-mpv Snowfall\ -\ S01\ E10\ -\ The\ Rubicon\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-cd ../Snowfall-S02
-mpv Snowfall\ -\ S02\ E01\ -\ Sightlines\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-mpv Snowfall\ -\ S02\ E02\ -\ The\ Day\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-mpv Snowfall\ -\ S02\ E03\ -\ Prometheus\ Rising\ \(1080p\ RP\ -\ AMZN\ Web-DL\).mp4
-groff
-rm -rf last\ exam.*
-cat useful.txt
-rm -rf useful.txt
-cd pc_
-cd desktop
-cd Exeter/ECM1416
-mkdir week 4
-rm -rf week 4
-mkdir "week 4"
-groff -ms groff.ms > groff.pdf
-groff -ms groff.ms -T pdf > groff.pdf
-mv groff.ms notes
-mv notes/groff.ms groff
-mv groff.pdf notes
-l groff
-l -R
-zathura groff.pdf
-cd documents/Exeter/ECM1416/week\ 4
-vi groff.ms
-groff -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
-vi "Differentiation and Taylor approximations".ms
-cd .config
-mkdir groff
-vi macros
-cat ~/.config/groff/macros
-groff -G -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
-groff -tC -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
-doas pacman -S gnuplot
-gnuplot
-groff -t -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor approximations.pdf"
-xdg-open 1\ over\ x.png
-rm 1\ over\ x.png
-rm groff.ms
-vi "Scalar and Vector Fields".ms
-man geqn
-man groff_eqn
-groff -e -mom "Scalar and Vector Fields.ms" -T pdf > ../notes/"Scalar and Vector Fields.pdf"
-groff -e -ms "Scalar and Vector Fields.ms" -T pdf > ../notes/"Scalar and Vector Fields.pdf"
-mkdir -p week\ 5/groff week \5/notes
-mkdir -p week\ 5/groff week\ 5/notes
-rm -rf 5 week
-cd week\ 5
-cd ../../week\ 5/groff
-vi "Probability: basic concepts".ms
-cat Probability:\ basic\ concepts.pdf
-cat ../../week\ 4/groff/Scalar\ and\ Vector\ Fields.ms
-groff -e -ms "Probability: basic concepts.ms" -T pdf > ../notes/"Probability: basic concepts.pdf"
-mupdf Probability:\ basic\ concepts.pdf
-zathura Probability:\ basic\ concepts.pdf
-zathura ../../week\ 4/notes/Scalar\ and\ Vector\ Fields.pdf
-zathura Probability
-rm -rf Probability:\ basic\ concepts.pdf
-zathura Probability\ basic\ concepts.pdf
-mpv Snowfall\ -\ S02\ E04\ -\ Jingle\ Bell\ Rock\ \(1080p\ RP\ -\ AMZN\ Web-DL\).mp4
-mpv Snowfall\ -\ S02\ E05\ -\ Serpiente\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-mpv Snowfall\ -\ S02\ E06\ -\ The\ Offer\ \(1080p\ RP\ -\ AMZN\ Web-DL\).srt
-mpv Snowfall\ -\ S02\ E06\ -\ The\ Offer\ \(1080p\ RP\ -\ AMZN\ Web-DL\).mpv
-mpv Snowfall\ -\ S02\ E06\ -\ The\ Offer\ \(1080p\ RP\ -\ AMZN\ Web-DL\).mp4
-mpv Snowfall\ -\ S02\ E07\ -\ The\ World\ Is\ Yours\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-transmission-cli "magnet:?xt=urn:btih:A8D9535EA6E4B80AF7B39555F319872F5A5507C1&dn=SNOWFALL%20-%20Complete%20Season%203%20S03%20(2019)%20-%201080p%20AMZN%20Web-DL%20x264&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
-mpv Snowfall\ -\ S02\ E08\ -\ Surrender\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-mpv Snowfall\ -\ S02\ E09\ -\ Aftermath\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-l Videos/Snowfall-S02
-mpv Snowfall\ -\ S02\ E10\ -\ Education\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-mv ~/Downloads/SNOWFALL\ -\ Complete\ Season\ 3\ S03\ \(2019\ Series\)\ -\ 1080p\ AMZN\ Web-DL\ x264 ~/Videos/Snowfall-S03
-mpv SNOWFALL\ -\ S03\ E01\ -\ Protect\ and\ Swerve\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-cd ../../week\ 5
-cd groff
-vi Probability:\ basic\ concepts.ms
-doas mount /dev/sda1 /mnt
-dd if=linuxmint-20.1-cinnamon-64bit.iso of=/dev/sdb
-doas dd if=linuxmint-20.1-cinnamon-64bit.iso of=/dev/sdb
-doas dd if=linuxmint-20.1-cinnamon-64bit.iso of=/dev/sdb status=progress
-groff -e -ms "Probability: basic concepts.ms" -T pdf > ../notes/"Probability basic concepts.pdf"
-mkdir "11:26"
-doas reboot
-vi somehting.ms
-sudo
-doas pacman -Sy teams zoom
-paru teams zoom
-paru teams
-paru zoom
-paru scetchable
-paru sketchable
-paru skechable
-pacman -Q sketchable
-paru chrome
-paru firefox
-paru -R firefox
-ls -l
-fish
-doas pacman -S kde
-doas pacman -S plasma
-cd documents/Exeter/ECM1416/week\ 5/notes
-cd documents/Exeter/ECM1416/week\ 5/groff
-cd ../../week\ 4/groff
-cd ../downloads
-vi "Euler's Method: a Numerical Approach to Solving DE".ms
-groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > "../notes/Differentiation and Taylor approximations.pdf"
-groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/Differentiation\ and\ Taylor\ approximations.pdf
-history | grep groff
-groff -e -ms "Differentiation and Taylor approximations.ms" -T pdf > ../notes/"Differentiation and Taylor\
-approximations.pdf"
-rm -rf Differentiation\ and\ Taylor$'\n'approximations.pdf
-transmission-cli manjaro-xfce-20.2.1-minimal-210103-linux59.iso.torrent
-cat Scalar\ and\ Vector\ Fields.ms
-l downloads
-doas dd if=/home/jojito/Downloads/manjaro-xfce-20.2.1-minimal-210103-linux59.iso of        
-doas systemctl restart NetworkManager
-groff -e -ms "Euler's Method: a Numerical Approach to Solving DE.ms" -T pdf > ../notes/"Euler's Method: a Numerical Approach to Solving DE.pdf"
-man groff
-groff -t -e -ms "Euler's Method: a Numerical Approach to Solving DE.ms" -T pdf > ../notes/"Euler's Method: a Numerical Approach to Solving DE.pdf"
-vi "Separation of Variables Method".ms
-vi .zhsrc
-groff -e -t -ms "Separation of Variables Method.ms" -T pdf > ../notes/"Separation of VariablesMethod.pdf"
-vi "Integrating Factor Method".ms
-groff -e -t -ms "Integrating Factor Method.ms" -T pdf > ../notes/"Integrating Factor Method.pdf"
-doas dd if=Downloads/manjaro-xfce-20.2.1-minimal-210103-linux59.iso of=/dev/sda
-doas dd if=Downloads/manjaro-xfce-20.2.1-minimal-210103-linux59.iso of=/dev/sda status=progress
-doas pacman -Syu r
-R
-paru rstudio-desktop-bin
-groff -e -t -mspdf test.ms -T pdf  > test.pdf
-cd documents/Exeter/ECM1416/week\ 4/groff
-man eqn_matrix
-man eqn-matrix
-man 2 eqn
-groff -e -t -mspdf Scalar\ and\ Vector\ Fields.ms -T pdf > ../notes/Scalar\ and\ Vector\ Fields.pdf
-man eqn
-cal -4
-cal -5
-cal  june 532
-cal  june 532 -3
-doas pacman -Sy gotop
-paru gotop
-uname -o
-doas make install
-mpv Videos/As-Above,-So-Below/As.Above,.So.Below.2014.1080p.BluRay.x264.YIFY.mp4
-doas pacman -S cmatrix
-cow
-while :; sl done
-bash -c while :; sl ;
-update && clean
-doas pacman -Syu --no-confirm
-doas pacman -Syu --noconfirm
-doas pacman -Rdd $(pacman -Qdt | cut -d " " -f 1)
-pacman -S groff
-doas pacman -S groff
-pacman -Q groff
-pacman -Q grof
-pacman -Q steam
-pacman -Qsm groff
-pacman -Qs groff
-pacman -Qm groff
-az group create --name ECM1417 --location westuk
-az
-az login
-az group create --name ECM1417 --location ukwest
-az vm create \\
---resource-group ECM1417 \\
---name myVM \\
---image UbuntuLTS \\
---admin-username ecm1417 \\
---generate-ssh-key
-doas pacman -S apache2
-doas pacman -S apache
-doas pacman -S ufw
-doas ufw app list
-cat ECM1417_key.pem
-mv Downloads/manjaro-xfce-20.2.1-minimal-210103-linux59.iso downloads
-ln -s ~/Downloads ~/downloads
-clearls
-unzip -d Deployment-CreateVm-debian.debian-10-10-20210303210010.zip > Deployment-CreateVm-debian.debian-10-10-20210303210010
-unzip -d Deployment-CreateVm-debian.debian-10-10-20210303210010.zip 
-cat Deployment-CreateVm-debian.debian-10-10-20210303210010
-file Deployment-CreateVm-debian.debian-10-10-20210303210010
-doas pacman -Sy nautilus
-mv Deployment-CreateVm-debian\ \(3\).debian-10-10-20210303210010 Deployment-CreateVm-debian.debian-10-10-20210303210010
-rm -rf Deployment-CreateVm-debian.debian-10-10-20210303210010.zip
-mv downloads/ECM1417_key.pem ECM1417.key
-ssh -i ECM1417.key ecm1417@51.141.117.243
-mv ECM1417.key ECM1417_key.pem
-chmod 770 ECM1417_key.pem
-chmod 500 ECM1417_key.pem
-chmod 600 ECM1417_key.pem
-l ECM1417_key.pem
-doas pacman -S terminator
-cat .config/nvim/init.vim
-cd Snowfall-S02
-cd ../Snowfall-S03
-mpv SNOWFALL\ -\ S03\ E02\ -\ The\ More\ You\ Make\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-mpv SNOWFALL\ -\ S03\ E03\ -\ Cash\ and\ Carry\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-mpv SNOWFALL\ -\ S03\ E04\ -\ The\ Game\ That\ Moves\ as\ You\ Play\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-mpv SNOWFALL\ -\ S03\ E05\ -\ The\ Bottoms\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-mpv SNOWFALL\ -\ S03\ E06\ -\ Confessions\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-mpv SNOWFALL\ -\ S03\ E07\ -\ Pocket\ Full\ of\ Rocks\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-mpv SNOWFALL\ -\ S03\ E08\ -\ Hedgehogs\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-mpv SNOWFALL\ -\ S03\ E09\ -\ Blackout\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-mpv SNOWFALL\ -\ S03\ E10\ -\ Other\ Lives\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-zathura Integrating\ Factor\ Method.pdf
-groff -e -t -ms test.ms -T pdf > test.pdf
-cd ../documents/Exeter/ECM1416/week\ 4/notes
-cd documents/Exeter/
-mkdir ECM1414
-mv install-font.sh ../.config/groff/
-cd ../.config/groff
-chmod 750 install-font.sh
-./install-font.sh
-./install-font.sh -h
-./install-font.sh -H | less
-cd /usr/share/groff/1.22.4/font/
-ls -lR
-ls -lR | grep TNR
-rm -rf linuxmint-20.1-cinnamon-64bit.iso kramer-via-go-qs-7.pdf Year\ 1\ Software\ info2020-21\ \(2\).pdf Notorious.2009.*
-rm -rf manjaro-xfce-20.2.1-minimal-210103-linux59.iso
-rm -rf manjaro-xfce-20.2.1-minimal-210103-linux59.iso.torrent
-unzip -h
-mkdir times-new-roman
-mv times-new-roman.zip times-new-roman
-cd times-new-roman
-unzip times-new-roman.zip
-cat times-new-roman.ttf
-mv times-new-roman.ttf ../../.config/groff/
-cd ../../.config/groff
-mkdir font
-mkdir fonts
-rm -rf font
-mv times-new-roman.ttf fonts
-mv ../install-font.sh .
-doas pacman -S fotnforge
-paru fontforge
-rm -rf times-new-roman
-mkdir tnr
-mv Times-New-Roman.zip tnr
-cd tnr
-unzip Times-New-Roman.zip
-rm -rf Times-New-Roman.zip
-mv Times\ New\ Roman ../../.config/groff/fonts
-cd ../../.config/groff/fonts
-rm -rf times-new-roman.ttf
-mv install-font.sh Times\ New\ Roman
-doas ./install-font.sh -s -F TNR -f +R times-new-roman.ttf
-doas ./install-font.sh -s -F TNR -f +R times\ new\ roman.ttf
-doas ./install-font.sh -s -F TNR -f +B times\ new\ roman\ bold.ttf
-doas ./install-font.sh -s -F TNR -f +I times\ new\ roman\ italic.ttf
-doas ./install-font.sh -s -F TNR -f +BI times\ new\ roman\ bold\ italic.ttf
-ls 
-cd documents/CA
-cd ecm1416
-cat ex2.ipynb
-mv ex2.ipynb ecm1416-georgi-tarashev.ipynb
-rm ex1.ipynb
-mkdir Snowfall-S04
-groff -e -t -mspdf documentation.ms -T pdf > documentation.pdf
-transmission-cli "magnet:?xt=urn:btih:E03F785128E67C4049D3790EFB957601B63CE59F&dn=Snowfall.S04E01.Re-Entry.HDTV.x264-CRiMSON%5BTGx%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
-mv Downloads/Snowfall.S04E01.Re-Entry.HDTV.x264-CRiMSON\[TGx\]/Snowfall.S04E01.Re-Entry.HDTV.x264-CRiMSON.mkv Videos/Snowfall-S04
-mpv Snowfall.S04E01.Re-Entry.HDTV.x264-CRiMSON.mkv
-transmission-cli "magnet:?xt=urn:btih:AD416E73DB8BF36610F6232692115A7BB92B7D9E&dn=Snowfall.S04E03.All.the.Way.Down.HDTV.x264-CRiMSON%5BTGx%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
-mv Downloads
-transmssion-cli "magnet:?xt=urn:btih:9D3DF38EC07373F88A829B0C5136D261EE2E9E02&dn=Snowfall.S04E02.Weight.HDTV.x264-CRiMSON&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
-transmission-cli "magnet:?xt=urn:btih:9D3DF38EC07373F88A829B0C5136D261EE2E9E02&dn=Snowfall.S04E02.Weight.HDTV.x264-CRiMSON&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
-/proc
-/home/jojito
-/downloads
-downloads
-cd sys
-cd devices
-cd class
-cd power_supply
-cd BAT1
-cd power
-cd /
-/
-sys
-class
-net
-cd net/wlp2s0/statistics
-cat rx_bytes
-transmission-cli "magnet:?xt=urn:btih:9D3DF38EC07373F88A829B0C5136D261EE2E9E02&dn=Snowfall.S04E02.Weight.HDTV.x264-CRiMSON&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce" 
-cat /sys/class/net/wlp2s0/carrier_down_count
-cat /sys/class/net/wlp2s0/carrier_up_count
-doas pacman -Suyw --noconfirm
-doas pacman -yu
-doas pacman -Uy
-doas pacman -U
-doas pacman -Syuw --color always
-doas pacman -Syuw 
-doas pacman -Syuc
-doas pacman -Suc
-expr 1024 ** 2
-expr 1024 ^ 2
-expr (1024 * 1024)
-expr (1024 + 1024)
-expr 1024 + 1024
-expr 1024 x 1024
-expr 1024(1024)
-expr 1024 * 1024
-expr "1024 * 1024"
-git commit -m "added network speeds"
-git add cursesTrial.c userformat.bash
-cd ../dwm_bar
-git commit -m "added network information"
-echo $XDG_CONFIG_HOME
-echo $XDG_CONFIG
-echo $CONFIG_HOME
-echo $CONFIG
-echo $HOME
-echo $XDG_HOME
-mkdir ~/.config/net
-touch ~/.config/net/logfile
-echo s > .config/net/logfile
-cat .config/net/logfile
-doas pacman -Ss testparm
-doas pacman -Syu Samba
-doas pacman -Syu aamba
-doas pacman -Syu samba
-cat /etc/samba/smb.conf
-doas r
-touch /etc/samba/smb.conf
-touch touch /etc/samba/smb.conf
-doas touch touch /etc/samba/smb.conf
-testparm
-date +'%A (%-e/%-m/%Y)'
-transmission-cli "magnet:?xt=urn:btih:6E4ABA3399F875A1DCB606945AAD37347B2B7851&dn=Snowfall.S04E02.Weight.HDTV.x264-CRiMSON%5BTGx%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
-mv Downloads/Snowfall.S04E02.Weight.HDTV.x264-CRiMSON\[TGx\]/Snowfall.S04E02.Weight.HDTV.x264-CRiMSON.mkv Videos/Snowfall-S04
-rm -rf Downloads/*
-rm touch
-git commit -m "updated network information"
-git add bar.bash 
-git commit -m "updated network info"
-mkdir dotfiles
-pacman -Qdt | cut -d " " -f 1 | doas pacman -Rdds --color always
-vi update.sh
-mv update.sh update.bash
-chmod 755 update.bash
-cp bashrc ~/.bashrc
-git add bashrc update.bash
-git commit -m "added bash rc, havent fixed rempving orphaned packages"
-vi scripts/dwm_bar/bar.bash
-cd github/arch-config/dotfiles
-rm /var/lib/pacman/db.lck
-doas rm /var/lib/pacman/db.lck
-./update.bash
-vi update.bash
-pacman -
-doas pacman -Rdds "$(pacman -Qdt | cut -d " " -f 1)"
-doas pacman -Syu ; doas pacman -Rdds "$(pacman -Qdt | cut -d " " -f 1)" --noconfirm
-~
-update
-doas pacman -Qdt | cut -d " " -f 1 | xargs -r pacman -Rdds
-cd dotfiles
-git rm update.bash
-git commit -m "Fixed orphan package cleanup with 'xargs -r' (variable substitution wasn't working)"
-paru python1-webcolors
-paru python2-webcolors
-doas pacman -Sy python2-pip
-pip install python2-webcolors
-paru opensesame
-mkdir open-sesame
-cd open-sesame
-git clone https://github.com/open-cogsci/OpenSesame
-pip install python-academicmarkdown python-yamldoc
-doas pacman -Sy pelican inkscape
-doas pacman -Syw vi
-man pacman 
-doas pacman -Sy firefox
-doas pacman -Rns firefox
-doas pacman -Syw firefox
-mv OpenSesame/* .
-rm OpenSesame
-rm -r OpenSesame
-cat readme.md
-cat readme.md | less
-makepkg -si
-pip install yaml
-vi setup
-vi setup.cfg
-vi setup.py
-paru python3.7
-paru python37
-./setup.py
-pip install python-yaml
-pip install python3-yaml
-pip install yamldoc
-python3.7 test.py
-python3.8 test.py
-python3.9 test.py
-vi libopensesame/py3compat.py
-pip3 install yamldoc
-pip3 install python-yamldoc
-pip2 install python-yamldoc
-pip3 install python-yaml
-python3 setup.py
-python3 setup.py | less
-paru qBittirrent
-paru qBittorrent
-./setup.py > logfile
-./setup.py -n
-./setup.py -v
-./setup.py -v cmd --help
-./setup.py cmd --help
-cd apps/open-sesame
-./setup.py --help
-setup.py build
-./setup.py build
-./setup.py install
-pip2 install pyyaml
-pip install pyyaml
-ipython 
-cat libopensesame/py3compat.py
-doas pip install yaml
-doas pip install pyyaml
-doas pip install pyqode3
-doas pip install pyqode
-doas pip install pyqode3.python
-doas pip install pyqode.python
-doas ./setup.py install
-doas pip3 install pyqode3.python
-doas ./run_unittests.py
-./run_unittests.py
-pip install yamldoc.validate
-doas pip install yamldoc
-doas pip install qtpy
-doas ./opensesamerun
-doas pip install PySide
-mkdir nadya
-mv Downloads/xubuntu-20.04.2.0-desktop-amd64.iso nadya
-vi bashrc
-doas dd if=/home/jojito/nadya/xubuntu-20.04.2.0-desktop-amd64.iso of=/dev/sda
-doas dd if=/home/jojito/nadya/xubuntu-20.04.2.0-desktop-amd64.iso of=/dev/sda status=progress
-l xubuntu-20.04.2.0-desktop-amd64.iso
-transmission-cli downloads/kubuntu-20.04.2.0-desktop-amd64.iso.torrent
-./makegroff.sh something
-./makegroff.sh test.pdf
-mv makegroff.sh makegroff.bash
-./makegroff.bash test.pdf
-./makegroff.bash something.ms
-doas pacman -Syu --color always
-rm test.py
-mkgroff test/test.ms
-rm test.
-vi test/test.ms 
-vi test/test.ms
-mkgroff
-rm test.pdf
-mupdf test.pdf
-zathura Differentiation\ and\ Taylor\ approximations.pdf
-cd ECM1415\ Descrete\ Mathematics\ \ for\ Computer\ Sciende
-cd ECM1416
-cd week\ 4
-vi Separation\ of\ VariablesMethod.pdf
-zathura Separation\ of\ VariablesMethod.pdf
-cd ../../week\ 5/notes
-mupdf Probability\ basic\ concepts.pdf
-cd ../../week\ 4/notes
-zathura Scalar\ and\ Vector\ Fields.pdf
-vi Scalar\ and\ Vector\ Fields.ms
-cd Videos/As-Above,-So-Below
-mpv As.Above,.So.Below.2014.1080p.BluRay.x264.YIFY.mp4
-cd Snowfall-S01
-mpv Snowfall\ -\ S01\ E01\ -\ Pilot\ \(1080p\ -\ AMZN\ Web-DL\).mp4
-rm test.8
-rm test.*
-vi something.sh
-chmod 755 something.sh
-./something.sh "hello me"
-./something.sh "hello.me"
-./something.sh hello.me
-./makegroff.bash hello.sa
-zathura something.pdf
-vi something.ms
-zathura
-chmod 755 lz77-encoder.py
-./lz77-encoder.py hi
-./lz77-encoder.py documentation.lsa
-chmod 000 documentation.pdf
-chmod 444 documentation.pdf
-./lz77-encoder.py documentation.pdf
-./lz77-encoder.py documentation.ms
-./lz77-encoder.py
-echo $1
-./lz77-encoder.py hi mom
-ls
-curl https://www.gutenberg.org/files/17400/17400-0.txt > "the-wright's-chaste-wife-adam-cobsam"
-clear
-l
-./lz77-encoder.py the-wright\'s-chaste-wife-adam-cobsam
-wc -l the-wright\'s-chaste-wife-adam-cobsam
-wc the-wright\'s-chaste-wife-adam-cobsam
-cat the-wright\'s-chaste-wife-adam-cobsam
-cat the-wright\'s-chaste-wife-adam-cobsam | less
-clear
-ls
-clear
-ls
-vi documentation.ms
-ls
-clear
-l
-chmod 544 documentation.pdf
-l
-chmod 644 documentation.pdf
-l
-clear
-vi documentation.
-vi documentation.ms
-mupdf documentation.pdf
-vi documentation.ms
-clear
-ls
-clear
-vi documentation.ms
-zathura documentation.pdf
-clear
-ls
-vi documentation.ms
-zathura documentation.pdf
-clear
-ls
-cd Videos/Snowfall-S04
-l
-l Videos/Snowfall-S04
-transmission-cli "magnet:?xt=urn:btih:9DE78A44BB872F13F755E54BA59102AAD95803A0&dn=Snowfall.S04E03.All.the.Way.Down.HDTV.1080p.x264-CRiMSON%5BTGx%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
-cd Videos/Snowfall-S04
-ls
-mpv Snowfall.S04E02.Weight.HDTV.x264-CRiMSON.mkv
-transmission-cli "magnet:?xt=urn:btih:C49831CFAF323ADA0936E6702CA10A72D2D4F432&dn=Snowfall.S04E03.All.the.Way.Down.XviD-AFG%5BTGx%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
-transmission-cli "magnet:?xt=urn:btih:E18804EECAE2B6846C94ECFD16D2B4C1178D99BB&dn=Snowfall.S04E03.XviD-AFG%5BTGx%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce"
-clear
-ls
-doas pacman -Syu
-paru
-clear
 lsblk
 df -k
 df -kh
@@ -10123,3 +9412,757 @@ ls
 q
 ls
 q
+ls
+echo $PATH
+vi .config/zsh/zshrc
+ls
+/bin/ls .local/
+/bin/ls -la
+vi .config/zsh/zshrc
+exit
+ls
+clear
+ls
+q
+neofetch
+cat github/arch-config/scripts/emojiSelector/emoji.txt
+clear
+bluetoothctl
+clear
+bluetoothctl
+echo "30:53:C1:21:EC:38" >> github/arch-config/scripts/small/autoconnect.sh
+vi github/arch-config/scripts/small/autoconnect.sh
+which sh
+chmod 755 github/arch-config/scripts/small/autoconnect.sh
+clear
+crontab -e
+/etc/init.d/cronie
+/etc/init.d/cronie start
+sudo /etc/init.d/cronie start
+crontab 
+crontab -e
+sudo mkdir -p /var/spool/cron/crontabs
+clear
+crontab -e
+ls /var/spool/cron/crontabs
+sudo ls /var/spool/cron/crontabs
+sudo rm /var/spool/cron/crontabs
+sudo rm /var/spool/cron/crontabs -r
+mkdir /var/spool/cron/crontabs
+sudo mkdir /var/spool/cron/crontabs
+sudo crontab -e
+clear
+echo "/home/jojito/github/arch-config/scripts/small/autoconnect.sh" >> .profile
+cat .profile
+clear
+ls
+l
+l .config
+clear
+l
+mkdir videos
+sudo emerge -aq mpv
+clear
+ls
+l
+clear
+emaint -a sync
+ sudo emaint -a sync
+eselect news list
+eselect news read 3
+sudo eselect news read 3
+clear
+eselect news purge
+sudo eselect news purge
+clear
+eselect news list
+clear
+emerge -aquDN @world
+sudo emerge -aquDN @world
+clear
+cat .xinitrc
+sudo emerge -aq setxkbmap
+setxkbmap -layout gb,bg -option grp:win_space_toggle
+sudo emerge -aq feh
+ls
+clear
+mkdir pictures
+mkdir -p pictures/{backgrounds,art,random}
+ls pictures
+clear
+q
+wpaper pictures/backgrounds/sierra.jpg
+vi /home/jojito/github/arch-config/scripts/small/wpaper.sh
+wpaper pictures/backgrounds/sierra.jpg
+vi /home/jojito/github/arch-config/scripts/small/wpaper.sh
+mv pictures/backgrounds pictures/wallpapers
+wpaper pictures/wallpapers/sierra.jpg
+clear
+vi .xinitrc 
+clear
+clear
+clear
+q
+cd github/arch-config/scripts/small
+./bar.bash
+vi bar.bash
+./bar.bash
+sudo emerge -aq upower xsetroot
+./bar.bash
+clear
+clear
+sudo emerge -aq pamixer
+cat ../../../dwm/sxhkdrc
+pamixer
+sudo emerge -aq pamixer
+sudo emerge -aq pamix
+pamix --allow-boost -i 3
+pamix
+q
+clear
+echo $USE
+clear
+pamix
+q
+pamix --help
+clear
+ls
+man pamix
+pamix --add-volume 3.0
+man pamix
+clear
+man pamix
+q
+sudo emerge --ask --depclean
+pfetch
+cd github
+git clone https://github.com/dylanaraps/pfetch
+clear
+cd pfetch
+./pfetch
+sudo emerge --deselect -q neofetch
+emerge -q --depclean
+sudo emerge -q --depclean
+q
+./github/arch-config/scripts/small/autoconnect.sh
+q
+discord
+q
+htop
+q
+poweroff
+sudo poweroff
+ls
+clear
+startx
+bluetoothctl
+bluetoothctl
+clear
+blueman-applet
+clear
+bluemoon
+bluetoothctl
+sudo emerge -aq pulse-bluetooth
+sudo emerge -aq pulseaudio-bluetooth
+bluetoothctl
+reboot
+sudo reboot
+bluetoothctl
+sudo /etc/init.d/bluetooth
+sudo /etc/init.d/bluetooth start
+sudo rc-update add bluetooth
+sudo /etc/init.d/bluetooth stop
+sudo /etc/init.d/bluetooth start
+bluetoothctl
+clear
+sudo emerge -aq wireplumber
+clear
+sudo emerge --deselect pulseaudio-daemon
+sudo vi /etc/portage/make.conf
+clear
+sudo emerge -aq libpulse
+sudo vi /etc/portage/make.conf
+clear
+sudo emerge -aq --changed-use --deep --update @world
+emerge --ask media-video/pipewire
+sudo emerge --ask media-video/pipewire
+clear
+sudo usermod -aG pipewire jojito
+sudo emerge -aq rtkit --no-reinstall
+sudo emerge -aq rtkit --no-replace
+ sudo emerge -aq rtkit --no-replace | grep no
+clear
+sudo emerge -aq rtkit --no-replace
+sudo emerge -aq rtkit
+sudo usermod -rG audio jojito
+clear
+vi .xinitrc
+sudo reboot
+clear
+bluetoothctl
+startx
+wpctl set-volume @DEFAULT_AUDIO_SINK@ 25%+
+ls .dwm
+clear
+gentoo-pipewire-launcher&
+wpctl set-volume @DEFAULT_AUDIO_SINK@ 25%+
+bluetoothctl
+wpctl set-volume @DEFAULT_AUDIO_SINK@ 25%+
+wpctl set-volume @DEFAULT_AUDIO_SINK@ 2%-
+wpctl set-volume @DEFAULT_AUDIO_SINK@ 2%-
+wpctl set-volume @DEFAULT_AUDIO_SINK@ 2%-
+wpctl set-volume @DEFAULT_AUDIO_SINK@ 2%-
+wpctl set-volume @DEFAULT_AUDIO_SINK@ 2%-
+wpctl set-volume @DEFAULT_AUDIO_SINK@ 2%-
+wpctl set-volume @DEFAULT_AUDIO_SINK@ 2%-
+wpctl set-volume @DEFAULT_AUDIO_SINK@ 2%-
+wpctl set-volume @DEFAULT_AUDIO_SINK@ 2%-
+wpctl set-volume @DEFAULT_AUDIO_SINK@ 2%-
+wpctl set-volume @DEFAULT_AUDIO_SINK@ 2%-
+wpctl set-volume @DEFAULT_AUDIO_SINK@ 2%-
+wpctl set-volume @DEFAULT_AUDIO_SINK@ 2%-
+wpctl set-volume @DEFAULT_AUDIO_SINK@ 2%-
+wpctl set-volume @DEFAULT_AUDIO_SINK@ 2%-
+wpctl set-volume @DEFAULT_AUDIO_SINK@ 2%-
+cat github/dwm/sxhkdrc
+vi github/dwm/sxhkdrc
+kill -9 -1
+gentoo-pipewire-launcher&
+sudo emerge --deselect discord
+sudo emerge -aq --depclean
+sudo emerge --ask --quiet --update --changed-use --deep @world
+sudo emerge -aq flatpak
+flatpak install flathub com.discordapp.Discord
+sudo flatpak install flathub com.discordapp.Discord
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+clear
+sudo flatpak install flathub com.discordapp.Discord
+clear
+sudo flatpak install flathub com.discordapp.Discord
+flatpak run com.discordapp.Discord
+flatpak run com.discordapp.Discord
+exit
+cat github/arch-config/scripts/emojiSelector/emoji.txt
+q
+ls
+clear
+ls
+mkdir pp
+cd pp
+ls
+clear
+cargo new rust_os --bin
+cd rust_os
+ls
+clear
+vi src/main.rs
+clear
+cargo build
+vi src/main.rs
+clear
+cargo build
+clear
+vi src/main.rs
+clear
+cargo build
+curl wttr.in/burgas?format=3
+sudo emerge -aq libXft
+sudo emerge --deselect libXft
+cd 
+cd github
+git clone https://github.com/uditkarode/libxft-bgra
+cd libxft-bgra
+clear
+sh autogen.sh --sysconfdir=/etc --prefix=/usr --mandir=/usr/share/man
+clear
+sudo emerge --select libXft
+clear
+cd ..
+ls
+clear
+cd dwm
+make
+sudo make install
+clear
+sudo emerge --deselect libXft
+sudo emerge --select libXft-2.3.3
+emerge =x11-libs/libXft-2.3.3
+emerge x11-libs/libXft-2.3.3
+sudo emerge x11-libs/libXft-2.3.3
+clear
+sudo emerge -aq libXft
+clear
+less config.h
+cd
+clear
+cd downloads
+ls
+clear
+ls
+mkdir ../games
+mv SummertimeSaga-0-20-16-pc.zip ../games
+clear
+sudo mv AppleColorEmoji.ttf /usr/share/fonts
+clear
+clear
+cd
+cd github/arch-config/scripts/small
+clear
+./bar.bash
+xlear
+clear
+ls /usr/share/zoneinfo
+echo "Europe/Sofia" > /etc/timezone
+sudo echo "Europe/Sofia" > /etc/timezone
+sudo $(echo "Europe/Sofia" > /etc/timezone)
+clear
+sudo su
+clear
+sudo emerge --config sys-libs/timezone-data
+./bar.bash
+clear
+lout
+rm -rf github/libxft-bgra
+cd github/arch-config/scripts/small
+./bar.bash
+clear
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+echo ðƒ¿ƒ´ƒ« >> bar.bash
+vi bar.bash
+clear
+./bar.bash
+clear
+echo ðƒ¿ƒµ°  >> bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+./bar.bash
+clear
+./bar.bash
+vi bar.bash
+./bar.bash
+clear
+./bar.bash
+vi bar.bash
+./bar.bash
+vi bar.bash
+clear
+./bar.bash
+cd
+vi .xinitrc
+clear
+q
+gentoo-pipewire-launcher&
+man sed
+q
+/home/jojito/github/arch-config/scripts/small/bar.bash&
+vi /home/jojito/github/arch-config/scripts/small/bar.bash
+exit
+gentoo-pipewire-launcher&
+./github/arch-config/scripts/small/bar.bash &
+sudo reboot
+gentoo-pipewire-launcher&
+bluetoothctl
+q
+sudo reboot
+grep --color -E "vmx|svm" /proc/cpuinfo
+clear
+cd /usr/src/linux-6.1.60-gentoo-dist
+ls
+sudo make menuconfig
+sudo make menuconfig
+sudo make menuconfig
+sudo make menuconfig
+sudo make menuconfig
+clear
+sudo make -j8
+cd ..
+ls
+cd 
+clear
+dmesg | grep 'IOMMU enabled'
+lspci -vv | grep -i 'Access Control Services'
+startx
+cd github/pfetch
+c
+./pfetch
+scrot
+c
+pavucontrol
+pavu
+clear
+q
+htop
+htop
+q
+htop
+clear
+./github/arch-config/scripts/small/bar.bash
+vi ./github/arch-config/scripts/small/bar.bash
+cat ./github/arch-config/scripts/small/bar.bash
+(curl -s wttr.in/burgas?format='%c+%t+(%f)'\
+)
+curl -s "wttr.in/burgas?format='%c+%t+(%f)'"
+curl -s "wttr.in/burgas"
+q
+gentoo-pipewire-launcher&
+bluetoothctl
+clear
+ls
+mkdir documents
+mkdir documents/work
+mv ss.txt documents/work
+clear
+ls
+cd github
+git clone https://git.suckless.org/surf
+clear
+ls
+cd surf
+ls
+clear
+ls
+make
+cd
+sudo emaint --auto sync
+sudo emerge --oneshot portage
+sudo emerge -aquDN @world
+clear
+cd github/surf
+make
+sudo emerge -aq webkit2gtk gcr
+sudo emerge -aq webkit-gtk gcr
+cfg-update 
+cfg-update -u
+sudo cfg-update -u
+clear
+sudo emerge -aq webkit-gtk gcr
+clear
+cd
+cd documents/work
+ls
+vi ss.txt
+clear
+ls
+cd
+cd github/surf
+sudo emerge -aq webkit-gtk gcr
+clear
+cd ../pfetch
+c
+./pfetch
+htop
+clear
+sudo emerge -aq scrot
+c
+./pfetch
+scrot
+q
+c
+sudo emerge -aq webkit-gtk gcr
+clear
+sudo emerge -aq pavucontrol
+pavucontrol
+clear
+sudo emerge -aq webkit-gtk gcr
+cd ../surf
+make -j8
+clear
+sudo emerge -aq webkit-gtk gcr
+c
+make
+sudo emerge -aq gcr-3
+sudo emerge -aq gcr3
+clear
+ls
+./surf-open.sh google.com
+clear
+cat README
+make clean install
+clear
+cat README
+q
+clear
+pavucontrol
+cd ../arch-config/scripts/small
+./bar.bash&
+cd
+mv books/sassy.jpg pictures/random
+cd github/arch-config/scripts/small
+vi bar.bash
+clear
+git commit add -A
+clear
+git add -a
+git add -A
+q
+cd
+c
+sudo poweroff
+ls
+vi .xinitrc
+clear
+gentoo-pipewire-launcher
+gentoo-pipewire-launcher&
+pavucontrol
+cd github/arch-config/scripts/small
+./bar.bash&
+vi bar.bash
+./bar.bash&
+vi bar.bash
+counter=3
+expr $counter % ( 60 * 15 )
+expr "$counter % ( 60 * 15 )"
+vi bar.bash
+eqn 60 * 15
+clear
+vi bar.bash
+./bar.bash
+./bar.bash &
+pavucontrol
+cd 
+cd books
+ls
+sudo emerge -aq zathura zathura-pdf-poppler
+sudo cfg-update -u
+sudo emerge -aq zathura zathura-pdf-poppler
+lsblk
+clear
+lsblk
+sudo mount /dev/nvme0n1p3 /mnt
+bluetoothctl
+clear
+lsblk
+sudo mount /dev/nvme0n1p3 /mnt
+sudo emerge -aq cryptsetup
+clear
+sudo mount /dev/nvme0n1p3 /mnt
+sudo cryptsetup luksOpen /dev/nvme0n1p3 myname
+sudo mount /dev/mapper/myname /mnt
+sudo cryptsetup luksClose myname
+clear
+ls
+clear
+cd
+clear
+sudo emerge -aq cryptsetup
+sudo nvim /etc/portage/make.conf
+clear
+sudo emerge -aquD --changed-use @world
+sudo cryptsetup luksOpen /dev/nvme0n1p3 myname
+ls
+clear
+sudo mount /dev/mapper/myname /mnt
+sudo vgscan
+sudo emerge -aq lvm2
+sudo vgscan
+vgscan
+sudo emerge -aq vgscan
+sudo lvdisplay
+sudo /etc/init.d/lvm start
+sudo rc-update add lvm boot
+sudo emerge --deselect lvm2
+sudo emerge --purge
+sudo emerge --depclean
+emerge --update --newuse --deep @world
+sudo emerge --update --newuse --deep @world
+sudo emerge --depclean
+sudo nvim /etc/portage/package.use
+sudo cfg-update -u
+clear
+ls
+sudo emerge -aq lvm2
+sudo /etc/init.d/lvm start
+sudo rc-update add lvm boot
+sudo vgscan
+sudo lvdisplay
+sudo mount /dev/mapper/data-root /mnt
+ls /mnt/home/jojito
+cp /mnt/home/jojito/.config/zathura/zathurarc zathurarc
+ls
+mkdir .config/zathura
+mv zathurarc .config/zathura
+clear
+ls
+sudo umount /mnt
+sudo cryptsetup luksClose /dev/mapper/myname
+lsblk
+sudo cryptsetup luksClose /dev/mapper/data-root
+sudo cryptsetup luksClose /dev/mapper/myname
+ls
+clear
+ls
+lsblk
+mkdir pictures/screenshots
+mv 2023-12-06-21* pictures/screenshots
+ls
+clear
+ls -a
+mkdir .local/bin
+ls
+vi .local/bin/sshot
+clear
+chmod 755 .local/bin/sshot
+ls
+cd pictures/screenshots
+ls
+cd 
+cd books
+zathura no-longer-human_osamu-dazai.pdf
+sudo emerge -aq zig-bin
+sudo touch /etc/portage/package.accept_keywords/zzz_autounmask 
+sudo emerge zig-bin --autounmask-write --autounmask
+sudo dispatch-conf
+emerge -aq zig-bin
+sudo emerge -aq zig-bin
+clear
+ls
+cd 
+ls
+cd pp
+ls
+mkdir zig-test
+cd zig-test
+mkdir hello-world
+cd hello-world
+zig init-exe
+zig build run
+clear
+ls
+cat src/main.zig
+zig build test
+zig test run
+clear
+zig build run
+zig build test
+ls
+cat src/main.zig
+cat build.zig
+clear
+cxd
+cd
+clear
+cargo install bat
+cd pp/zig-test/hello-world
+ls
+clear
+bat build.zig
+clear
+cd
+clear
+ls
+cd github/arch-config/dotfiles
+clear
+ls
+vi rust-install
+man cargo
+clear
+vi rust-install
+chmod 755 rust-install
+./rust-install
+clear
+cd
+clear
+ls
+clear
+ls
+zathura books/no-longer-human_osamu-dazai.pdf
+bluetoothctl
+zathura books/no-longer-human_osamu-dazai.pdf
+sudo rc-update hostname start
+sudo rc-update host start
+clear
+sudo rc-service hostname start
+cat /etc/host
+cat /etc/hostname
+hostname
+cat /etc/host.conf
+clear
+cat /etc/hosts
+sudo rc-service hostname stop
+sudo nvim /etc/hostname
+sudo rc-service hostname start
+lout
+gentoo-pipewire-launcher&
+bluetoothctl
+sudo rc-service bluetooth start
+clear
+ls
+hostname
+clear
+ls
+pavucontrol
+reboot
+sudo 1!
+sudo reboot
+gentoo-pipewire-launcher&
+bluetoothctl
+poweroff
+sudo poweroff
+startx
+gentoo-pipewire-launcher&
+bluetoothctl
+bluetoothctl
+c
+sudo emerge -aq fuse:0
+sudo emerge -aq sys-fs/fuse:0
+clear
+mv downloads/Obsidian-1.4.16.AppImage .local/bin/obsidian
+chmod 755 .local/bin/obsidian
+ls
+clear
+obsidian
+mkdir /tmp
+clear
+sudo emerge --dep
+sudo emerge --dep | grep --dep
+sudo emerge --depclean sys-fs/fuse
+sudo emerge --depclean sys-fs/fuse:0
+sudo emerge --deselect fuse
+sudo emerge --depclean
+emerge --update --newuse --deep @world
+sudo emerge --update --newuse --deep @world
+sudo emerge --depclean
+clear
+ls
+sudo emerge -aq fuse
+sudo emerge -aq app-emulation/fuse
+clear
+sudo emerge -aq flatpak
+flatpak remote-add --user --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+clear
+flatpak install flathub md.obsidian.Obsidian
+sudo flatpak install flathub md.obsidian.Obsidian
+clear
+flatpak run md.obsidian.Obsidian
+clear
+rm -rf .local/bin/obsidian
+echo "flatpak run md.obsidian.Obsidian" > .local/bin/obsidian
+clear
+vi .local/bin/obsidian
+bat github/st/config.h
+bat github/dwm/config.h
+chmod 755 .local/bin/obsidian
+obsidian
+obsidian
+obsidian
+obsidian
+flatpak run md.obsidian.Obsidian
+vi .xinitrc
+lout
+ls
