@@ -22,7 +22,8 @@ while :; do
     
     # set xsetroot name ($DISPLAY is an environment variable declared by the system when
     # an xsession is started)
-    printing="$weather | 🔋 $battery | $curr_date  🕰 $curr_time"
+    printing=`echo "$weather | 🔋 $battery | $curr_date  🕰 $curr_time" | sed 's/\xef\xd8\x8f//g'`
+
     xsetroot -d "$DISPLAY" -name "$printing"
     # update counter
     counter=$(expr $counter + 1)

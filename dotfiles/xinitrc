@@ -18,6 +18,12 @@ setxkbmap -layout gb,bg -option grp:win_space_toggle
 # xwinwrap -ov -g 1920x1080+0+0 -- mpv -wid WID "$HOME/videos/spirited-away" --no-osc --no-osd-bar --loop-file --player-operation-mode=cplayer --no-audio --panscan=1.0 --no-input-default-bindings &
 feh --bg-scale $HOME/pictures/wallpapers/wallpaper
 
+# audio
+/usr/bin/pipewire &
+/usr/bin/pipewire-pulse &
+/usr/bin/wireplumber &
+
+
 # finally start dwm
 # dbus-launch --exit-with-session dwm
 dwm
