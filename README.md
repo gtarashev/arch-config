@@ -1,3 +1,6 @@
+# Moved to (config)[https://github.com/gtarashev/config]
+
+
 # Arch Config
 This repo used to be my Arch Linux config which included some dot files and other scripts that I use more regularly.
 
